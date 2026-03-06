@@ -1,0 +1,27 @@
+{
+  "date": "2026-03-06",
+  "localDateLabel": "Friday, March 6, 2026",
+  "summary": "The feeds were quiet today, so the page falls back to a minimal date marker and waits for tomorrow’s cycle.",
+  "headlines": [
+    {
+      "title": "No fresh headlines survived the daily filter",
+      "description": "The free feeds did not produce enough current items inside the rolling freshness window.",
+      "sourceId": "system",
+      "sourceName": "System Fallback",
+      "sourceUrl": "https://github.com/",
+      "link": "https://github.com/",
+      "publishedAt": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "system",
+      "name": "System Fallback",
+      "siteUrl": "https://github.com/"
+    }
+  ],
+  "theme": "citrus",
+  "layout": "poster",
+  "seed": "2026-03-06-4548373f",
+  "generatedAt": "2026-03-06T21:52:06.401Z"
+}

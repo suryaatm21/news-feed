@@ -1,0 +1,68 @@
+name: Daily Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '32 12 * * *'
+    - cron: '32 13 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.4.1
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate daily snapshot
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: npm run generate:daily
+
+      - name: Detect generated changes
+        id: changes
+        run: |
+          if [[ -n "$(git status --porcelain -- content data)" ]]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Require configured commit email
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GIT_COMMIT_EMAIL: ${{ vars.GIT_COMMIT_EMAIL }}
+        run: |
+          if [[ -z "$GIT_COMMIT_EMAIL" ]]; then
+            echo "Set repository variable GIT_COMMIT_EMAIL to an email already linked to your GitHub account."
+            exit 1
+          fi
+
+      - name: Extract generated date
+        if: steps.changes.outputs.has_changes == 'true'
+        id: snapshot
+        run: |
+          echo "date=$(node -e "console.log(JSON.parse(require('node:fs').readFileSync('data/latest.json', 'utf8')).date)")" >> "$GITHUB_OUTPUT"
+
+      - name: Commit daily snapshot
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GIT_COMMIT_EMAIL: ${{ vars.GIT_COMMIT_EMAIL }}
+          GIT_COMMIT_NAME: ${{ vars.GIT_COMMIT_NAME }}
+        run: |
+          git config user.email "$GIT_COMMIT_EMAIL"
+          git config user.name "${GIT_COMMIT_NAME:-${{ github.repository_owner }}}"
+          git add content data
+          git commit -m "chore(daily): ${{ steps.snapshot.outputs.date }} snapshot"
+          git push

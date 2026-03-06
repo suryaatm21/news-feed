@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ars Technica</title>
+  <entry>
+    <title>Launch provider delays reusable rocket test after sensor anomaly</title>
+    <link href="https://arstechnica.com/space/2026/03/reusable-rocket-test/" />
+    <summary>Engineers paused the countdown when a telemetry channel produced out-of-family readings.</summary>
+    <updated>2026-03-06T08:15:00Z</updated>
+  </entry>
+  <entry>
+    <title>Open-source browser patch closes memory leak tied to video tabs</title>
+    <link href="https://arstechnica.com/gadgets/2026/03/browser-memory-leak/" />
+    <summary><![CDATA[Maintainers say the issue mostly appeared on machines that stayed awake for days at a time.]]></summary>
+    <updated>2026-03-05T03:00:00Z</updated>
+  </entry>
+</feed>

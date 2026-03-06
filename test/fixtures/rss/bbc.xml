@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BBC World</title>
+    <item>
+      <title>Markets steady as central bank signals patience on rates</title>
+      <link>https://www.bbc.com/news/business-123456</link>
+      <description>Investors reacted calmly after policymakers indicated they need more data before moving.</description>
+      <pubDate>Fri, 06 Mar 2026 11:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Storm warnings remain in place after coastal flooding overnight</title>
+      <link>https://www.bbc.com/news/world-654321</link>
+      <description><![CDATA[Emergency workers are assessing transport damage while more rain moves inland.]]></description>
+      <pubDate>Thu, 05 Mar 2026 18:55:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

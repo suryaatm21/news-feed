@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The Guardian World</title>
+    <item>
+      <title>Ukraine allies pledge more air defense support before weekend summit</title>
+      <link>https://www.theguardian.com/world/2026/mar/06/air-defence-summit</link>
+      <description>Officials said the new package would arrive in phases over the coming months.</description>
+      <pubDate>Fri, 06 Mar 2026 10:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Senators negotiate late budget package after overnight talks</title>
+      <link>https://www.theguardian.com/world/2026/mar/06/budget-talks</link>
+      <description>A parallel write-up covers the same U.S. spending negotiations from a different desk.</description>
+      <pubDate>Fri, 06 Mar 2026 12:05:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NPR Top Stories</title>
+    <item>
+      <title>Senators negotiate late budget package after overnight talks</title>
+      <link>https://www.npr.org/2026/03/06/budget-package</link>
+      <description><![CDATA[Lawmakers say the proposal keeps agencies funded while extending debate over border policy.]]></description>
+      <pubDate>Fri, 06 Mar 2026 12:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wildfire crews hold mountain line as winds weaken across the West</title>
+      <link>https://www.npr.org/2026/03/06/wildfire-line</link>
+      <description>Fire officials report better containment after a difficult night in steep terrain.</description>
+      <pubDate>Fri, 06 Mar 2026 09:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
