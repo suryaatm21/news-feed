@@ -119,7 +119,7 @@ function pageShell(
 
 function renderHomePage(entry: DailyEntry, archive: ArchiveRecord[], siteBasePath: string): string {
   return pageShell(
-    `${entry.localDateLabel} | Git Populate`,
+    `${entry.localDateLabel} | News Feed`,
     entry,
     archive,
     siteBasePath,
@@ -134,7 +134,7 @@ function renderHomePage(entry: DailyEntry, archive: ArchiveRecord[], siteBasePat
 
 function renderDayPage(entry: DailyEntry, archive: ArchiveRecord[], siteBasePath: string): string {
   return pageShell(
-    `${entry.localDateLabel} Archive | Git Populate`,
+    `${entry.localDateLabel} Archive | News Feed`,
     entry,
     archive,
     siteBasePath,
@@ -161,7 +161,7 @@ function renderDayPage(entry: DailyEntry, archive: ArchiveRecord[], siteBasePath
 
 function renderArchivePage(latest: DailyEntry, archive: ArchiveRecord[], siteBasePath: string): string {
   return pageShell(
-    'Archive | Git Populate',
+    'Archive | News Feed',
     latest,
     archive,
     siteBasePath,

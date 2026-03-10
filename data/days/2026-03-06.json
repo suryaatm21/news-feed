@@ -1,27 +1,81 @@
 {
   "date": "2026-03-06",
   "localDateLabel": "Friday, March 6, 2026",
-  "summary": "The feeds were quiet today, so the page falls back to a minimal date marker and waits for tomorrow’s cycle.",
+  "summary": "Today’s pulse tracks Middle East crisis live: Israel bombs Tehran and Beirut as Iran warns Europe to stay out of conflict or face ‘retaliation’, Trump says Cuba is ‘going to fall pretty soon’ after White House comments – live, and ICE arrests US Spanish-language news outlet reporter without warrant. Across The, the strongest repeated signals are continue, reading, and israel. In the background, Jesse Jackson hailed as ‘ambassador of hope’ at memorial attended by Clintons, Obama and Biden and Investors are expecting Donald Trump to back down in the war with Iran – but what if he doesn’t keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "No fresh headlines survived the daily filter",
-      "description": "The free feeds did not produce enough current items inside the rolling freshness window.",
-      "sourceId": "system",
-      "sourceName": "System Fallback",
-      "sourceUrl": "https://github.com/",
-      "link": "https://github.com/",
-      "publishedAt": null
+      "title": "Middle East crisis live: Israel bombs Tehran and Beirut as Iran warns Europe to stay out of conflict or face ‘retaliation’",
+      "description": "Israel launched huge attacks on Iran and Lebanon overnight; Iran’s deputy foreign minister warns that any nations that join in US-Israel attacks will become ‘legitimate targets’ Tell us: how have you been affected by the latest events in the Middle East? Iran and Lebanon were hit with a wave of intense Israeli strikes overnight. Israel’s military said Friday morning it had begun “a broad-scale wave of strikes” on Tehran , Iran’s capital. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+      "publishedAt": "Fri, 06 Mar 2026 23:13:27 GMT"
+    },
+    {
+      "title": "Trump says Cuba is ‘going to fall pretty soon’ after White House comments – live",
+      "description": "President tells CNN country is going to ‘fall’ after earlier in the week claiming Cuba ‘wants to make a deal so badly’ US lost 92,000 jobs in February just before Trump joined Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox Military investigators believe it is likely that US forces were responsible for an apparent strike on an Iranian girls’ school that killed scores of children on Saturday but have not yet reached a final conclusion, two US officials tell Reuters . Reuters was unable to determine further details about the investigation, including what evidence contributed to the tentative assessment, what type of munition was used, who was responsible or why the US might have struck the school. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
+      "publishedAt": "Fri, 06 Mar 2026 23:06:25 GMT"
+    },
+    {
+      "title": "ICE arrests US Spanish-language news outlet reporter without warrant",
+      "description": "Estefany Rodriguez Florez of Nashville Noticias, who had produced reports that were unflattering to ICE, was arrested during traffic stop US Immigration and Customs Enforcement ( ICE ) arrested a Spanish-language Tennessee news outlet’s reporter who had done stories critical of the agency – but agents didn’t have a warrant, according to court documents filed recently by her lawyer. A court filing Friday by ICE disputes the assertion that the reporter was arrested without a warrant. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/mar/06/ice-arrests-journalist-nashville-noticias",
+      "publishedAt": "Fri, 06 Mar 2026 23:02:42 GMT"
+    },
+    {
+      "title": "Jesse Jackson hailed as ‘ambassador of hope’ at memorial attended by Clintons, Obama and Biden",
+      "description": "Thousands in Chicago honored civil rights ‘champion’ who ‘stepped forward again and again’, Obama said At the longtime civil rights activist’s memorial celebration on Friday, the Rev Jesse Jackson was remembered as a “champion” for the “poor and the dispossessed” – as well as “one of the most effective community and political organizers of our time”. Such tributes came from past Democratic US presidents Barack Obama , Bill Clinton and Joe Biden , along with former vice-president Kamala Harris , who received cheers and applause while they joined thousands of others in a Chicago church for a celebration of life for Jackson. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago",
+      "publishedAt": "Fri, 06 Mar 2026 23:01:06 GMT"
+    },
+    {
+      "title": "Investors are expecting Donald Trump to back down in the war with Iran – but what if he doesn’t?",
+      "description": "Global markets have become inured to the US president’s posturing over the past year, but economists warn they may be ‘a little bit complacent’ in anticipating a short conflict in the Middle East Investors over the past year have learned that Donald Trump has a boundless capacity to quickly reverse course in the face of acute political or market pressures. But a week since the United States and Israel launched missile strikes on Iran, there are fears the war could morph into a protracted conflict. Patrick Commins is Guardian Australia’s economics editor Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/mar/06/investors-are-expecting-donald-trump-to-back-down-in-the-war-with-iran-but-what-if-he-doesnt",
+      "publishedAt": "Fri, 06 Mar 2026 23:00:34 GMT"
+    },
+    {
+      "title": "Ex-Liberal MP says the party must introduce gender quotas to start winning elections",
+      "description": "Jenny Ware says party is ‘at crisis point’ and cannot be competitive at election time unless it selects candidates who better reflect the makeup of Australia Get our breaking news email , free app or daily news podcast The former Liberal MP Jenny Ware says her party must implement gender quotas for candidates for office, warning the opposition “cannot get back into government” without putting forward candidates who are more reflective of the broader community. Ware, who lost her seat of Hughes at the 2025 election, said it was “deeply embarrassing” that the Liberal party executive had not released its own review of the electoral wipeout, and which was then tabled in parliament by Anthony Albanese this week. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/06/australian-liberal-party-gender-quotas",
+      "publishedAt": "Fri, 06 Mar 2026 23:00:33 GMT"
+    },
+    {
+      "title": "London man charged with manslaughter in case that links alleged domestic abuse to suicide",
+      "description": "Gillian Morand, 36, died in Bexley, south-east London in 2020 after which allegations against her husband emerged A man has been charged with manslaughter over the death of a woman in 2020, in a rare prosecution of alleged domestic abuse linked to suicide, police have said. Gillian Morand, 36, died in Bexley, south-east London, and an inquest concluded she had taken her own life. Continue reading...",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/06/london-man-charged-manslaughter-gillian-morand-suicide",
+      "publishedAt": "Fri, 06 Mar 2026 22:31:16 GMT"
     }
   ],
   "sources": [
     {
-      "id": "system",
-      "name": "System Fallback",
-      "siteUrl": "https://github.com/"
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
     }
   ],
   "theme": "citrus",
   "layout": "poster",
   "seed": "2026-03-06-4548373f",
-  "generatedAt": "2026-03-06T21:52:06.401Z"
+  "generatedAt": "2026-03-06T23:17:19.663Z"
 }

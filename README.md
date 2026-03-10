@@ -1,55 +1,49 @@
-# Git Populate
+# News Feed
 
-Git Populate creates one dated Markdown snapshot per day, commits it to `main`, and turns the latest entry into a mobile-friendly GitHub Pages site with a deterministic visual surprise.
+News Feed is a personal automated news digest that archives daily highlights while powering your GitHub contribution graph. 
 
-## What it does
+It creates one dated Markdown snapshot per day, commits it to `main`, and publishes a mobile-friendly site with a deterministic visual theme that changes with every new entry.
 
-- Pulls free public RSS feeds from NPR, BBC World, The Guardian World, and Ars Technica.
-- Filters stale items older than 36 hours, deduplicates similar headlines, and writes a short local summary.
-- Stores each day twice:
-  - `content/days/YYYY-MM-DD.md`
-  - `data/days/YYYY-MM-DD.json`
-- Updates `data/latest.json` and `data/archive.json` for the static site.
-- Publishes one stable bookmark URL plus immutable dated archive pages.
+## Features
 
-## Local commands
+- **Automated Retrieval**: Pulls from curated RSS feeds including BBC World, NPR, The Guardian, and Ars Technica.
+- **Smart Filtering**: Deduplicates similar headlines and filters for fresh content (published within 36 hours).
+- **Daily Archive**: Stores snapshots in `content/days/` and `data/days/` for a permanent personal record.
+- **Continuous Activity**: Ensures your GitHub profile shows active daily contributions with automated, meaningful commits.
+- **Dynamic Visuals**: A chaos-driven design system that selects unique layouts and palettes every day.
+
+## Local Development
 
 ```bash
+# Install dependencies
 npm install
+
+# Generate today's snapshot locally (ignores the 8:30 AM window)
 ALLOW_OUTSIDE_WINDOW=1 npm run generate:daily
-SITE_BASE_PATH=/git-populate/ npm run build
-npm test
+
+# Build the static site
+SITE_BASE_PATH=/news-feed/ npm run build
+
+# Preview the site
+npx serve dist
 ```
 
-## GitHub setup
+## GitHub Automation Setup
 
-1. Create a GitHub repository from this folder and push `main`.
-2. Keep the repo private first if your plan supports Pages on private repositories. If not, switch the repo to public so the free Pages URL works cleanly.
-3. In GitHub, go to `Settings > Pages` and set the source to `GitHub Actions`.
-4. In `Settings > Secrets and variables > Actions > Variables`, add:
-   - `GIT_COMMIT_EMAIL`: an email already linked to your GitHub account. This is required for contribution graph credit.
-   - `GIT_COMMIT_NAME`: optional display name for the daily bot commit.
-5. Enable Actions for the repository.
-6. After the first successful Pages deploy, bookmark:
-   - project site: `https://<your-user>.github.io/<repo>/`
-   - user site repo: `https://<your-user>.github.io/`
+1. **Create the Repo**: Create a public repository named `news-feed`.
+2. **Push Code**: Push this folder to your `main` branch.
+3. **Enable Pages**: Go to `Settings > Pages` and set the source to **GitHub Actions**.
+4. **Configure Variables**: Go to `Settings > Secrets and variables > Actions > Variables` and add:
+   - `GIT_COMMIT_EMAIL`: A verified email on your GitHub account (required for contribution credit).
+   - `GIT_COMMIT_NAME`: (Optional) The name to use for the bot's commits.
+5. **Set Permissions**: Ensure Actions have `Read and write permissions` under `Settings > Actions > General`.
 
-## Schedule behavior
+## How it Works
 
-- The workflow is scheduled twice daily in UTC: `32 12 * * *` and `32 13 * * *`.
-- The generator only writes a new entry when the local time in `America/New_York` lands in the 8:30 AM window.
-- During daylight saving transitions, one of the two schedules matches 8:32 AM local time and the other safely no-ops.
-- Manual runs via `workflow_dispatch` bypass the time window.
+The project is scheduled via GitHub Actions to run twice daily. It will only generate a new entry once per day (usually targeting the 8:30 AM New York window). If a manual run is triggered, it will bypass the time window and generate the entry immediately.
 
-## Chaos system
+If the feeds are quiet or the network fails, the system generates a fallback entry to maintain your commit streak and site stability.
 
-- The content stays informative.
-- The visuals change every day based on the date seed.
-- The seed picks one of three layouts: `orbit`, `poster`, or `ticker`.
-- The seed also picks one of six palettes: `sunprint`, `ember`, `lagoon`, `citrus`, `nocturne`, or `newsprint`.
+## License
 
-## Notes
-
-- GitHub contribution activity only updates after commits are pushed to the default branch on GitHub.
-- The stable bookmark is the homepage. Historical entries are also available at `days/YYYY-MM-DD/`.
-- If all feeds fail or return nothing current, the generator still writes a fallback daily entry so the contribution streak can continue.
+This project is available under the [MIT License](LICENSE).
