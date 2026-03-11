@@ -46,7 +46,7 @@ export function filterFreshHeadlines(headlines: Headline[], now: Date): Headline
   });
 }
 
-export function selectDiverseHeadlines(headlines: Headline[], min = 5, max = 7): Headline[] {
+export function selectDiverseHeadlines(headlines: Headline[], min = 5, max = 6): Headline[] {
   const sorted = [...headlines].sort((left, right) => publishedTimestamp(right) - publishedTimestamp(left));
   const selected: Headline[] = [];
   const seenSignatures = new Set<string>();
@@ -94,4 +94,13 @@ export function uniqueSources(headlines: Headline[]): Array<{ id: string; name: 
     }
   }
   return [...seen.values()];
+}
+
+/**
+ * Builds a diverse pool of headlines for client-side refresh rotation.
+ * Returns up to `maxPool` deduplicated, diverse headlines sorted by recency,
+ * giving the client enough variety to present a meaningfully different set.
+ */
+export function buildHeadlinePool(headlines: Headline[], maxPool = 15): Headline[] {
+  return selectDiverseHeadlines(headlines, 0, maxPool);
 }

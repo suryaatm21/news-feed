@@ -44,6 +44,9 @@ test('generator smoke test writes markdown, json, and build output in sync', asy
   assert.match(latestJson, /"date": "2026-03-06"/);
   assert.match(homepage, /base href="\/git-populate\/"/);
   assert.match(homepage, /seed/);
+  assert.match(homepage, /id="refresh-btn"/);
+  assert.match(homepage, /id="entry-data"/);
+  assert.match(homepage, /class="pin-btn"/);
 
   const secondRun = await generateDailySnapshot({
     rootDir,

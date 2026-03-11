@@ -30,6 +30,8 @@ export interface DailyEntry {
   localDateLabel: string;
   summary: string;
   headlines: Headline[];
+  /** Larger pool of diverse headlines for client-side refresh rotation. */
+  headlinePool?: Headline[];
   sources: Array<{
     id: string;
     name: string;

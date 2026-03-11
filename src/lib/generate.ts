@@ -3,7 +3,7 @@ import { DEFAULT_FEEDS } from '../config/feeds';
 import { createChaos } from './chaos';
 import { persistDailyEntry, entryExists } from './content';
 import { DEFAULT_TIMEZONE, TARGET_PUBLISH_HOUR, TARGET_PUBLISH_MINUTE, formatLocalDateLabel, getDateKey, isWithinPublishWindow } from './date';
-import { filterFreshHeadlines, selectDiverseHeadlines, uniqueSources } from './headlines';
+import { buildHeadlinePool, filterFreshHeadlines, selectDiverseHeadlines, uniqueSources } from './headlines';
 import { fetchFeedXml, parseFeedXml } from './rss';
 import { createSummary } from './summarize';
 import type { DailyEntry, Headline } from '../types';
@@ -94,6 +94,7 @@ export async function generateDailySnapshot(
   const fresh = filterFreshHeadlines(headlines, now);
   const selected = selectDiverseHeadlines(fresh);
   const finalHeadlines = selected.length > 0 ? selected : fallbackHeadlines();
+  const pool = buildHeadlinePool(fresh);
   const chaos = createChaos(date);
 
   const entry: DailyEntry = {
@@ -101,6 +102,7 @@ export async function generateDailySnapshot(
     localDateLabel: formatLocalDateLabel(displayDate, DEFAULT_TIMEZONE),
     summary: createSummary(finalHeadlines),
     headlines: finalHeadlines,
+    headlinePool: pool,
     sources: uniqueSources(finalHeadlines),
     theme: chaos.theme,
     layout: chaos.layout,
