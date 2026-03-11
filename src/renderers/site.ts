@@ -573,16 +573,17 @@ a {
 /* Wrapper for datepicker + clear button */
 .archive-picker-wrap {
   position: relative;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 0.4rem;
   margin: 0.55rem 0 0.5rem;
-  width: fit-content;
+  width: 100%;
 }
 
 .archive-picker-wrap .archive-search {
   margin: 0;
-  width: auto;
+  flex: 1;
+  min-width: 0;
 }
 
 .archive-clear-btn {
