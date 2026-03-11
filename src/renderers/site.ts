@@ -929,7 +929,7 @@ function buildSnapshot(headlines) {
   }
   const leadSentence = 'Today\u2019s pulse tracks ' + fmtList(lead) + '.';
   // Top-3 keywords across all titles (>4 chars, skip stop words)
-  const stop = new Set(['about','after','amid','around','because','being','from','into','over','that','their','there','these','this','with','will','your']);
+  const stop = new Set(['about','after','alerts','amid','around','because','being','continue','email','follow','from','into','latest','newsletter','over','podcast','reading','signup','subscribe','that','their','there','these','this','today','updates','with','will','your']);
   const freq = new Map();
   headlines.forEach(function(h) {
     h.title.toLowerCase().split(/[^a-z0-9]+/).forEach(function(t) {
@@ -937,7 +937,10 @@ function buildSnapshot(headlines) {
     });
   });
   const kws = [...freq.entries()].sort(function(a, b) { return b[1] - a[1] || a[0].localeCompare(b[0]); }).slice(0, 3).map(function(e) { return e[0]; });
-  const sources = [...new Set(headlines.map(function(h) { return h.sourceName.split(' ')[0]; }))].slice(0, 4);
+  function shortSrc(name) {
+    return name.replace(/^The\s+/i, '').replace(/\s+(?:Top\s+Stories?|World|News|Stories|International|Global)$/i, '').trim() || name;
+  }
+  const sources = [...new Set(headlines.map(function(h) { return shortSrc(h.sourceName); }))].slice(0, 4);
   const srcSentence = kws.length > 0
     ? 'Across ' + fmtList(sources) + ', the strongest repeated signals are ' + fmtList(kws) + '.'
     : 'Across ' + fmtList(sources) + ', the tone stays broad rather than concentrated on one single thread.';

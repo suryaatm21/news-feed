@@ -3,22 +3,48 @@ import type { Headline } from '../types';
 const STOP_WORDS = new Set([
   'about',
   'after',
+  'alerts',
   'amid',
   'around',
   'because',
   'being',
+  'continue',
+  'email',
+  'follow',
   'from',
   'into',
+  'latest',
+  'newsletter',
   'over',
+  'podcast',
+  'reading',
+  'signup',
+  'subscribe',
   'that',
   'their',
   'there',
   'these',
   'this',
+  'today',
+  'updates',
   'with',
   'will',
   'your'
 ]);
+
+/**
+ * Returns a short, display-friendly source name by stripping common prefixes
+ * ("The ") and generic suffixes ("World", "Stories", "News", "Top Stories").
+ * e.g. "The Guardian World" → "Guardian", "NPR Top Stories" → "NPR", "BBC World" → "BBC".
+ */
+function shortSourceName(name: string): string {
+  return (
+    name
+      .replace(/^The\s+/i, '')
+      .replace(/\s+(?:Top\s+Stories?|World|News|Stories|International|Global)$/i, '')
+      .trim() || name
+  );
+}
 
 function keywordsFromText(text: string): string[] {
   return text
@@ -72,7 +98,7 @@ export function createSummary(headlines: Headline[]): string {
   const leadSentence = `Today’s pulse tracks ${formatList(leadTitles)}.`;
 
   const keywords = topKeywords(headlines);
-  const sources = [...new Set(headlines.map((headline) => headline.sourceName.split(' ')[0]))].slice(0, 4);
+  const sources = [...new Set(headlines.map((headline) => shortSourceName(headline.sourceName)))].slice(0, 4);
   const sourceSentence =
     keywords.length > 0
       ? `Across ${formatList(sources)}, the strongest repeated signals are ${formatList(keywords)}.`
