@@ -27,6 +27,9 @@ jobs:
 
       - name: Generate daily snapshot
         env:
+          # GitHub's scheduled workflows can start late; avoid skipping a whole day
+          # because the runner began outside the intended publish minute window.
+          ALLOW_OUTSIDE_WINDOW: '1'
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: npm run generate:daily
 
