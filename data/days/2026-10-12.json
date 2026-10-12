@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-12",
+  "localDateLabel": "Monday, October 12, 2026",
+  "summary": "Today’s pulse tracks Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says, Analysis: Trump's global headaches worsen weeks before crucial elections, and Qantas flight grounded after bedbug outbreak. Across BBC and Guardian, the strongest repeated signals are trump, energy, and russia. In the background, Pupil arrested after two teachers shot at French school and Australia politics live: Greens at odds about Ukraine weapons; Robert Pether speaks after Iraq prison release keep the wider picture in motion.",
+  "headlines": [
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT"
+    },
+    {
+      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "description": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:07:25 GMT"
+    },
+    {
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:01:45 GMT"
+    },
+    {
+      "title": "Pupil arrested after two teachers shot at French school",
+      "description": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:01:28 GMT"
+    },
+    {
+      "title": "Australia politics live: Greens at odds about Ukraine weapons; Robert Pether speaks after Iraq prison release",
+      "description": "Follow the day’s news live Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "publishedAt": "Mon, 12 Oct 2026 21:00:43 GMT"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 20:54:09 GMT"
+    }
+  ],
+  "headlinePool": [
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT"
+    },
+    {
+      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "description": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:07:25 GMT"
+    },
+    {
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:01:45 GMT"
+    },
+    {
+      "title": "Pupil arrested after two teachers shot at French school",
+      "description": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:01:28 GMT"
+    },
+    {
+      "title": "Australia politics live: Greens at odds about Ukraine weapons; Robert Pether speaks after Iraq prison release",
+      "description": "Follow the day’s news live Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "publishedAt": "Mon, 12 Oct 2026 21:00:43 GMT"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 20:54:09 GMT"
+    },
+    {
+      "title": "Archbishop of US military condemns Pentagon plans to livestream execution",
+      "description": "Timothy Broglio says Catholics on army firing squad should ask to be excused since it clashes with church teachings The archbishop who oversees the spiritual care of Catholics serving in the US military condemned the Pentagon’s proposed plans to livestream the firing squad execution of Nidal Hasan later this year. Archbishop Timothy Broglio also stipulated in a Monday statement that any Catholic soldier assigned to the US army firing squad should ask to be excused from that duty, which he described as contrary to the teachings of the church. He joins other Catholic leaders in speaking out against the death penalty and the live stream plans.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
+      "publishedAt": "Mon, 12 Oct 2026 20:33:21 GMT"
+    },
+    {
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 20:17:37 GMT"
+    },
+    {
+      "title": "Selma Blair arrested at JFK after she allegedly attacked flight attendants",
+      "description": "Several news outlets reported Blair allegedly punched a flight attendant, bit another and tried to open plane door The actor Selma Blair was arrested on Sunday at John F Kennedy (JFK) airport in New York on allegations that she attacked flight attendants on a Delta Air Lines flight, according to officials. Blair’s arrest happened at about 11pm, after Port Authority of New York and New Jersey officials said they responded to a call “about a physically abusive passenger aboard Delta Air Lines flight 938 which was parked at the gate” at JFK after arriving from Los Angeles (LAX).",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "publishedAt": "Mon, 12 Oct 2026 20:03:54 GMT"
+    },
+    {
+      "title": "BBC to stop recording The Archers in Birmingham for first time in its 75-year history",
+      "description": "Plans for a new theatre for world’s longest-running soap in Digbeth scrapped as part of cost-cutting measures The BBC is set to stop recording The Archers in Birmingham for the first time in the show’s 75-year history, after scrapping plans for a radio drama theatre that was to be the new home of the world’s longest-running soap opera. A pledge to move recordings to the so-called Tea Factory, the BBC’s new Birmingham hub in Digbeth, has become the latest victim of the corporation’s £500m cuts plan .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
+      "publishedAt": "Mon, 12 Oct 2026 19:56:09 GMT"
+    },
+    {
+      "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
+      "description": "PM hails next month’s ‘reset’ summit as first step to closer ties, but tensions over trade may prove problematic Andy Burnham has promised a “serious dialogue” over the UK’s future place in Europe, saying the existing relationship is “not good enough” as he framed next month’s Brussels summit as a possible first step to EU membership. The prime minister said Britain must take a “clear-eyed rational look” at its long-term relationship with the bloc to boost economic growth and control immigration, which needed to go beyond Labour’s existing red lines.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+      "publishedAt": "Mon, 12 Oct 2026 19:15:11 GMT"
+    },
+    {
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 18:31:32 GMT"
+    },
+    {
+      "title": "Mahmood orders urgent security review after killing of Ann Widdecombe",
+      "description": "Home secretary also expands police support ‘with immediate effect’ for high-profile public figures not currently MPs Security arrangements for high-profile public figures including politicians and members of the royal family are to be urgently reviewed after the killing of Ann Widdecombe , the home secretary has said. Shabana Mahmood said former MPs, party leaders who are not MPs, peers, former members of devolved parliaments and party spokespeople will also be offered police support.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
+      "publishedAt": "Mon, 12 Oct 2026 18:20:23 GMT"
+    },
+    {
+      "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
+      "description": "Top House Democrats question the ‘corrupt weaponization’ of federal government against Trump’s adversaries Ilhan Omar ’s Democratic colleagues have condemned federal agents’ search of the Minnesota congresswoman’s home on Monday morning, describing it as “deeply disturbing” and emblematic of the Trump administration ’s “corrupt weaponization” of the US government. House Democratic leaders, including minority leader Hakeem Jeffries, party whip Katherine Clark and caucus chair Pete Aguilar, issued a joint statement excoriating the president for the search.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
+      "publishedAt": "Mon, 12 Oct 2026 17:57:28 GMT"
+    },
+    {
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "description": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "publishedAt": "Mon, 12 Oct 2026 17:52:36 +0000"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    }
+  ],
+  "theme": "ember",
+  "layout": "ticker",
+  "seed": "2026-10-12-4554f1be",
+  "generatedAt": "2026-10-12T21:21:31.427Z"
+}
