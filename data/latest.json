@@ -1,214 +1,214 @@
 {
-  "date": "2026-10-18",
-  "localDateLabel": "Sunday, October 18, 2026",
-  "summary": "Today’s pulse tracks Oil facilities hit in deadly overnight attack on St Petersburg, US ambassador to Israel denounces West Bank settler attack on US photojournalist, and Multiple people killed as Canadian authorities tackle active blaze at Alberta military base. Across BBC and Guardian, the strongest repeated signals are attack, israel, and mayor. In the background, Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself and French government in crisis talks after ‘colossal failure of the state’ keep the wider picture in motion.",
+  "date": "2026-10-19",
+  "localDateLabel": "Monday, October 19, 2026",
+  "summary": "Today’s pulse tracks French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live, Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live, and Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC. Across Guardian and BBC, the strongest repeated signals are curfews, french, and partial. In the background, Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' and France imposes partial curfews in several cities, including parts of Paris keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+      "description": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will no doubt hear more on this from local authorities, as in the example of Marseille ( 10:32 ).",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "publishedAt": "Mon, 19 Oct 2026 18:29:23 GMT"
+    },
+    {
+      "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+      "description": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom This comes, just over two weeks away from the November midterms, as the president continues crisscrossing the country as part of his campaign blitz for embattled Republicans.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "publishedAt": "Mon, 19 Oct 2026 18:29:18 GMT"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 15:46:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT"
     },
     {
-      "title": "US ambassador to Israel denounces West Bank settler attack on US photojournalist",
-      "description": "Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as a “despicable act of terror” and called for the arrest and prosecution of those responsible. Levine, an award-winning journalist who lives in Israel, was set upon last Friday by masked Israeli settlers who used clubs and other weapons to attack Palestinian people attempting to harvest their olives in occupied West Bank towns.",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:22:48 GMT"
+    },
+    {
+      "title": "France imposes partial curfews in several cities, including parts of Paris",
+      "description": "Interior minister concedes police ‘lost control’ of weekend protests and says he is ‘fully resolved to restore public order’ Europe live – latest updates Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the French prime minister, said after an emergency cabinet meeting on Monday he was “fully resolved to restore public order” and had called for “local and partial” curfews if needed. There was “no question” of imposing a full curfew on entire cities, he said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "publishedAt": "Sun, 18 Oct 2026 15:33:38 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "publishedAt": "Mon, 19 Oct 2026 18:16:45 GMT"
     },
     {
-      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-      "description": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there have been both fatalities and injuries as a result of an incident on the base,” said David McGuinty. The defence minister described the situation at CFB Wainwright as “active and delicate” with the fire being monitored very closely, telling reporters that high winds had worsened the fire.",
+      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+      "description": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”. She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday. The militants broke four vertebrae and a rip, ripped open her finger so it required surgery and left her with lacerations across her body.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "publishedAt": "Sun, 18 Oct 2026 15:31:33 GMT"
-    },
-    {
-      "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
-      "description": "Female colleague says she was forced out shortly after incident with Luke Campbell, Hull and East Yorkshire mayor A Reform UK mayor is under police investigation for allegedly showing “naked and sexualised” images of himself to a female member of staff. Luke Campbell, a former Olympic boxing champion and the mayor of Hull and East Yorkshire, is understood to have been questioned under caution by Humberside police earlier this month.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
-      "publishedAt": "Sun, 18 Oct 2026 15:18:04 GMT"
-    },
-    {
-      "title": "French government in crisis talks after ‘colossal failure of the state’",
-      "description": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in cities across the country . Politicians on the left and right called for the resignation of the interior minister, Laurent Nuñez, after the government appeared to have been caught by surprise by the scale of violence as state buildings were stormed and torched, bus stops smashed, roads barricaded and shops broken into and destroyed.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "publishedAt": "Sun, 18 Oct 2026 15:10:32 GMT"
-    },
-    {
-      "title": "Scholars conclude ‘beyond doubt’ that Shakespeare was main author of Edward III",
-      "description": "Exclusive: Play anonymously published in 1596 was collaboration between Shakespeare and Christopher Marlowe, according to computer analysis Dramatic new evidence concludes that the play Edward III should be added to William Shakespeare’s canon, and also that it was a major collaboration with his contemporary rival Christopher Marlowe. The history was published anonymously in 1596, and it has long been thought that Shakespeare wrote at least a few scenes. However, Dr Rory Loughnane, a leading scholar and co-author of the research, told the Guardian that computerised textual analysis pushed the case “beyond any reasonable doubt” that the Stratford-born playwright was the principal writer.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii",
-      "publishedAt": "Sun, 18 Oct 2026 15:00:02 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "publishedAt": "Mon, 19 Oct 2026 18:05:14 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+      "description": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will no doubt hear more on this from local authorities, as in the example of Marseille ( 10:32 ).",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "publishedAt": "Mon, 19 Oct 2026 18:29:23 GMT"
+    },
+    {
+      "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+      "description": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom This comes, just over two weeks away from the November midterms, as the president continues crisscrossing the country as part of his campaign blitz for embattled Republicans.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "publishedAt": "Mon, 19 Oct 2026 18:29:18 GMT"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 15:46:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT"
     },
     {
-      "title": "US ambassador to Israel denounces West Bank settler attack on US photojournalist",
-      "description": "Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as a “despicable act of terror” and called for the arrest and prosecution of those responsible. Levine, an award-winning journalist who lives in Israel, was set upon last Friday by masked Israeli settlers who used clubs and other weapons to attack Palestinian people attempting to harvest their olives in occupied West Bank towns.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "publishedAt": "Sun, 18 Oct 2026 15:33:38 GMT"
-    },
-    {
-      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-      "description": "Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there have been both fatalities and injuries as a result of an incident on the base,” said David McGuinty. The defence minister described the situation at CFB Wainwright as “active and delicate” with the fire being monitored very closely, telling reporters that high winds had worsened the fire.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "publishedAt": "Sun, 18 Oct 2026 15:31:33 GMT"
-    },
-    {
-      "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
-      "description": "Female colleague says she was forced out shortly after incident with Luke Campbell, Hull and East Yorkshire mayor A Reform UK mayor is under police investigation for allegedly showing “naked and sexualised” images of himself to a female member of staff. Luke Campbell, a former Olympic boxing champion and the mayor of Hull and East Yorkshire, is understood to have been questioned under caution by Humberside police earlier this month.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
-      "publishedAt": "Sun, 18 Oct 2026 15:18:04 GMT"
-    },
-    {
-      "title": "French government in crisis talks after ‘colossal failure of the state’",
-      "description": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people arrested in cities across the country . Politicians on the left and right called for the resignation of the interior minister, Laurent Nuñez, after the government appeared to have been caught by surprise by the scale of violence as state buildings were stormed and torched, bus stops smashed, roads barricaded and shops broken into and destroyed.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "publishedAt": "Sun, 18 Oct 2026 15:10:32 GMT"
-    },
-    {
-      "title": "Scholars conclude ‘beyond doubt’ that Shakespeare was main author of Edward III",
-      "description": "Exclusive: Play anonymously published in 1596 was collaboration between Shakespeare and Christopher Marlowe, according to computer analysis Dramatic new evidence concludes that the play Edward III should be added to William Shakespeare’s canon, and also that it was a major collaboration with his contemporary rival Christopher Marlowe. The history was published anonymously in 1596, and it has long been thought that Shakespeare wrote at least a few scenes. However, Dr Rory Loughnane, a leading scholar and co-author of the research, told the Guardian that computerised textual analysis pushed the case “beyond any reasonable doubt” that the Stratford-born playwright was the principal writer.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii",
-      "publishedAt": "Sun, 18 Oct 2026 15:00:02 GMT"
-    },
-    {
-      "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
-      "description": "Wichita police say 34-year-old truck driver from Garden City was taken into custody amid case at youth soccer game The two people killed on Saturday when a truck drove through a youth soccer game in north-east Wichita, Kansas , were a six-year-old boy and a 35-year-old man, according to authorities. Eleven other people between the ages of five and 68 were injured in a case whose possible motivations remained unclear early on Sunday, by when it had captured attention across the US.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
-      "publishedAt": "Sun, 18 Oct 2026 14:58:27 GMT"
-    },
-    {
-      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-      "description": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing with police and setting property on fire in Milan, and a tent encampment springing up in Lisbon over the weekend.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-      "publishedAt": "Sun, 18 Oct 2026 14:50:37 GMT"
-    },
-    {
-      "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
-      "description": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’ A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a fund for housing projects while Andy Burnham was mayor. The prime minister has faced weeks of scrutiny over his links to Manchester City’s super-rich owners after the club was found guilty of boosting its income by £900m in a nine-year breach of financial rules.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-      "publishedAt": "Sun, 18 Oct 2026 14:41:15 GMT"
-    },
-    {
-      "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
-      "description": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy ceasefire”. One person was killed and 15 wounded overnight after Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres in one of its largest ever aerial bombardments.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
-      "publishedAt": "Sun, 18 Oct 2026 14:31:30 GMT"
-    },
-    {
-      "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
-      "description": "Officer fell from rafters during pregame display Man treated on field before being taken to hospital An Air Force officer has died after he fell from the rafters of the Alamodome before the University of Texas at San Antonio’s home game against Navy on Saturday. The officer, who has not been named, was taking part in an event to celebrate UTSA’s Salute to Armed Forces and Veterans night. He fell on to the field while rappelling down from the stadium rafters. He was treated on the field before being taken away on a stretcher. He later died from his injuries at a local hospital. Nellis Air Force Base said he was part of the 6th Combat Training Squadron. The unit helps train military members to rappel down from helicopters.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
-      "publishedAt": "Sun, 18 Oct 2026 14:03:54 GMT"
-    },
-    {
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 13:47:07 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:22:48 GMT"
     },
     {
-      "title": "Forget the seven-year itch: opposite-sex marriages more likely to end after two decades",
-      "description": "ONS data for England and Wales shows 26% of heterosexual divorces in 2025 followed 20 years or more of marriage Most couples are aware of the dreaded “seven-year itch”, when the honeymoon period wears off and real life starts to bite. Now official data has shown that couples in England and Wales are more likely to split after 20 years. According to Office for National Statistics figures, more than a quarter of all divorces between opposite-sex couples happened after 20 years or longer of marriage.",
+      "title": "France imposes partial curfews in several cities, including parts of Paris",
+      "description": "Interior minister concedes police ‘lost control’ of weekend protests and says he is ‘fully resolved to restore public order’ Europe live – latest updates Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the French prime minister, said after an emergency cabinet meeting on Monday he was “fully resolved to restore public order” and had called for “local and partial” curfews if needed. There was “no question” of imposing a full curfew on entire cities, he said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/18/opposite-sex-marriages-end-after-20-years-divorce-england-wales-ons",
-      "publishedAt": "Sun, 18 Oct 2026 13:29:53 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "publishedAt": "Mon, 19 Oct 2026 18:16:45 GMT"
     },
     {
-      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-      "description": "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies. The development by the British company Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year.",
+      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+      "description": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”. She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday. The militants broke four vertebrae and a rip, ripped open her finger so it required surgery and left her with lacerations across her body.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-      "publishedAt": "Sun, 18 Oct 2026 13:05:14 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "publishedAt": "Mon, 19 Oct 2026 18:05:14 GMT"
     },
     {
-      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "description": "Pope Leo XIV thanked thousands of faithful in St. Peter&apos;s Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
-      "sourceId": "npr",
-      "sourceName": "NPR Top Stories",
-      "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-      "publishedAt": "Sun, 18 Oct 2026 08:55:01 -0400"
+      "title": "ITV’s exposé of racism and misogyny in Reform? Just a few (more) bad apples | John Crace",
+      "description": "While the party’s MPs went into hiding, it was left to its failed byelection candidate Matt Goodwin to defend it It was the dog that didn’t bark in the night. After Sunday night’s ITV exposé of widespread racism and misogyny within Reform, you might have expected one of its MPs to have taken to the airwaves on Monday morning to defend the party’s honour. To try to persuade viewers that the real problem lay with the journalists who couldn’t stop themselves from investigating Reform rather than the fact that the party’s bigotry was endemic. Instead, we got nothing. Every Reform MP was otherwise engaged. Were too busy having breakfast. Nothing from Nigel Farage. Nothing even from Robert Jenrick. Maybe he realised he had crashed and burned a few days earlier by suggesting it was just one of those things. One of life’s little mysteries. The BBC was riddled with paedophiles and Reform was awash with racists, said Honest Bob. No big deal. Every organisation had its crosses to bear.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
+      "publishedAt": "Mon, 19 Oct 2026 17:42:46 GMT"
+    },
+    {
+      "title": "Massachusetts lieutenant governor candidate ends campaign after arrest",
+      "description": "Police said Shawn Oliver was arrested on suspicion of operating under influence of alcohol after a car crash The Republican candidate for lieutenant governor in Massachusetts announced the suspension of his campaign on Sunday hours after he was arrested in a suspected drunk-driving crash. Shawn Oliver, a city councilor in New Bedford and a corrections officer, said in a post on X he was ending his campaign because “the election is too important to be overshadowed by personal matters”. Guardian staff contributed",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+      "publishedAt": "Mon, 19 Oct 2026 17:41:23 GMT"
+    },
+    {
+      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
+      "description": "More than ⁠160 ​offshore rig workers plan walkout amid rising tensions between unions and oil companies North Sea workers are preparing to strike at oil rigs across the ageing basin over the coming weeks in a sign of growing tensions between trade unions and oil companies. The Unite union said on ⁠Monday that more than ⁠160 ​offshore rig workers would take part ⁠in a 24-hour ​strike from Wednesday that could “severely disrupt” UK fuel supplies.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
+      "publishedAt": "Mon, 19 Oct 2026 17:39:13 GMT"
+    },
+    {
+      "title": "Minister says Mahmood’s migration policy will ‘prolong integration’",
+      "description": "In now-removed post, Miatta Fahnbulleh criticised home secretary’s proposal to extend qualifying period for settlement in UK The energy secretary, Miatta Fahnbulleh, appears to have criticised Shabana Mahmood’s migration policy in a post on her constituency website, in which she suggested she had concerns that a longer settlement process could affect integration. Fahnbulleh has since removed the critique, which appeared in a write-up of a community meeting in Peckham, her south London constituency, in September, saying it was not a true representation of her views.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+      "publishedAt": "Mon, 19 Oct 2026 17:35:17 GMT"
+    },
+    {
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT"
+    },
+    {
+      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+      "description": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civil war reignited in September. The attack on al-Alam camp in the southern Shabwa province was said to have injured more than 200 others, mostly young recruits, and was described as a disaster by the country’s UN-recognised government. The injured were taken from the police and army training camp in the Jardan district to a hospital in the local capital, Ataq, where pleas for blood donations were made.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "publishedAt": "Mon, 19 Oct 2026 17:15:23 GMT"
+    },
+    {
+      "title": "Black bear breaks into California library to raid snacks and eat jar of honey",
+      "description": "Bear wandered into Mono county free libraries branch ahead of opening, snacking before wandering new releases A California library on Wednesday had a visitor worthy of a story book on the 100th anniversary of Winnie-the-Pooh : a black bear that wandered inside, reportedly raided the snacks and helped itself to a jar of honey. On Wednesday, a black bear walked into the Mammoth Lakes branch of the Mono county free libraries at about 6.10am, more than four hours ahead of its 10am opening time, the library director, Josef Bopp, told local news outlet KMPH .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
+      "publishedAt": "Mon, 19 Oct 2026 17:04:36 GMT"
+    },
+    {
+      "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
+      "description": "Poll finds 66% of Americans think Trump is using position for monetary gain as his approval rating hits a new low Most Americans think Donald Trump is using the presidency to enrich himself, according to a new poll, as the US president’s approval rating falls to a new low ahead of November’s midterm elections. A new Washington Post-ABC poll put Trump’s approval rating at 33% as he continues to crisscross the country as part of his campaign blitz for embattled Republicans.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
+      "publishedAt": "Mon, 19 Oct 2026 16:41:15 GMT"
+    },
+    {
+      "title": "Huge DMV data breach impacted current and former Florida residents",
+      "description": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+      "publishedAt": "Mon, 19 Oct 2026 16:38:13 +0000"
     }
   ],
   "sources": [
     {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
-    },
-    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
   "theme": "lagoon",
-  "layout": "ticker",
-  "seed": "2026-10-18-4554f1c4",
-  "generatedAt": "2026-10-18T16:03:33.650Z"
+  "layout": "orbit",
+  "seed": "2026-10-19-4554f1c5",
+  "generatedAt": "2026-10-19T18:47:26.853Z"
 }
