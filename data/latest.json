@@ -1,198 +1,198 @@
 {
-  "date": "2026-10-19",
-  "localDateLabel": "Monday, October 19, 2026",
-  "summary": "Today’s pulse tracks French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live, Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live, and Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC. Across Guardian and BBC, the strongest repeated signals are curfews, french, and partial. In the background, Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' and France imposes partial curfews in several cities, including parts of Paris keep the wider picture in motion.",
+  "date": "2026-10-20",
+  "localDateLabel": "Tuesday, October 20, 2026",
+  "summary": "Today’s pulse tracks House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live, Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears, and US envoy Steve Witkoff to discuss proposals in Moscow after ‘positive’ meeting with Zelenskyy – Europe live. Across Guardian and BBC, the strongest repeated signals are president, covid, and datacentre. In the background, ‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families and 'Great result for Canada', says Carney as Alberta votes to reject separatism keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-      "description": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will no doubt hear more on this from local authorities, as in the example of Marseille ( 10:32 ).",
+      "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
+      "description": "Eugene Vindman, armed services committee member, says president and secretary of state are ‘gaslighting’ over intelligence sharing as Trump heads to North Carolina On Tuesday, the nonpartisan Public Religion Research Institute released its annual American Values Survey. The survey found that white evangelical Protestants are the only religious group in which a majority does not agree that empathy is foundational moral value (42%). Instead, a majority (54%) say empathy can be dangerous when it leads people away from a society guided by God’s truth, PRRI said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "publishedAt": "Mon, 19 Oct 2026 18:29:23 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "publishedAt": "Tue, 20 Oct 2026 17:19:22 GMT"
     },
     {
-      "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-      "description": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom This comes, just over two weeks away from the November midterms, as the president continues crisscrossing the country as part of his campaign blitz for embattled Republicans.",
+      "title": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+      "description": "Jurors in harassment trial told reporters who had written about far-right activist feared ‘vigilante attack’ Tommy Robinson told the Daily Mail’s editor he would make the paper’s journalists and their families “famous”, the harassment trial of the far-right activist has been told. The threat was made in a voicemail message left on the phone of Ted Verity as Robinson, whose real name is Stephen Yaxley-Lennon, allegedly waged a campaign of harassment against journalists from the newspaper.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-      "publishedAt": "Mon, 19 Oct 2026 18:29:18 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+      "publishedAt": "Tue, 20 Oct 2026 17:16:52 GMT"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+      "title": "US envoy Steve Witkoff to discuss proposals in Moscow after ‘positive’ meeting with Zelenskyy – Europe live",
+      "description": "Witkoff’s meeting could ‘possibly pave the way for a meeting at the leaders’ level’, according to Norway’s prime minister Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish president Alexander Stubb and Norway’s new King Haakon during his visit to Oslo.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "publishedAt": "Tue, 20 Oct 2026 17:16:46 GMT"
+    },
+    {
+      "title": "‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families",
+      "description": "Latest report paints a painful picture of the care sector during the pandemic. But timid recommendations and a lack of accountability threaten to undermine it Of all 10 reports due to be published by the long-running Covid-19 inquiry, this week’s findings on adult social care were especially anticipated. The impact of Covid-19 on the care sector was calamitous: tens of thousands of people died, staff were forced to wear bin bags due to a lack of protective clothing and relatives were banned from seeing their loved ones in their dying days.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families",
+      "publishedAt": "Tue, 20 Oct 2026 17:15:59 GMT"
+    },
+    {
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 16:59:06 GMT"
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 18:22:48 GMT"
-    },
-    {
-      "title": "France imposes partial curfews in several cities, including parts of Paris",
-      "description": "Interior minister concedes police ‘lost control’ of weekend protests and says he is ‘fully resolved to restore public order’ Europe live – latest updates Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the French prime minister, said after an emergency cabinet meeting on Monday he was “fully resolved to restore public order” and had called for “local and partial” curfews if needed. There was “no question” of imposing a full curfew on entire cities, he said.",
+      "title": "Power outage at Google datacentre in London causes widespread disruption",
+      "description": "Outage shows danger of growing reliance on small number of big companies for our digital infrastructure, say experts It happened again. A power outage hit a datacentre in London, and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app. The datacentre in question was in Google’s europe-west2-b zone, one of over a dozen “zones” that the US search giant maintains in Europe to service its clients.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "publishedAt": "Mon, 19 Oct 2026 18:16:45 GMT"
-    },
-    {
-      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-      "description": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”. She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday. The militants broke four vertebrae and a rip, ripped open her finger so it required surgery and left her with lacerations across her body.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-      "publishedAt": "Mon, 19 Oct 2026 18:05:14 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "publishedAt": "Tue, 20 Oct 2026 16:50:31 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-      "description": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will no doubt hear more on this from local authorities, as in the example of Marseille ( 10:32 ).",
+      "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
+      "description": "Eugene Vindman, armed services committee member, says president and secretary of state are ‘gaslighting’ over intelligence sharing as Trump heads to North Carolina On Tuesday, the nonpartisan Public Religion Research Institute released its annual American Values Survey. The survey found that white evangelical Protestants are the only religious group in which a majority does not agree that empathy is foundational moral value (42%). Instead, a majority (54%) say empathy can be dangerous when it leads people away from a society guided by God’s truth, PRRI said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "publishedAt": "Mon, 19 Oct 2026 18:29:23 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "publishedAt": "Tue, 20 Oct 2026 17:19:22 GMT"
     },
     {
-      "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-      "description": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom This comes, just over two weeks away from the November midterms, as the president continues crisscrossing the country as part of his campaign blitz for embattled Republicans.",
+      "title": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+      "description": "Jurors in harassment trial told reporters who had written about far-right activist feared ‘vigilante attack’ Tommy Robinson told the Daily Mail’s editor he would make the paper’s journalists and their families “famous”, the harassment trial of the far-right activist has been told. The threat was made in a voicemail message left on the phone of Ted Verity as Robinson, whose real name is Stephen Yaxley-Lennon, allegedly waged a campaign of harassment against journalists from the newspaper.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-      "publishedAt": "Mon, 19 Oct 2026 18:29:18 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+      "publishedAt": "Tue, 20 Oct 2026 17:16:52 GMT"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+      "title": "US envoy Steve Witkoff to discuss proposals in Moscow after ‘positive’ meeting with Zelenskyy – Europe live",
+      "description": "Witkoff’s meeting could ‘possibly pave the way for a meeting at the leaders’ level’, according to Norway’s prime minister Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish president Alexander Stubb and Norway’s new King Haakon during his visit to Oslo.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "publishedAt": "Tue, 20 Oct 2026 17:16:46 GMT"
+    },
+    {
+      "title": "‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families",
+      "description": "Latest report paints a painful picture of the care sector during the pandemic. But timid recommendations and a lack of accountability threaten to undermine it Of all 10 reports due to be published by the long-running Covid-19 inquiry, this week’s findings on adult social care were especially anticipated. The impact of Covid-19 on the care sector was calamitous: tens of thousands of people died, staff were forced to wear bin bags due to a lack of protective clothing and relatives were banned from seeing their loved ones in their dying days.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families",
+      "publishedAt": "Tue, 20 Oct 2026 17:15:59 GMT"
+    },
+    {
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 16:59:06 GMT"
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "title": "Power outage at Google datacentre in London causes widespread disruption",
+      "description": "Outage shows danger of growing reliance on small number of big companies for our digital infrastructure, say experts It happened again. A power outage hit a datacentre in London, and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app. The datacentre in question was in Google’s europe-west2-b zone, one of over a dozen “zones” that the US search giant maintains in Europe to service its clients.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "publishedAt": "Tue, 20 Oct 2026 16:50:31 GMT"
+    },
+    {
+      "title": "France’s culture of violent policing means the battle for its streets is far from over",
+      "description": "French state places officers as agents of authority tasked with repressing, rather than managing, public dissent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified teenagers floored – and worse – by stun grenades have once again focused the world’s attention on France’s policing methods. While most of its western European neighbours generally favour police tactics that prioritise crowd containment and de-escalation, France has long responded to social movements that take to the streets with, at times, shocking physical force.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
+      "publishedAt": "Tue, 20 Oct 2026 16:49:44 GMT"
+    },
+    {
+      "title": "Great white shark leaps from water and photobombs California beachgoers",
+      "description": "Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beach A great white shark put on a spectacular display for California beachgoers over the weekend, leaping from the water off Marina state beach and photobombing visitors. Videos circulating online show a great white shark launching several feet out of the water in the background as a group of friends pose for photos along the beach.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+      "publishedAt": "Tue, 20 Oct 2026 16:45:59 GMT"
+    },
+    {
+      "title": "NatWest cracks down on 13,000 staff attending office two days a month",
+      "description": "Union furious as bank scraps remote-first policy from February 2027, requiring its nearly 40,000 UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days per month to two days per week, angering its staff union. The banking group, which serves customers under the Royal Bank of Scotland, NatWest, and Coutts brands, will require all of its nearly 40,000 UK staff to follow a strict two days per week office schedule from February 2027, abolishing a remote-first policy for thousands of employees.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+      "publishedAt": "Tue, 20 Oct 2026 16:45:24 GMT"
+    },
+    {
+      "title": "Covid inquiry report shows why culture of care workers being undervalued must end, says Andy Burnham – UK politics live",
+      "description": "The prime minister endorses report that says the adult social care sector has been under-recognised Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax burden has never been higher. You are taxed on the heating in your home. You’re taxed at the petrol pump filling up your car. You’re taxed when you insure that car. You’re taxed if you take the family away on holiday. You’re taxed if you stay in the UK thanks to Andy Burnham’s tourist tax. You’re taxed to buy a home, taxed to live in a home, taxed to pass on your home. This is clearly not working. Britain does not feel better off. Andy Burnham wrote in The Times yesterday about the moral outrage of the current benefit system. But as far as I could work out, his answer is to spend even more on benefits.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "publishedAt": "Tue, 20 Oct 2026 16:40:46 GMT"
+    },
+    {
+      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?",
+      "description": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it&apos;s challenging but not \"daunting.\"",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
+      "publishedAt": "Tue, 20 Oct 2026 12:27:01 -0400"
+    },
+    {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "description": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "publishedAt": "Tue, 20 Oct 2026 16:24:05 GMT"
+    },
+    {
+      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "description": "Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state” after protests against the cost of living descended into clashes with police, vandalism and looting. Further demonstrations are planned on Saturday. The government of the far-right prime minister, Giorgia Meloni, is also planning to swiftly approve tougher new security measures, including extending preventive detention for minors, cracking down on youth gangs and banning gatherings for people deemed a threat to public order, Italian media reported on Tuesday.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "publishedAt": "Tue, 20 Oct 2026 16:13:25 GMT"
+    },
+    {
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "description": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 18:22:48 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 16:11:56 GMT"
     },
     {
-      "title": "France imposes partial curfews in several cities, including parts of Paris",
-      "description": "Interior minister concedes police ‘lost control’ of weekend protests and says he is ‘fully resolved to restore public order’ Europe live – latest updates Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country. Sébastien Lecornu, the French prime minister, said after an emergency cabinet meeting on Monday he was “fully resolved to restore public order” and had called for “local and partial” curfews if needed. There was “no question” of imposing a full curfew on entire cities, he said.",
+      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "description": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas hotel. Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "publishedAt": "Mon, 19 Oct 2026 18:16:45 GMT"
-    },
-    {
-      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-      "description": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”. She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday. The militants broke four vertebrae and a rip, ripped open her finger so it required surgery and left her with lacerations across her body.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-      "publishedAt": "Mon, 19 Oct 2026 18:05:14 GMT"
-    },
-    {
-      "title": "ITV’s exposé of racism and misogyny in Reform? Just a few (more) bad apples | John Crace",
-      "description": "While the party’s MPs went into hiding, it was left to its failed byelection candidate Matt Goodwin to defend it It was the dog that didn’t bark in the night. After Sunday night’s ITV exposé of widespread racism and misogyny within Reform, you might have expected one of its MPs to have taken to the airwaves on Monday morning to defend the party’s honour. To try to persuade viewers that the real problem lay with the journalists who couldn’t stop themselves from investigating Reform rather than the fact that the party’s bigotry was endemic. Instead, we got nothing. Every Reform MP was otherwise engaged. Were too busy having breakfast. Nothing from Nigel Farage. Nothing even from Robert Jenrick. Maybe he realised he had crashed and burned a few days earlier by suggesting it was just one of those things. One of life’s little mysteries. The BBC was riddled with paedophiles and Reform was awash with racists, said Honest Bob. No big deal. Every organisation had its crosses to bear.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
-      "publishedAt": "Mon, 19 Oct 2026 17:42:46 GMT"
-    },
-    {
-      "title": "Massachusetts lieutenant governor candidate ends campaign after arrest",
-      "description": "Police said Shawn Oliver was arrested on suspicion of operating under influence of alcohol after a car crash The Republican candidate for lieutenant governor in Massachusetts announced the suspension of his campaign on Sunday hours after he was arrested in a suspected drunk-driving crash. Shawn Oliver, a city councilor in New Bedford and a corrections officer, said in a post on X he was ending his campaign because “the election is too important to be overshadowed by personal matters”. Guardian staff contributed",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
-      "publishedAt": "Mon, 19 Oct 2026 17:41:23 GMT"
-    },
-    {
-      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
-      "description": "More than ⁠160 ​offshore rig workers plan walkout amid rising tensions between unions and oil companies North Sea workers are preparing to strike at oil rigs across the ageing basin over the coming weeks in a sign of growing tensions between trade unions and oil companies. The Unite union said on ⁠Monday that more than ⁠160 ​offshore rig workers would take part ⁠in a 24-hour ​strike from Wednesday that could “severely disrupt” UK fuel supplies.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
-      "publishedAt": "Mon, 19 Oct 2026 17:39:13 GMT"
-    },
-    {
-      "title": "Minister says Mahmood’s migration policy will ‘prolong integration’",
-      "description": "In now-removed post, Miatta Fahnbulleh criticised home secretary’s proposal to extend qualifying period for settlement in UK The energy secretary, Miatta Fahnbulleh, appears to have criticised Shabana Mahmood’s migration policy in a post on her constituency website, in which she suggested she had concerns that a longer settlement process could affect integration. Fahnbulleh has since removed the critique, which appeared in a write-up of a community meeting in Peckham, her south London constituency, in September, saying it was not a true representation of her views.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
-      "publishedAt": "Mon, 19 Oct 2026 17:35:17 GMT"
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT"
-    },
-    {
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "description": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civil war reignited in September. The attack on al-Alam camp in the southern Shabwa province was said to have injured more than 200 others, mostly young recruits, and was described as a disaster by the country’s UN-recognised government. The injured were taken from the police and army training camp in the Jardan district to a hospital in the local capital, Ataq, where pleas for blood donations were made.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "publishedAt": "Mon, 19 Oct 2026 17:15:23 GMT"
-    },
-    {
-      "title": "Black bear breaks into California library to raid snacks and eat jar of honey",
-      "description": "Bear wandered into Mono county free libraries branch ahead of opening, snacking before wandering new releases A California library on Wednesday had a visitor worthy of a story book on the 100th anniversary of Winnie-the-Pooh : a black bear that wandered inside, reportedly raided the snacks and helped itself to a jar of honey. On Wednesday, a black bear walked into the Mammoth Lakes branch of the Mono county free libraries at about 6.10am, more than four hours ahead of its 10am opening time, the library director, Josef Bopp, told local news outlet KMPH .",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
-      "publishedAt": "Mon, 19 Oct 2026 17:04:36 GMT"
-    },
-    {
-      "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
-      "description": "Poll finds 66% of Americans think Trump is using position for monetary gain as his approval rating hits a new low Most Americans think Donald Trump is using the presidency to enrich himself, according to a new poll, as the US president’s approval rating falls to a new low ahead of November’s midterm elections. A new Washington Post-ABC poll put Trump’s approval rating at 33% as he continues to crisscross the country as part of his campaign blitz for embattled Republicans.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
-      "publishedAt": "Mon, 19 Oct 2026 16:41:15 GMT"
-    },
-    {
-      "title": "Huge DMV data breach impacted current and former Florida residents",
-      "description": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "publishedAt": "Mon, 19 Oct 2026 16:38:13 +0000"
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "publishedAt": "Tue, 20 Oct 2026 16:11:21 GMT"
     }
   ],
   "sources": [
@@ -207,8 +207,8 @@
       "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
-  "theme": "lagoon",
-  "layout": "orbit",
-  "seed": "2026-10-19-4554f1c5",
-  "generatedAt": "2026-10-19T18:47:26.853Z"
+  "theme": "newsprint",
+  "layout": "poster",
+  "seed": "2026-10-20-4554f1db",
+  "generatedAt": "2026-10-20T17:25:18.718Z"
 }
