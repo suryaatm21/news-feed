@@ -1,206 +1,201 @@
 {
-  "date": "2026-10-25",
-  "localDateLabel": "Sunday, October 25, 2026",
-  "summary": "Today’s pulse tracks Venezuelan opposition leader María Machado returns after months in exile, Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live, and Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’. Across BBC, Guardian, and NPR, the strongest repeated signals are serbia, storm, and england. In the background, Early reports suggest record high turnout in Serbia elections and More than 82,000 properties without power as Storm Boelo batters UK keep the wider picture in motion.",
+  "date": "2026-10-26",
+  "localDateLabel": "Monday, October 26, 2026",
+  "summary": "Today’s pulse tracks Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90, Southern California prepares for flooding amid forecast of ‘record-breaking tides’, and Judge says DOJ illegally fired the daughter of former FBI director Comey. Across Guardian, NPR, and BBC, the strongest repeated signals are flooding, actor, and coastal. In the background, Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live and Lula wins fourth term in dramatic Brazil election comeback keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:21:40 GMT"
-    },
-    {
-      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-      "description": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? Serbia’s former president and now prime ministerial candidate (again) Aleksandar Vučić rose to prominence in the 1990s as a radical nationalist, who supported the policies of Serbian expansion and ethnic cleansing led by Slobodan Milošević, who died of a heart attack in detention in The Hague during his trial on charges of genocide and crimes against humanity committed in Croatia, Bosnia and Kosovo. He served as Milošević’s information minister throughout the Kosovo conflict. His Serbian Progressive Party, or SNS, has been in government since 2012.",
+      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+      "description": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter . He was 90. Koenig died at his home in North Hollywood surrounded by his daughter and niece, according to a Facebook post by Zachery McGinnis, the founder of Galactic Productions, an appearance agency that counted the actor as one of its clients. His death was attributed to “old age”, with no other details provided. This article was amended on 26 October, 2026 to correct details on Koenig’s cameo on Star Trek: Picard.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "publishedAt": "Sun, 25 Oct 2026 16:14:37 GMT"
+      "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+      "publishedAt": "Mon, 26 Oct 2026 18:42:11 GMT"
     },
     {
-      "title": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
-      "description": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiring actor from North Carolina, has told the Guardian he recognised star Sacha Baron Cohen early in the shoot but continued pretending to be a hard-right Maga sympathiser prepared to defend the US border at all costs.",
+      "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+      "description": "Residents of coastal towns told to avoid beaches during high tides and keep further away from the ocean than usual Southern California coastal communities are preparing for days of flooding amid potentially “record-breaking tides” this week. The National Weather Service warned that significant coastal flooding was expected in San Diego and Orange counties through Thursday that could close roads and inundate homes, businesses and critical infrastructure. To the north, a wide swath of the coast from San Luis Obispo county to Los Angeles county could see “minor to moderate” coastal flooding with tides as high as 8ft.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
-      "publishedAt": "Sun, 25 Oct 2026 16:13:19 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "publishedAt": "Mon, 26 Oct 2026 18:39:27 GMT"
     },
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:05:15 GMT"
-    },
-    {
-      "title": "More than 82,000 properties without power as Storm Boelo batters UK",
-      "description": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England More than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Ireland and the north of England. The adverse weather hitting northern parts of the UK on Saturday evening was the second named storm in as many days, after Storm Austen brought strong winds to south-west England on Friday.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "publishedAt": "Sun, 25 Oct 2026 16:01:40 GMT"
-    },
-    {
-      "title": "Israelis have changed. Will they change their leadership?",
-      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "description": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-      "publishedAt": "Sun, 25 Oct 2026 12:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "publishedAt": "Mon, 26 Oct 2026 14:38:01 -0400"
+    },
+    {
+      "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
+      "description": "Republican David Beasley and Democrat Jim Hodges back Democrat Annie Andrews to flip seat held by Lindsey Graham’s Trump-backed sister Darline What are the US midterm elections and why do they matter? “We have been waiting for nearly a month for Mr. Hegseth to sign off on missiles for Patriots and NASAMS,” Zelenskyy wrote. “I instructed our team to raise this with the American side once again. Conversations with other countries are also ongoing.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "publishedAt": "Mon, 26 Oct 2026 18:33:24 GMT"
+    },
+    {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 18:26:19 GMT"
+    },
+    {
+      "title": "Major clean-up under way after two storms cause havoc in Britain",
+      "description": "More strong winds forecast after Austen and Boelo kill two people and bring travel disruption and flooding Tell us: have you been affected by Storm Boelo and Storm Austen A major clean-up operation was under way on Monday after weekend storms caused havoc, with forecasters warning of more strong winds to come. Two men were killed by falling trees after two named storms, Austen and Boelo , struck parts of the UK , and there was widespread travel disruption, flooding, power cuts and event cancellations.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
+      "publishedAt": "Mon, 26 Oct 2026 18:25:07 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:21:40 GMT"
-    },
-    {
-      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-      "description": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? Serbia’s former president and now prime ministerial candidate (again) Aleksandar Vučić rose to prominence in the 1990s as a radical nationalist, who supported the policies of Serbian expansion and ethnic cleansing led by Slobodan Milošević, who died of a heart attack in detention in The Hague during his trial on charges of genocide and crimes against humanity committed in Croatia, Bosnia and Kosovo. He served as Milošević’s information minister throughout the Kosovo conflict. His Serbian Progressive Party, or SNS, has been in government since 2012.",
+      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+      "description": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter . He was 90. Koenig died at his home in North Hollywood surrounded by his daughter and niece, according to a Facebook post by Zachery McGinnis, the founder of Galactic Productions, an appearance agency that counted the actor as one of its clients. His death was attributed to “old age”, with no other details provided. This article was amended on 26 October, 2026 to correct details on Koenig’s cameo on Star Trek: Picard.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "publishedAt": "Sun, 25 Oct 2026 16:14:37 GMT"
+      "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+      "publishedAt": "Mon, 26 Oct 2026 18:42:11 GMT"
     },
     {
-      "title": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
-      "description": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiring actor from North Carolina, has told the Guardian he recognised star Sacha Baron Cohen early in the shoot but continued pretending to be a hard-right Maga sympathiser prepared to defend the US border at all costs.",
+      "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+      "description": "Residents of coastal towns told to avoid beaches during high tides and keep further away from the ocean than usual Southern California coastal communities are preparing for days of flooding amid potentially “record-breaking tides” this week. The National Weather Service warned that significant coastal flooding was expected in San Diego and Orange counties through Thursday that could close roads and inundate homes, businesses and critical infrastructure. To the north, a wide swath of the coast from San Luis Obispo county to Los Angeles county could see “minor to moderate” coastal flooding with tides as high as 8ft.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
-      "publishedAt": "Sun, 25 Oct 2026 16:13:19 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "publishedAt": "Mon, 26 Oct 2026 18:39:27 GMT"
     },
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:05:15 GMT"
-    },
-    {
-      "title": "More than 82,000 properties without power as Storm Boelo batters UK",
-      "description": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England More than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Ireland and the north of England. The adverse weather hitting northern parts of the UK on Saturday evening was the second named storm in as many days, after Storm Austen brought strong winds to south-west England on Friday.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "publishedAt": "Sun, 25 Oct 2026 16:01:40 GMT"
-    },
-    {
-      "title": "Israelis have changed. Will they change their leadership?",
-      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "description": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-      "publishedAt": "Sun, 25 Oct 2026 12:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "publishedAt": "Mon, 26 Oct 2026 14:38:01 -0400"
     },
     {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
+      "description": "Republican David Beasley and Democrat Jim Hodges back Democrat Annie Andrews to flip seat held by Lindsey Graham’s Trump-backed sister Darline What are the US midterm elections and why do they matter? “We have been waiting for nearly a month for Mr. Hegseth to sign off on missiles for Patriots and NASAMS,” Zelenskyy wrote. “I instructed our team to raise this with the American side once again. Conversations with other countries are also ongoing.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "publishedAt": "Mon, 26 Oct 2026 18:33:24 GMT"
+    },
+    {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 18:26:19 GMT"
     },
     {
-      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-      "description": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto Police in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday and arresting more than 30 people. The raids were the latest incident in days of clashes between police and campaigners who – inspired by similar camps in Spain – had sought to pitch tents in central squares to protest against the country’s deepening housing crisis.",
+      "title": "Major clean-up under way after two storms cause havoc in Britain",
+      "description": "More strong winds forecast after Austen and Boelo kill two people and bring travel disruption and flooding Tell us: have you been affected by Storm Boelo and Storm Austen A major clean-up operation was under way on Monday after weekend storms caused havoc, with forecasters warning of more strong winds to come. Two men were killed by falling trees after two named storms, Austen and Boelo , struck parts of the UK , and there was widespread travel disruption, flooding, power cuts and event cancellations.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-      "publishedAt": "Sun, 25 Oct 2026 15:32:20 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
+      "publishedAt": "Mon, 26 Oct 2026 18:25:07 GMT"
     },
     {
-      "title": "Twelve injured, including six juveniles, in shooting near Florida university",
-      "description": "Police say altercation at a homecoming party escalated into gunfire and they are working to identify ‘those responsible’ A shooting ⁠near a Florida university campus in Tallahassee has left 11 people ⁠with gunshot wounds ⁠and ​another person injured, authorities say. The shooting took place near the Florida Agricultural + Mechanical University’s campus ⁠on Perry Street on Saturday night, the university said, while police counted six adults and six ⁠juveniles among the injured.",
+      "title": "NHS consultants to go on two-day strike in England in November",
+      "description": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA says England’s most senior hospital doctors will strike next month in a dispute over their pay and hours, prompting NHS bosses to warn that patients will suffer “pain, discomfort and inconvenience”. Consultant doctors, who earn an average of £152,000 a year inclusive of overtime and merit awards, will stage a two-day walkout on 25 and 26 November, as hospitals gear up for the extra pressures winter brings.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-      "publishedAt": "Sun, 25 Oct 2026 15:19:47 GMT"
+      "link": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+      "publishedAt": "Mon, 26 Oct 2026 18:05:16 GMT"
     },
     {
-      "title": "What makes a good spine-tingler? Stephen Graham Jones says it&apos;s all in the ending",
-      "description": "Horror writer Stephen Graham Jones says horror&apos;s current moment is powered by more than just fear.",
-      "sourceId": "npr",
-      "sourceName": "NPR Top Stories",
-      "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-      "publishedAt": "Sun, 25 Oct 2026 11:03:17 -0400"
-    },
-    {
-      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-      "description": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting an unprecedented comeback against the far-right senator Flávio Bolsonaro , who won the first-round vote. Bolsonaro’s surprise victory despite not leading most polls made him the favourite three weeks ago, but since then Lula’s campaign has gained ground, and the two go into the contest virtually tied.",
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "description": "Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekend Downing Street has been forced to clarify Andy Burnham’s stance on whether the UK would return to having freedom of movement with the EU after the prime minister said an “honest discussion” was needed on the issue. Burnham fuelled speculation about a return to freedom of movement in an interview at the weekend, prompting questions about how close the UK could become to Brussels.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-      "publishedAt": "Sun, 25 Oct 2026 14:41:17 GMT"
+      "link": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "publishedAt": "Mon, 26 Oct 2026 18:03:46 GMT"
     },
     {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
+      "description": "All but one of the victims sustained gunshot wounds as boy faces 11 charges of attempted second-degree murder A 15-year-old boy was remanded into secure detention in Florida on Monday charged with 11 counts of attempted murder following a mass shooting at a college homecoming party on Saturday. Six adults and six minors were injured, all but one with gunshot wounds, in the gunfire near the Florida Agricultural + Mechanical University (Famu) campus in Tallahassee.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+      "publishedAt": "Mon, 26 Oct 2026 18:01:23 GMT"
+    },
+    {
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 14:39:47 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 18:00:10 GMT"
     },
     {
-      "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-      "description": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the highway. Alyssa Wilson, 17, was shot and killed as she drove down Interstate 170 in Overland, Missouri, on 14 October. The teen was on her way to a Halloween party at St Louis Zoo, called Boo at the Zoo, when a suspect fired a single shot into the back of Wilson’s Buick Encore.",
+      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "description": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly told allies he could not understand how he finished second after a government he considered the best of his three terms. A mood of dismay swept Brazil’s left, and because 9 million voters for the other candidates, all of them on the right, were expected to mostly transfer to senator Flávio Bolsonaro, analysts widely saw the far-right senator’s victory as certain.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-      "publishedAt": "Sun, 25 Oct 2026 14:16:37 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "publishedAt": "Mon, 26 Oct 2026 17:56:50 GMT"
     },
     {
-      "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
-      "description": "Exclusive: RACGP survey reflects Medicare investments, but experts caution quality of care and outcomes also matter And almost two-thirds (63%) of Australians are now bulk-billed for all their GP care, up from 56% in both 2024 and 2025, which the report says is “likely a reflection of the federal government’s recent investment in Medicare bulk billing incentives”.",
+      "title": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
+      "description": "Mr Justice Saini tells the eight men and six women at Winchester crown court the case is likely to be upsetting Jurors being selected for the trial of four men accused of sexually assaulting the ex-wife of a former Conservative councillor, who has admitted repeatedly drugging and raping her, have been warned the case is likely to be upsetting. Philip Young, 50, has pleaded guilty to multiple charges of abuse against his former wife, Joanne Young, who has waived her right to anonymity.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-      "publishedAt": "Sun, 25 Oct 2026 14:00:06 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
+      "publishedAt": "Mon, 26 Oct 2026 17:51:03 GMT"
     },
     {
-      "title": "All aboard the TrainTok trend: spotters and staff boost rail content online",
-      "description": "Number of videos about British trains doubles in three months as creators find audiences interested in workings of railways They are not just gathered at the end of your local train station platform any more. Now they are on your social media platforms too. Trainspotters have played a part in more than doubling the number of videos about British trains on TikTok in the last three months. According to the platform, the rise in rail content is also down to more people seeking information on cheap tickets, facts about the London Underground and tales from train staff.",
+      "title": "Father pays tribute to son, six, killed by truck on Kansas soccer field",
+      "description": "At funeral service Chris Adrian remembers son Cole as ‘capturing the heart’ of everyone, after tragedy killing two The father of Cole Adrian, a six-year-old boy killed when a woman drove through a soccer game at a park in Wichita, Kansas , on 17 October, paid an emotional tribute to his son at his funeral service on Monday. Chris Adrian, of McPherson, Kansas, spoke through tears while he remembered Cole as an energetic, fun-loving child who loved life and “captured the heart” of everyone he met.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
-      "publishedAt": "Sun, 25 Oct 2026 14:00:05 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
+      "publishedAt": "Mon, 26 Oct 2026 17:50:50 GMT"
+    },
+    {
+      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "description": "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback. Lula is the first candidate to win a runoff election after losing in the first round, taking victory with 51.79% of the vote to his rival’s 48.21%. His win bucks a regional trend, after the son of the former president Jair Bolsonaro had spearheaded a radical populist movement. But with Flávio Bolsonaro refusing to concede defeat, what’s next for Brazil? Michael Safi speaks to Latin America correspondent Tom Phillips – watch on YouTube",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "publishedAt": "Mon, 26 Oct 2026 17:38:16 GMT"
+    },
+    {
+      "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
+      "description": "Move comes after claims that killer had history of using threatening behaviour and an obsession with weapons Shabana Mahmood, the home secretary, has launched a review to examine whether opportunities were missed to prevent the murder of the student Henry Nowak. It follows claims that there were several warning signs that the perpetrator, Vickrum Digwa, had a history of threatening behaviour and an obsession with weapons.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
+      "publishedAt": "Mon, 26 Oct 2026 17:30:46 GMT"
     }
   ],
   "sources": [
-    {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
-    },
     {
       "id": "guardian",
       "name": "The Guardian World",
@@ -210,10 +205,15 @@
       "id": "npr",
       "name": "NPR Top Stories",
       "siteUrl": "https://www.npr.org/"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
   "theme": "sunprint",
-  "layout": "orbit",
-  "seed": "2026-10-25-4554f1e0",
-  "generatedAt": "2026-10-25T16:41:01.071Z"
+  "layout": "poster",
+  "seed": "2026-10-26-4554f1e1",
+  "generatedAt": "2026-10-26T18:48:07.199Z"
 }
