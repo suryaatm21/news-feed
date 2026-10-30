@@ -1,214 +1,224 @@
 {
-  "date": "2026-10-29",
-  "localDateLabel": "Thursday, October 29, 2026",
-  "summary": "Today’s pulse tracks Hong Kong’s leader apologises for residential fire that killed 168 people, Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation – live, and More prisoners recalled to jail than released in England and Wales. Across Guardian and NPR, the strongest repeated signals are people, released, and spain. In the background, Even birds get jet lagged, study shows and Spain begins mourning period as search continues for train crash victims keep the wider picture in motion.",
+  "date": "2026-10-30",
+  "localDateLabel": "Friday, October 30, 2026",
+  "summary": "Today’s pulse tracks US tech stocks see sharp falls as AI spending nears $1tn, ICE activity is surging ahead of midterms. So is voter turnout, and Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea. Across BBC, NPR, Ars Technica, and Guardian, the strongest repeated signals are charges, north, and country. In the background, Fujifilm to boost tape production 5x as AI fuels archiving demand and How crypto hacking funds isolated North Korea’s nuclear programme keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-      "description": "Blaze last year was deadliest housing fire globally since 1980 and some ex-residents and victims’ families say they still need justice Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven other officials bowed in apology at the release of a report that pointed to “decades of failure” by government bodies.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "publishedAt": "Thu, 29 Oct 2026 18:14:21 GMT"
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:47:01 GMT"
     },
     {
-      "title": "Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation – live",
-      "description": "President speaks in Rock Hill, South Carolina; Alaska governor orders inquiry into Mary Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "publishedAt": "Thu, 29 Oct 2026 18:14:14 GMT"
-    },
-    {
-      "title": "More prisoners recalled to jail than released in England and Wales",
-      "description": "Ministry of Justice figures show recalls rose 27% in year to June despite emergency measures to ease overcrowding More people were recalled to jails in England and Wales in the first half of this year than were released, despite government efforts to reduce the prison population, according to figures released on Thursday. Ministry of Justice (MoJ) data shows that 12,338 people were recalled to custody between the beginning of April and the end of June, while 12,278 people were released. It continues a trend set between January and March, when 13,193 people were returned to prison and 12,977 released.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
-      "publishedAt": "Thu, 29 Oct 2026 18:00:33 GMT"
-    },
-    {
-      "title": "Even birds get jet lagged, study shows",
-      "description": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-      "publishedAt": "Thu, 29 Oct 2026 14:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 13:45:27 -0400"
     },
     {
-      "title": "Spain begins mourning period as search continues for train crash victims",
-      "description": "Emergency services, drones and dog unit continue to comb carriages as Civil Guard sets up clinics for relatives to provide DNA samples How did the Spain train crash happen and what will investigators be asking? Spain began three days of mourning on Thursday for at least 69 people who died in a high-speed rail collision, as hospitals continued to treat dozens of injured passengers and train drivers went on strike to urge more investment in railway safety. The trains – one from Spain’s state-owned Renfe and the other from the private rail company Iryo – were travelling from Madrid towards the southern region of Andalucía on Wednesday when they collided just before 9am. After the Iryo train came to a halt, the other slammed into its rear, knocking several carriages off the track near Urda in the central region of Castilla-La Mancha.",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "Fri, 30 Oct 2026 17:38:19 +0000"
+    },
+    {
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "description": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Group, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-      "publishedAt": "Thu, 29 Oct 2026 17:59:03 GMT"
+      "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "publishedAt": "Fri, 30 Oct 2026 17:37:46 GMT"
     },
     {
-      "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament",
-      "description": "Caroline Voaden says the Reform UK leader grabbed her by the arm and tried to push past her in incident in May • UK politics live – latest updates A female Liberal Democrat MP has accused Nigel Farage of shoving her aside at the state opening of parliament after which one of her male colleagues intervened. Caroline Voaden gave her account of the incident in May this year after Farage revealed on Wednesday that there had been a “physical altercation” in parliament which meant he had decided to avoid the budget.",
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "description": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges Ohio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that injured 12 people. Eljay Crisp-Carr, 20, had faced more than 50 felony charges stemming from the shooting, including 25 counts of attempted murder. He was released after spending about five months behind bars.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
-      "publishedAt": "Thu, 29 Oct 2026 17:54:23 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "publishedAt": "Fri, 30 Oct 2026 17:31:00 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-      "description": "Blaze last year was deadliest housing fire globally since 1980 and some ex-residents and victims’ families say they still need justice Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven other officials bowed in apology at the release of a report that pointed to “decades of failure” by government bodies.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "publishedAt": "Thu, 29 Oct 2026 18:14:21 GMT"
-    },
-    {
-      "title": "Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation – live",
-      "description": "President speaks in Rock Hill, South Carolina; Alaska governor orders inquiry into Mary Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "publishedAt": "Thu, 29 Oct 2026 18:14:14 GMT"
-    },
-    {
-      "title": "More prisoners recalled to jail than released in England and Wales",
-      "description": "Ministry of Justice figures show recalls rose 27% in year to June despite emergency measures to ease overcrowding More people were recalled to jails in England and Wales in the first half of this year than were released, despite government efforts to reduce the prison population, according to figures released on Thursday. Ministry of Justice (MoJ) data shows that 12,338 people were recalled to custody between the beginning of April and the end of June, while 12,278 people were released. It continues a trend set between January and March, when 13,193 people were returned to prison and 12,977 released.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
-      "publishedAt": "Thu, 29 Oct 2026 18:00:33 GMT"
-    },
-    {
-      "title": "Even birds get jet lagged, study shows",
-      "description": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
-      "sourceId": "npr",
-      "sourceName": "NPR Top Stories",
-      "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-      "publishedAt": "Thu, 29 Oct 2026 14:00:00 -0400"
-    },
-    {
-      "title": "Spain begins mourning period as search continues for train crash victims",
-      "description": "Emergency services, drones and dog unit continue to comb carriages as Civil Guard sets up clinics for relatives to provide DNA samples How did the Spain train crash happen and what will investigators be asking? Spain began three days of mourning on Thursday for at least 69 people who died in a high-speed rail collision, as hospitals continued to treat dozens of injured passengers and train drivers went on strike to urge more investment in railway safety. The trains – one from Spain’s state-owned Renfe and the other from the private rail company Iryo – were travelling from Madrid towards the southern region of Andalucía on Wednesday when they collided just before 9am. After the Iryo train came to a halt, the other slammed into its rear, knocking several carriages off the track near Urda in the central region of Castilla-La Mancha.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-      "publishedAt": "Thu, 29 Oct 2026 17:59:03 GMT"
-    },
-    {
-      "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament",
-      "description": "Caroline Voaden says the Reform UK leader grabbed her by the arm and tried to push past her in incident in May • UK politics live – latest updates A female Liberal Democrat MP has accused Nigel Farage of shoving her aside at the state opening of parliament after which one of her male colleagues intervened. Caroline Voaden gave her account of the incident in May this year after Farage revealed on Wednesday that there had been a “physical altercation” in parliament which meant he had decided to avoid the budget.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
-      "publishedAt": "Thu, 29 Oct 2026 17:54:23 GMT"
-    },
-    {
-      "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-      "description": "Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin Netanyahu’s main rival, has warned political opponents against exploiting allegations of foreign interference in Israel’s election to delay the swearing-in of the next Knesset. In remarks posted on X, Eisenkot said: Israel must safeguard the integrity of the elections against any attempt at interference, spin and manipulation, and examine every complaint thoroughly. On the other hand, political actors must not be allowed to exploit the situation and affect the swearing-in date of the 26th Knesset.”",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "publishedAt": "Thu, 29 Oct 2026 17:49:57 GMT"
-    },
-    {
-      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-      "description": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says Canadian rock star Bryan Adams , is Lake America. In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores. The ‘lake of shining waters ’ is what the Iroquois called her It’s a First Nations name – not an executive order. But things weren’t going his way in Iran So like a baby tossing the toys from the pram You can push us to the brink But where the open road divides",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-      "publishedAt": "Thu, 29 Oct 2026 17:49:47 GMT"
-    },
-    {
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "description": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow. This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France. The astonishing comeback victory of Luiz Inácio Lula da Silva in Sunday’s presidential runoff against his extreme right challenger Flavío Bolsonaro has brought oceans of rapturous supporters on to the streets, while also thrilling conservationists, climate activists and social justice campaigners across the world.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "publishedAt": "Thu, 29 Oct 2026 17:46:38 GMT"
-    },
-    {
-      "title": "Met refers itself to police watchdog over Meghan warning letter",
-      "description": "Move comes as Philippines police investigate suspected child sexual abuse images reportedly found at Thomas Markle Sr’s former home The Metropolitan police say they have voluntarily referred themselves to the official watchdog for failing to pass on a letter detailing allegations against the Duchess of Sussex’s father. The announcement comes as police in the Philippines investigate suspected child sexual abuse images reportedly found at Thomas Markle Sr’s former home.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
-      "publishedAt": "Thu, 29 Oct 2026 17:36:59 GMT"
-    },
-    {
-      "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
-      "description": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’ Selling nicotine-free vapes to children under the age of 18 has become illegal from today, the government has said. Children were already banned from buying vapes containing nicotine. But, under the Tobacco and Vapes Act, shops across the UK will now be banned from selling nicotine-free vapes, and nicotine pouches, to children. Vaping can be a way to help established adult smokers who are already addicted to nicotine from tobacco to swap to a less dangerous product. Vaping is considered safer than smoking, but that is a low bar. Vapes should therefore never be used by children or non-smokers. Some children have already come to harm from bad reactions to vapes. The long-term health harms of vaping in today’s children will only become clear over time. They are however unlikely to be good; inhaling multiple, often heated, chemicals into the lungs may well do irreversible harm.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "publishedAt": "Thu, 29 Oct 2026 17:30:39 GMT"
-    },
-    {
-      "title": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
-      "description": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his allies called on the internal security service, Shin Bet, to investigate alleged vote buying and other irregularities in Palestinian communities in Israel, supposedly funded by foreign money.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "publishedAt": "Thu, 29 Oct 2026 17:26:06 GMT"
-    },
-    {
-      "title": "Fishing is a key issue in Alaska&apos;s tight U.S. Senate race",
-      "description": "Alaska&apos;s U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
-      "sourceId": "npr",
-      "sourceName": "NPR Top Stories",
-      "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
-      "publishedAt": "Thu, 29 Oct 2026 13:21:58 -0400"
-    },
-    {
-      "title": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
-      "description": "Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown , according to court documents. Employees at the parent group of Facebook and Instagram sought to discredit Jonathan Haidt, the social psychologist and author of The Anxious Generation , a book that helped tip the debate about online safety towards more stringent measures such as the under-16 ban in Australia.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
-      "publishedAt": "Thu, 29 Oct 2026 17:20:57 GMT"
-    },
-    {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 17:02:59 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:47:01 GMT"
+    },
+    {
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 13:45:27 -0400"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "Fri, 30 Oct 2026 17:38:19 +0000"
+    },
+    {
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "description": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Group, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "publishedAt": "Fri, 30 Oct 2026 17:37:46 GMT"
+    },
+    {
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "description": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges Ohio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that injured 12 people. Eljay Crisp-Carr, 20, had faced more than 50 felony charges stemming from the shooting, including 25 counts of attempted murder. He was released after spending about five months behind bars.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "publishedAt": "Fri, 30 Oct 2026 17:31:00 GMT"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:25:20 GMT"
+    },
+    {
+      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+      "description": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson, has suffered months of serious food and medical shortages, leading to warnings of starvation for the few thousand people remaining there, including about 50 children.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+      "publishedAt": "Fri, 30 Oct 2026 17:13:48 GMT"
+    },
+    {
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:07:19 GMT"
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:00:32 GMT"
+    },
+    {
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "publishedAt": "Fri, 30 Oct 2026 16:53:49 +0000"
+    },
+    {
+      "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+      "description": "Oil giant comes under fire from climate campaigners, as its earnings reach $8.46bn while ‘innocent civilians suffer’ BP’s quarterly profits have been labelled “obscene” after they hit an 18-year high of $8.46bn (£6.3bn), as the war in the Middle East drove up oil and gas prices. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income – almost quadrupling in the three months to the end of September, from $2.2bn in the same period ​a year ​ago. The jump meant BP’s quarterly profits hit their highest level since the $8.9bn recorded in 2008 .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "publishedAt": "Fri, 30 Oct 2026 16:49:00 GMT"
+    },
+    {
+      "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+      "description": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&amp;A: How big a deal is the $6.3bn crypto heist? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Binance said it would cover all customer losses as it froze $3bn of the affected assets.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "publishedAt": "Fri, 30 Oct 2026 16:35:44 GMT"
+    },
+    {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
+    },
+    {
+      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
+      "description": "This blog is now closed Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No 10 contribution when a great British celebrity dies. The spokesperson said that was because Andy Burnham feels strongly about the importance of actors. The spokesperson said: The prime minister was very sad to hear of the passing of Sir Patrick Stewart. As a former culture secretary he knows how much Britain’s greatest actors mean to the country, and Sir Patrick was one of the very best. Just a reminder that when it comes to Wales, we are not comparing like with like. The term ‘region’ in an English context typically refers to an area covering between 1.5 and 3 million people. In Wales, regions cover much less dense areas. The Swansea Bay city region captures some 700,000 people, and similarly North Wales around 690,000 people. In Mid-Wales sheep outnumber people by 7:1. Only the Cardiff city region is comparable to English tiers, and even then at the lower end: around 1.5 million people. Transposing an English mayoral worldview onto a very different political geography just doesn’t work. Wales may be a similar population size to the PM’s old manor but that’s where the parallel ends. Andy Burnham talks about the regions of England and Wales interchangeably but the role the new prime minister champions for metro mayors is, in many respects, already performed by the Welsh government. Powers over skills, employment support, economic development, housing investment and major spending programmes sit at an all-Wales strategic level (covering a similar population size to Greater Manchester.) His argument for England is that powers should flow from Westminster to city regions because they operate at an economically meaningful scale. Yet when the PM turns to Wales, he seems to suggest that powers already devolved to Cardiff Bay should be dispersed further down the system. But notably he is not calling on his successor as the mayor of Greater Manchester, Bev Craig, to fragment the powers of the Greater Manchester combined authority and redistribute them amongst its ten constituent councils. On the contrary, the whole logic of the Greater Manchester model rests on concentrating strategic authority at a regional level. Yet the implication of his comments is that Wales should move in the opposite direction.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+      "publishedAt": "Fri, 30 Oct 2026 16:21:35 GMT"
     }
   ],
   "sources": [
     {
-      "id": "guardian",
-      "name": "The Guardian World",
-      "siteUrl": "https://www.theguardian.com/world"
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
     },
     {
       "id": "npr",
       "name": "NPR Top Stories",
       "siteUrl": "https://www.npr.org/"
+    },
+    {
+      "id": "ars",
+      "name": "Ars Technica",
+      "siteUrl": "https://arstechnica.com/"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
     }
   ],
-  "theme": "sunprint",
-  "layout": "poster",
-  "seed": "2026-10-29-4554f1e4",
-  "generatedAt": "2026-10-29T18:35:39.643Z"
+  "theme": "citrus",
+  "layout": "ticker",
+  "seed": "2026-10-30-4554f1fa",
+  "generatedAt": "2026-10-30T18:07:56.784Z"
 }

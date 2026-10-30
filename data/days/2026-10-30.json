@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-30",
+  "localDateLabel": "Friday, October 30, 2026",
+  "summary": "Today’s pulse tracks US tech stocks see sharp falls as AI spending nears $1tn, ICE activity is surging ahead of midterms. So is voter turnout, and Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea. Across BBC, NPR, Ars Technica, and Guardian, the strongest repeated signals are charges, north, and country. In the background, Fujifilm to boost tape production 5x as AI fuels archiving demand and How crypto hacking funds isolated North Korea’s nuclear programme keep the wider picture in motion.",
+  "headlines": [
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:47:01 GMT"
+    },
+    {
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 13:45:27 -0400"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "Fri, 30 Oct 2026 17:38:19 +0000"
+    },
+    {
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "description": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Group, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "publishedAt": "Fri, 30 Oct 2026 17:37:46 GMT"
+    },
+    {
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "description": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges Ohio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that injured 12 people. Eljay Crisp-Carr, 20, had faced more than 50 felony charges stemming from the shooting, including 25 counts of attempted murder. He was released after spending about five months behind bars.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "publishedAt": "Fri, 30 Oct 2026 17:31:00 GMT"
+    }
+  ],
+  "headlinePool": [
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:47:01 GMT"
+    },
+    {
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 13:45:27 -0400"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "Fri, 30 Oct 2026 17:38:19 +0000"
+    },
+    {
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "description": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Group, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "publishedAt": "Fri, 30 Oct 2026 17:37:46 GMT"
+    },
+    {
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "description": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges Ohio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that injured 12 people. Eljay Crisp-Carr, 20, had faced more than 50 felony charges stemming from the shooting, including 25 counts of attempted murder. He was released after spending about five months behind bars.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "publishedAt": "Fri, 30 Oct 2026 17:31:00 GMT"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:25:20 GMT"
+    },
+    {
+      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+      "description": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson, has suffered months of serious food and medical shortages, leading to warnings of starvation for the few thousand people remaining there, including about 50 children.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+      "publishedAt": "Fri, 30 Oct 2026 17:13:48 GMT"
+    },
+    {
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:07:19 GMT"
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:00:32 GMT"
+    },
+    {
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "publishedAt": "Fri, 30 Oct 2026 16:53:49 +0000"
+    },
+    {
+      "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+      "description": "Oil giant comes under fire from climate campaigners, as its earnings reach $8.46bn while ‘innocent civilians suffer’ BP’s quarterly profits have been labelled “obscene” after they hit an 18-year high of $8.46bn (£6.3bn), as the war in the Middle East drove up oil and gas prices. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income – almost quadrupling in the three months to the end of September, from $2.2bn in the same period ​a year ​ago. The jump meant BP’s quarterly profits hit their highest level since the $8.9bn recorded in 2008 .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "publishedAt": "Fri, 30 Oct 2026 16:49:00 GMT"
+    },
+    {
+      "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+      "description": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&amp;A: How big a deal is the $6.3bn crypto heist? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Binance said it would cover all customer losses as it froze $3bn of the affected assets.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "publishedAt": "Fri, 30 Oct 2026 16:35:44 GMT"
+    },
+    {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
+    },
+    {
+      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
+      "description": "This blog is now closed Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No 10 contribution when a great British celebrity dies. The spokesperson said that was because Andy Burnham feels strongly about the importance of actors. The spokesperson said: The prime minister was very sad to hear of the passing of Sir Patrick Stewart. As a former culture secretary he knows how much Britain’s greatest actors mean to the country, and Sir Patrick was one of the very best. Just a reminder that when it comes to Wales, we are not comparing like with like. The term ‘region’ in an English context typically refers to an area covering between 1.5 and 3 million people. In Wales, regions cover much less dense areas. The Swansea Bay city region captures some 700,000 people, and similarly North Wales around 690,000 people. In Mid-Wales sheep outnumber people by 7:1. Only the Cardiff city region is comparable to English tiers, and even then at the lower end: around 1.5 million people. Transposing an English mayoral worldview onto a very different political geography just doesn’t work. Wales may be a similar population size to the PM’s old manor but that’s where the parallel ends. Andy Burnham talks about the regions of England and Wales interchangeably but the role the new prime minister champions for metro mayors is, in many respects, already performed by the Welsh government. Powers over skills, employment support, economic development, housing investment and major spending programmes sit at an all-Wales strategic level (covering a similar population size to Greater Manchester.) His argument for England is that powers should flow from Westminster to city regions because they operate at an economically meaningful scale. Yet when the PM turns to Wales, he seems to suggest that powers already devolved to Cardiff Bay should be dispersed further down the system. But notably he is not calling on his successor as the mayor of Greater Manchester, Bev Craig, to fragment the powers of the Greater Manchester combined authority and redistribute them amongst its ten constituent councils. On the contrary, the whole logic of the Greater Manchester model rests on concentrating strategic authority at a regional level. Yet the implication of his comments is that Wales should move in the opposite direction.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+      "publishedAt": "Fri, 30 Oct 2026 16:21:35 GMT"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    },
+    {
+      "id": "npr",
+      "name": "NPR Top Stories",
+      "siteUrl": "https://www.npr.org/"
+    },
+    {
+      "id": "ars",
+      "name": "Ars Technica",
+      "siteUrl": "https://arstechnica.com/"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    }
+  ],
+  "theme": "citrus",
+  "layout": "ticker",
+  "seed": "2026-10-30-4554f1fa",
+  "generatedAt": "2026-10-30T18:07:56.784Z"
+}
