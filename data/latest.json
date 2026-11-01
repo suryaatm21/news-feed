@@ -1,214 +1,214 @@
 {
-  "date": "2026-10-31",
-  "localDateLabel": "Saturday, October 31, 2026",
-  "summary": "Today’s pulse tracks Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live, Almost 50 arrested at protest against Palestine Action ban outside US embassy in London, and Crypto firm Binance covers 90% of losses after $6.3bn hack. Across Guardian and BBC, the strongest repeated signals are early, people, and votes. In the background, More than 50m Americans cast ballots in early voting with three days to go before midterms and Ukrainian evacuees reunite with family after years trapped in Russia-occupied city keep the wider picture in motion.",
+  "date": "2026-11-01",
+  "localDateLabel": "Sunday, November 1, 2026",
+  "summary": "Today’s pulse tracks Judge tosses Trump&apos;s attempt to block Alaska Senate results if GOP incumbent loses, The midterms will test the nation&apos;s political direction and confidence, and Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz. Across NPR and Guardian, the strongest repeated signals are could, strait, and brexit. In the background, Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers and How Rachel Reeves has mapped out the agenda for Andy Burnham’s government keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "description": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday.",
+      "title": "Judge tosses Trump&apos;s attempt to block Alaska Senate results if GOP incumbent loses",
+      "description": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska&apos;s U.S. Senate race if the Republican incumbent lost.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "publishedAt": "Sun, 01 Nov 2026 13:00:37 -0500"
+    },
+    {
+      "title": "The midterms will test the nation&apos;s political direction and confidence",
+      "description": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+      "publishedAt": "Sun, 01 Nov 2026 12:57:58 -0500"
+    },
+    {
+      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "description": "Indirect talks run into third day with Qatar trying to negotiate release of $6bn in Iranian assets that could lead to reopening of strait Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday. Indirect talks in Doha ran into a third day on Sunday, with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "publishedAt": "Sat, 31 Oct 2026 16:51:27 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+      "publishedAt": "Sun, 01 Nov 2026 17:49:28 GMT"
     },
     {
-      "title": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
-      "description": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in first such gathering under Burnham Almost 50 people have been arrested at the first mass demonstrations under Andy Burnham’s premiership opposing the proscription of Palestine Action. Hundreds of people gathered outside the US embassy in Battersea, south London, holding signs that read: “I oppose genocide, I support Palestine Action.” Demonstrators also held a vigil in support of the group outside the US consulate in Edinburgh.",
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "description": "Stevens lost the party’s Michigan primary by a close margin and had refused to endorse El-Sayed, with tensions between the two high Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of her party’s nominee on the eve of the midterm elections. Her endorsement came in a video posted to X after she attended an event with Rogers at the predominantly Black Perfecting church in Detroit on Sunday. The event marks a stunning political moment in Michigan, where control of the seat could be crucial to Democratic party.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-      "publishedAt": "Sat, 31 Oct 2026 16:38:19 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "publishedAt": "Sun, 01 Nov 2026 17:47:43 GMT"
     },
     {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 16:32:08 GMT"
-    },
-    {
-      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-      "description": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress. More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida . This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022.",
+      "title": "How Rachel Reeves has mapped out the agenda for Andy Burnham’s government",
+      "description": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future relationship?” It was not Andy Burnham, who has been the torchbearer for thinking the unthinkable on Brexit since he became prime minister. Instead, these are the words of the former chancellor Rachel Reeves, in a lecture six months ago.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-      "publishedAt": "Sat, 31 Oct 2026 16:13:17 GMT"
+      "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+      "publishedAt": "Sun, 01 Nov 2026 17:47:42 GMT"
     },
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:50:41 GMT"
-    },
-    {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT"
+      "title": "New York marathon: Sweden&apos;s Almgren and Kenya&apos;s Chepkirui win as 60,000 take part",
+      "description": "Andreas Almgren of Sweden won the men&apos;s race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women&apos;s race on Sunday for the second time.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+      "publishedAt": "Sun, 01 Nov 2026 12:33:21 -0500"
     }
   ],
   "headlinePool": [
     {
-      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "description": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "publishedAt": "Sat, 31 Oct 2026 16:51:27 GMT"
-    },
-    {
-      "title": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
-      "description": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in first such gathering under Burnham Almost 50 people have been arrested at the first mass demonstrations under Andy Burnham’s premiership opposing the proscription of Palestine Action. Hundreds of people gathered outside the US embassy in Battersea, south London, holding signs that read: “I oppose genocide, I support Palestine Action.” Demonstrators also held a vigil in support of the group outside the US consulate in Edinburgh.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-      "publishedAt": "Sat, 31 Oct 2026 16:38:19 GMT"
-    },
-    {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 16:32:08 GMT"
-    },
-    {
-      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-      "description": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress. More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida . This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-      "publishedAt": "Sat, 31 Oct 2026 16:13:17 GMT"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:50:41 GMT"
-    },
-    {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT"
-    },
-    {
-      "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
-      "description": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have plummeted as they face a number of pressures, including from online secondhand clothes platforms, prompting claims that a key part of the sector’s fundraising model could be under threat. According to unpublished accounts seen by the Financial Times , Oxfam’s retail profit fell 23% to £4.9m in the last financial year, compared with £6.4m in the previous year.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
-      "publishedAt": "Sat, 31 Oct 2026 15:10:52 GMT"
-    },
-    {
-      "title": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
-      "description": "Tucked away in John Healey’s budget is decision to ringfence preventative projects where future savings outweigh initial cost It merited the briefest of mentions in John Healey’s speech and just one paragraph in the 166-page budget document , but some believe it could revolutionise not just public spending but the very process of government itself: a new focus on long-term outcomes. The idea in the broad sense is very simple. Any spending deemed to be “preventative” – that is, the initial outlay will be more than made up for by future savings – will from now on be ringfenced, meaning it cannot be raided for more immediate needs.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
-      "publishedAt": "Sat, 31 Oct 2026 15:00:46 GMT"
-    },
-    {
-      "title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
-      "description": "But select Democrats, too, are being accused of having ties to the late sex offender as country prepares to vote In races across the country, Democratic candidates or groups that support them have released ads accusing Republicans of protecting pedophiles by voting against legislation to release files related to Jeffrey Epstein . The ads appear intended to evoke an emotional response by accusing candidates of “protecting” Epstein, a notorious pedophile accused of running a sex-trafficking ring involving minors.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
-      "publishedAt": "Sat, 31 Oct 2026 15:00:45 GMT"
-    },
-    {
-      "title": "Maurene Comey ruling offers hope of check on Trump’s assault on rule of law",
-      "description": "Legal experts welcome judge’s rejection of firing of James Comey’s daughter prosecutor but warn an appeal is likely A recent legal ruling against an effort to fire the star-prosecutor daughter of a former FBI chief targeted by Donald Trump could send a strong message about politicized firings – and influence other judges weighing similar cases, legal veterans said. Judge Jesse Furman ruled this week that the Department of Justice’s firing of assistant US attorney Maurene Comey without cause was unlawful. Comey, the daughter of former FBI director James Comey, successfully litigated numerous high-profile cases during her tenure at the southern district of New York, including guilty verdicts against Ghislaine Maxwell and Sean “Diddy” Combs.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
-      "publishedAt": "Sat, 31 Oct 2026 15:00:45 GMT"
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 14:28:15 GMT"
-    },
-    {
-      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-      "description": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
+      "title": "Judge tosses Trump&apos;s attempt to block Alaska Senate results if GOP incumbent loses",
+      "description": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska&apos;s U.S. Senate race if the Republican incumbent lost.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-      "publishedAt": "Sat, 31 Oct 2026 09:50:58 -0400"
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "publishedAt": "Sun, 01 Nov 2026 13:00:37 -0500"
     },
     {
-      "title": "Starmer says UK must get closer to Europe as US relationship changes",
-      "description": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The former prime minister warned European leaders of the threat posed by Russia, among others, and said the shift in relations with Washington during Donald Trump’s presidency was not likely to reset once he leaves the Oval Office. He accused them of being caught out by these new realities twice already.",
+      "title": "The midterms will test the nation&apos;s political direction and confidence",
+      "description": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+      "publishedAt": "Sun, 01 Nov 2026 12:57:58 -0500"
+    },
+    {
+      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "description": "Indirect talks run into third day with Qatar trying to negotiate release of $6bn in Iranian assets that could lead to reopening of strait Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday. Indirect talks in Doha ran into a third day on Sunday, with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
-      "publishedAt": "Sat, 31 Oct 2026 13:32:25 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+      "publishedAt": "Sun, 01 Nov 2026 17:49:28 GMT"
     },
     {
-      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
-      "description": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of wrongly handing over the investigation of an American fighter pilot who strangled a British woman to the US military, according to documents obtained by the Guardian. Cambridgeshire police allowed the US military police to quickly take control of the investigation into Capt Jacob Wulfson after he had been accused of sexually assaulting Sarah Steele in his Cambridge flat.",
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "description": "Stevens lost the party’s Michigan primary by a close margin and had refused to endorse El-Sayed, with tensions between the two high Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of her party’s nominee on the eve of the midterm elections. Her endorsement came in a video posted to X after she attended an event with Rogers at the predominantly Black Perfecting church in Detroit on Sunday. The event marks a stunning political moment in Michigan, where control of the seat could be crucial to Democratic party.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
-      "publishedAt": "Sat, 31 Oct 2026 13:30:43 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "publishedAt": "Sun, 01 Nov 2026 17:47:43 GMT"
     },
     {
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "title": "How Rachel Reeves has mapped out the agenda for Andy Burnham’s government",
+      "description": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future relationship?” It was not Andy Burnham, who has been the torchbearer for thinking the unthinkable on Brexit since he became prime minister. Instead, these are the words of the former chancellor Rachel Reeves, in a lecture six months ago.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+      "publishedAt": "Sun, 01 Nov 2026 17:47:42 GMT"
+    },
+    {
+      "title": "New York marathon: Sweden&apos;s Almgren and Kenya&apos;s Chepkirui win as 60,000 take part",
+      "description": "Andreas Almgren of Sweden won the men&apos;s race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women&apos;s race on Sunday for the second time.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+      "publishedAt": "Sun, 01 Nov 2026 12:33:21 -0500"
+    },
+    {
+      "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
+      "description": "Residents of Menomonie mounted a successful protest against a huge campus in the city as national resistance to the AI boom grows In the spring of 2025, Sydney Brennan was riding high. The 22-year-old was finishing college and was a newly elected councilwoman in Menomonie, a city of about 17,000 in the lush plains of north-western Wisconsin. Weeks into the new job, she was invited to a meeting with consultants pitching a $1.6bn AI hyperscale datacenter campus that an undisclosed big tech company wanted to build just outside of town. The project’s numbers were eye-opening: a 320-acre site that would use an estimated 75,000 gallons of water per day, making it the most significant development in Menomonie’s nearly 150-year history.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+      "publishedAt": "Sun, 01 Nov 2026 17:31:24 GMT"
+    },
+    {
+      "title": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
+      "description": "Arrests come ahead of Wednesday’s supreme court challenge to the ban on the direct action group Police have said they arrested 325 people on Saturday at a demonstration outside the US embassy in London against the proscription of Palestine Action. In updated arrest figures released on Sunday, the Metropolitan police said 320 people were detained outside the building in Battersea, south London, for allegedly expressing support for an organisation banned under the Terrorism Act.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london",
+      "publishedAt": "Sun, 01 Nov 2026 17:29:20 GMT"
+    },
+    {
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "description": "Kremlin says Kyiv is ‘simply ignoring’ US wishes days before midterm elections after reported strikes on two oil sites Ukraine has resumed its attacks on Russian oil refineries in defiance of pressure from Donald Trump ahead of the US midterm elections, with a ceasefire in the occupied town of Oleshky due to end late on Sunday. Russian state media said on Sunday Ukrainian long-range drones had set fire to the Kstovo refinery in Nizhny Novgorod oblast overnight, soon after a major strike against another big refinery in Samara oblast, owned by the Russian state energy giant Rosneft.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "publishedAt": "Sun, 01 Nov 2026 17:20:18 GMT"
+    },
+    {
+      "title": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "description": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI infrastructure. Last week the company agreed to purchase 29.5 hectares (73 acres) of land at Dorman Point on a site owned by Teesworks, a local private-public partnership. The deal was first reported by Sky News.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "publishedAt": "Sun, 01 Nov 2026 17:10:52 GMT"
+    },
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 12:50:45 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
+    },
+    {
+      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+      "description": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials say Ministers are prepared to spend as much as £450m a year to give students from the EU discounted university fees, the Guardian has learned, but only if Brussels allows the UK access to its Made in Europe industrial programme. The UK government has drawn up plans to allow students arriving from the continent pay the same fees as British students, sources say, and is willing to spend hundreds of millions of pounds compensating universities to do so.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+      "publishedAt": "Sun, 01 Nov 2026 17:00:16 GMT"
+    },
+    {
+      "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at the The Range LA. The news was first reported on celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+      "publishedAt": "Sun, 01 Nov 2026 16:39:37 GMT"
+    },
+    {
+      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+      "description": "Youth-led protests end with street violence in cities across France, Germany, Switzerland, Portugal and Albania French officials have opened an investigation into the attempted murder of a police officer and Germany’s interior minister has called for harsh penalties after peaceful and mainly youth-led protests across Europe ended in violence. In Portugal, police – some with dogs – cleared protest camps with baton charges, while security forces in Switzerland were attacked with paving stones.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+      "publishedAt": "Sun, 01 Nov 2026 16:24:38 GMT"
+    },
+    {
+      "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
+      "description": "Police say three separate shootings occurred in Deep Ellum neighborhood and are trying to determine if they’re related Police in Dallas say four people are dead and 15 are injured following separate shootings in a Dallas neighborhood. It was among several violent incidents nationwide on Halloween weekend. The police chief, Daniel Comeaux, said police are still trying to determine if the shootings in the Deep Ellum neighborhood were related.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
+      "publishedAt": "Sun, 01 Nov 2026 16:24:18 GMT"
     }
   ],
   "sources": [
     {
+      "id": "npr",
+      "name": "NPR Top Stories",
+      "siteUrl": "https://www.npr.org/"
+    },
+    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
-    },
-    {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
-  "theme": "citrus",
-  "layout": "orbit",
-  "seed": "2026-10-31-4554f1fb",
-  "generatedAt": "2026-10-31T17:18:56.577Z"
+  "theme": "ember",
+  "layout": "poster",
+  "seed": "2026-11-01-455565fd",
+  "generatedAt": "2026-11-01T18:01:16.549Z"
 }
