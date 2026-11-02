@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-02",
+  "localDateLabel": "Monday, November 2, 2026",
+  "summary": "Today’s pulse tracks Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live, Third person dies of bird flu since virus started jumping to livestock, and Russian bombing kills 26 people at Ukraine aid centre, Kyiv says. Across Guardian, Ars Technica, and BBC, the strongest repeated signals are stevens, campaign, and rogers. In the background, ‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers and Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes keep the wider picture in motion.",
+  "headlines": [
+    {
+      "title": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
+      "description": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election The survey took place before Democratic Congresswoman Haley Stevens announced that she would back Rogers in the contest – a vital seat for her party to retain in their quest for control of the Senate.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "publishedAt": "Mon, 02 Nov 2026 21:27:03 GMT"
+    },
+    {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "description": "The threat is still considered to be low, but the virus continues to spread.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "publishedAt": "Mon, 02 Nov 2026 21:21:43 +0000"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 21:10:04 GMT"
+    },
+    {
+      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+      "description": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Michigan Democrat Haley Stevens’ shocking last-minute endorsement of Mike Rogers, a Republican Senate candidate, in the run-up to the elections has sparked fierce backlash from members of her party. Stevens, who narrowly lost in the Democratic primary for Senate to Abdul El-Sayed, announced her support for Rogers after a feud with the El-Sayed campaign over an outside group’s campaign ad that blamed the high cost of living on US support for Israel.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "publishedAt": "Mon, 02 Nov 2026 21:05:09 GMT"
+    },
+    {
+      "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes",
+      "description": "Douglas DePodesta says he was made ‘scapegoat’ after collapse of case against Broadview Six anti-ICE protesters The former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president’s political opponents and making him a “scapegoat” after a major federal case against anti-ICE protesters fell apart. Douglas DePodesta, who served as FBI special agent in charge from 2024 until July 2026, alleged in a federal lawsuit filed on Monday that the Department of Justice (DoJ) had engaged in “misconduct” and “malfeasance” in its pursuit of unjust prosecutions – and that he was wrongly blamed for the DoJ’s missteps and unlawfully forced out of his job.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+      "publishedAt": "Mon, 02 Nov 2026 20:59:53 GMT"
+    },
+    {
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 20:54:44 GMT"
+    }
+  ],
+  "headlinePool": [
+    {
+      "title": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
+      "description": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election The survey took place before Democratic Congresswoman Haley Stevens announced that she would back Rogers in the contest – a vital seat for her party to retain in their quest for control of the Senate.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "publishedAt": "Mon, 02 Nov 2026 21:27:03 GMT"
+    },
+    {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "description": "The threat is still considered to be low, but the virus continues to spread.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "publishedAt": "Mon, 02 Nov 2026 21:21:43 +0000"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 21:10:04 GMT"
+    },
+    {
+      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+      "description": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Michigan Democrat Haley Stevens’ shocking last-minute endorsement of Mike Rogers, a Republican Senate candidate, in the run-up to the elections has sparked fierce backlash from members of her party. Stevens, who narrowly lost in the Democratic primary for Senate to Abdul El-Sayed, announced her support for Rogers after a feud with the El-Sayed campaign over an outside group’s campaign ad that blamed the high cost of living on US support for Israel.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "publishedAt": "Mon, 02 Nov 2026 21:05:09 GMT"
+    },
+    {
+      "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes",
+      "description": "Douglas DePodesta says he was made ‘scapegoat’ after collapse of case against Broadview Six anti-ICE protesters The former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president’s political opponents and making him a “scapegoat” after a major federal case against anti-ICE protesters fell apart. Douglas DePodesta, who served as FBI special agent in charge from 2024 until July 2026, alleged in a federal lawsuit filed on Monday that the Department of Justice (DoJ) had engaged in “misconduct” and “malfeasance” in its pursuit of unjust prosecutions – and that he was wrongly blamed for the DoJ’s missteps and unlawfully forced out of his job.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+      "publishedAt": "Mon, 02 Nov 2026 20:59:53 GMT"
+    },
+    {
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 20:54:44 GMT"
+    },
+    {
+      "title": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
+      "description": "US president shares delayed results of chaotic renovation on DC site as Americans prepare to head to the polls Donald Trump unveiled the delayed results of his $14m renovation of Washington DC’s Lincoln Memorial reflecting pool in what is expected to be his final press conference before voters head to the polls for the midterm elections. On the eve of a consequential election day, with polls indicating that most voters feel the US president has grown too focused on building projects in the nation’s capital, he stood in front of the newly opened reflecting pool to discuss – in detail – changes to the pool’s pipe, the grass surrounding the area and granite.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
+      "publishedAt": "Mon, 02 Nov 2026 20:42:37 GMT"
+    },
+    {
+      "title": "Migration is a moral issue for Burnham – but he also wants to tell a positive story",
+      "description": "While PM is keen to support those making a contribution his backing of Shabana Mahmood’s hard line is no surprise How will UK immigration rules change under Shabana Mahmood’s latest plans? While out on the campaign trail in Makerfield, Andy Burnham gave a glimpse into where he might land on Labour’s plans for immigration reform, which had already been decried by the left of the party as unfair and pushed by the right as electorally necessary. Asked what he thought of Reform’s attack on “open borders Andy” – Nigel Farage’s early attempt to define him as soft on migration – the then Manchester mayor dismissed the charge as “ridiculous” and went on the defensive.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+      "publishedAt": "Mon, 02 Nov 2026 20:39:52 GMT"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 20:08:51 GMT"
+    },
+    {
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "description": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters&apos; decisions.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "publishedAt": "Mon, 02 Nov 2026 15:02:41 -0500"
+    },
+    {
+      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "description": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue. But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+      "publishedAt": "Mon, 02 Nov 2026 20:00:27 GMT"
+    },
+    {
+      "title": "Is America really that polarized? The answer might be a surprise",
+      "description": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is &apos;messy middle&apos; majority of Americans who share overlapping political views.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+      "publishedAt": "Mon, 02 Nov 2026 15:00:00 -0500"
+    },
+    {
+      "title": "‘We cannot move forward’: Savannah Guthrie shares new post seeking information in mother’s disappearance",
+      "description": "Her latest plea comes three months after urging ‘someone to come forward’ with details about Nancy Guthrie Savannah Guthrie has issued a new plea for help on the whereabouts of her 84-year-old mother, who authorities believe was abducted in February. On Sunday, the Today show co-host shared a photo of an old drawing made by her daughter featuring an umbrella and the words: “I know it might not seem like it but I really need my mommy.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/savannah-guthrie-mother-nancy-new-post",
+      "publishedAt": "Mon, 02 Nov 2026 19:59:30 GMT"
+    },
+    {
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 19:58:34 GMT"
+    },
+    {
+      "title": "Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told",
+      "description": "Defence barrister says earlier allegations about comedian’s sexual conduct ‘poisoned the wells’ of justice as trial continues Russell Brand is not a “psychopath who rapes people and thinks it’s normal” and is respectful when women say no, a court has heard. In his closing speech at Southwark crown court, Brand’s barrister, Ian Winter KC, questioned why Brand’s accusers had not fought back when they were allegedly raped, saying “not one of them resisted or screamed or even tried to leave”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
+      "publishedAt": "Mon, 02 Nov 2026 19:57:56 GMT"
+    }
+  ],
+  "sources": [
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "ars",
+      "name": "Ars Technica",
+      "siteUrl": "https://arstechnica.com/"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    }
+  ],
+  "theme": "ember",
+  "layout": "ticker",
+  "seed": "2026-11-02-455565fe",
+  "generatedAt": "2026-11-02T21:51:42.469Z"
+}
