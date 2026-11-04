@@ -1,198 +1,198 @@
 {
-  "date": "2026-11-03",
-  "localDateLabel": "Tuesday, November 3, 2026",
-  "summary": "Today’s pulse tracks US midterm elections 2026 live: Americans go to the polls to decide control of Congress, Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel, and NYT demands Brave shut down its paywall blocker and end deals with AI firms. Across Guardian and Ars Technica, the strongest repeated signals are trump, novel, and against. In the background, Seven reported bomb threats against European flights confirmed as false alarms – as it happened and Buttons are back and storage is king when it comes to car interiors keep the wider picture in motion.",
+  "date": "2026-11-04",
+  "localDateLabel": "Wednesday, November 4, 2026",
+  "summary": "Today’s pulse tracks US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity, Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm, and The midterms were a thumping rebuke of the US-Israel relationship. Across Guardian, the strongest repeated signals are trump, republican, and israel. In the background, US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’ and Miami helicopter crash leaves one person dead and two injured keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
-      "description": "Voters are casting their ballots across the US in a referendum on Donald Trump’s agenda Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump’s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters’ top concern. Iran : Trump’s decision to go to war with the Tehran regime has exacerbated economic worries. Iran’s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US’s supposed addiction to “forever wars”. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it “super intelligence”.",
+      "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
+      "description": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Live results | Republican losses mapped The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 both gained more than 1%. That’s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prospect of tougher regulation of the AI sector and the impact on economic growth.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "Tue, 03 Nov 2026 19:13:09 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "publishedAt": "Wed, 04 Nov 2026 19:51:34 GMT"
     },
     {
-      "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
-      "description": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015 Sarah J Maas’s long-awaited return to her bestselling romantasy series has smashed UK sales records, with A Court of Splintered Harmony becoming the fastest-selling adult fantasy novel since accurate records began in 1998. The novel, the sixth in Maas’s A Court of Thorns and Roses (Acotar) series and her first return to it in more than five years, sold 188,914 copies in the UK between publication day on 27 October and 31 October, according to NielsenIQ BookData. That also makes it the fastest-selling hardback novel since Dan Brown’s Inferno, which sold 229,000 copies in its first week in 2013.",
+      "title": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
+      "description": "Conservation officers say the women reported missing over the weekend, were found near a trail near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
-      "publishedAt": "Tue, 03 Nov 2026 18:51:16 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+      "publishedAt": "Wed, 04 Nov 2026 19:42:47 GMT"
     },
     {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "description": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "publishedAt": "Tue, 03 Nov 2026 18:30:27 +0000"
-    },
-    {
-      "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-      "description": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by security forces. Ukraine’s Zelenskyy has said his talks with Merz and Germany’s president Steinmeier will focus on “diplomatic coordination” on air defence and energy sector. “These will be the priorities of today’s talks. We all have an interest in security, stability, and protecting the rules-based international order. And we must work together to turn these principles into concrete decisions and actions.”",
+      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+      "description": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it, “they don’t need it”, was condemned across the board – with pro-Palestinian advocates dismissing it as “desperate” and pro-Israel ones as “unserious”.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-      "publishedAt": "Tue, 03 Nov 2026 18:22:57 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+      "publishedAt": "Wed, 04 Nov 2026 19:22:43 GMT"
     },
     {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "description": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "publishedAt": "Tue, 03 Nov 2026 18:19:31 +0000"
-    },
-    {
-      "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
-      "description": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed The Liberal Democrat peer Chris Rennard has been told there will be no further investigation into sexual harassment allegations made against him, after an independent panel concluded it could not reopen the claim. The party leader, Ed Davey, said he was “disappointed and upset” by the conclusion, having suspended Rennard from the party after an investigation was reopened earlier this year amid claims a previous inquiry was flawed.",
+      "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+      "description": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states The United States woke up to a radically altered political landscape on Wednesday after Donald Trump was dealt a devastating blow in the midterm elections, in which his Republican party was stripped of control of the Senate and the House as his handpicked “Maga” candidates were swept away by a blue tsunami. With counting still going on in a couple of Senate races, and with 68 House seats as yet undeclared, Democrats were assured of a congressional majority far more comfortable than most pundits had predicted. They had flipped at least seven Senate seats, in such deep-red states as Texas and Kansas, which hadn’t sent a Democrat to the upper chamber for 94 years, along with more than two dozen House districts.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
-      "publishedAt": "Tue, 03 Nov 2026 18:03:07 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+      "publishedAt": "Wed, 04 Nov 2026 19:22:04 GMT"
+    },
+    {
+      "title": "Miami helicopter crash leaves one person dead and two injured",
+      "description": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport Authorities including the US Coast Guard responded to the crash at approximately 11.30am on Wednesday. According to the USCG, the helicopter – a Robinson R44 II – was carrying three people on board and crashed in the waters of Biscayne Bay, east of Miami executive airport.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
+      "publishedAt": "Wed, 04 Nov 2026 19:19:34 GMT"
+    },
+    {
+      "title": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+      "description": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans Jon Rosenthal has won a seat on the Texas railroad commission, a powerful state regulatory agency, beating out two challengers including the controversial Republican nominee Bo French whose campaign ignited a firestorm over his bigoted remarks . Rosenthal, a Democrat, will join the three-member body that Democrats have been shut out of for decades. The state agency is charged with regulating Texas’s multibillion oil and gas industry, and has not had railroad oversight since 2005.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+      "publishedAt": "Wed, 04 Nov 2026 19:13:37 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
-      "description": "Voters are casting their ballots across the US in a referendum on Donald Trump’s agenda Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump’s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters’ top concern. Iran : Trump’s decision to go to war with the Tehran regime has exacerbated economic worries. Iran’s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US’s supposed addiction to “forever wars”. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it “super intelligence”.",
+      "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
+      "description": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Live results | Republican losses mapped The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 both gained more than 1%. That’s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prospect of tougher regulation of the AI sector and the impact on economic growth.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "Tue, 03 Nov 2026 19:13:09 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "publishedAt": "Wed, 04 Nov 2026 19:51:34 GMT"
     },
     {
-      "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
-      "description": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015 Sarah J Maas’s long-awaited return to her bestselling romantasy series has smashed UK sales records, with A Court of Splintered Harmony becoming the fastest-selling adult fantasy novel since accurate records began in 1998. The novel, the sixth in Maas’s A Court of Thorns and Roses (Acotar) series and her first return to it in more than five years, sold 188,914 copies in the UK between publication day on 27 October and 31 October, according to NielsenIQ BookData. That also makes it the fastest-selling hardback novel since Dan Brown’s Inferno, which sold 229,000 copies in its first week in 2013.",
+      "title": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
+      "description": "Conservation officers say the women reported missing over the weekend, were found near a trail near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
-      "publishedAt": "Tue, 03 Nov 2026 18:51:16 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+      "publishedAt": "Wed, 04 Nov 2026 19:42:47 GMT"
     },
     {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "description": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "publishedAt": "Tue, 03 Nov 2026 18:30:27 +0000"
-    },
-    {
-      "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-      "description": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by security forces. Ukraine’s Zelenskyy has said his talks with Merz and Germany’s president Steinmeier will focus on “diplomatic coordination” on air defence and energy sector. “These will be the priorities of today’s talks. We all have an interest in security, stability, and protecting the rules-based international order. And we must work together to turn these principles into concrete decisions and actions.”",
+      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+      "description": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it, “they don’t need it”, was condemned across the board – with pro-Palestinian advocates dismissing it as “desperate” and pro-Israel ones as “unserious”.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-      "publishedAt": "Tue, 03 Nov 2026 18:22:57 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+      "publishedAt": "Wed, 04 Nov 2026 19:22:43 GMT"
     },
     {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "description": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "publishedAt": "Tue, 03 Nov 2026 18:19:31 +0000"
-    },
-    {
-      "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
-      "description": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed The Liberal Democrat peer Chris Rennard has been told there will be no further investigation into sexual harassment allegations made against him, after an independent panel concluded it could not reopen the claim. The party leader, Ed Davey, said he was “disappointed and upset” by the conclusion, having suspended Rennard from the party after an investigation was reopened earlier this year amid claims a previous inquiry was flawed.",
+      "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+      "description": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states The United States woke up to a radically altered political landscape on Wednesday after Donald Trump was dealt a devastating blow in the midterm elections, in which his Republican party was stripped of control of the Senate and the House as his handpicked “Maga” candidates were swept away by a blue tsunami. With counting still going on in a couple of Senate races, and with 68 House seats as yet undeclared, Democrats were assured of a congressional majority far more comfortable than most pundits had predicted. They had flipped at least seven Senate seats, in such deep-red states as Texas and Kansas, which hadn’t sent a Democrat to the upper chamber for 94 years, along with more than two dozen House districts.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
-      "publishedAt": "Tue, 03 Nov 2026 18:03:07 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+      "publishedAt": "Wed, 04 Nov 2026 19:22:04 GMT"
     },
     {
-      "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-      "description": "Person’s anonymity remains in place subject to any appeal against high court decision A “well-known individual” has failed in his attempt to stop two media organisations from publishing allegations of inappropriate sexual activities towards young women, the high court has ruled. The legal team for the anonymous individual, known in court only as PPT, had claimed he was “highly likely” to attempt suicide if the Guardian and ITN published the allegations, which he denies.",
+      "title": "Miami helicopter crash leaves one person dead and two injured",
+      "description": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport Authorities including the US Coast Guard responded to the crash at approximately 11.30am on Wednesday. According to the USCG, the helicopter – a Robinson R44 II – was carrying three people on board and crashed in the waters of Biscayne Bay, east of Miami executive airport.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-      "publishedAt": "Tue, 03 Nov 2026 17:56:14 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
+      "publishedAt": "Wed, 04 Nov 2026 19:19:34 GMT"
     },
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "title": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+      "description": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans Jon Rosenthal has won a seat on the Texas railroad commission, a powerful state regulatory agency, beating out two challengers including the controversial Republican nominee Bo French whose campaign ignited a firestorm over his bigoted remarks . Rosenthal, a Democrat, will join the three-member body that Democrats have been shut out of for decades. The state agency is charged with regulating Texas’s multibillion oil and gas industry, and has not had railroad oversight since 2005.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+      "publishedAt": "Wed, 04 Nov 2026 19:13:37 GMT"
+    },
+    {
+      "title": "California progressive Randy Villegas wins redrawn House seat for Democrats",
+      "description": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with notable progressive endorsements, has won the race for California ’s 22nd congressional district in an contest that shaped up to be one of the toughest political battles in the state. He unseated the six-term, incumbent Republican congressman, David Valadao, in a district that was considered the only true toss-up across the state of California after being redrawn under Proposition 50 , a voter-approved ballot initiative that remade the state’s voting maps last year.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+      "publishedAt": "Wed, 04 Nov 2026 18:47:56 GMT"
+    },
+    {
+      "title": "Chuck Schumer heralds Democrats&apos; &apos;generational remake&apos; of Senate",
+      "description": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it&apos;s up to the Democratic party to deliver.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+      "publishedAt": "Wed, 04 Nov 2026 13:37:34 -0500"
+    },
+    {
+      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "description": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. “A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+      "publishedAt": "Wed, 04 Nov 2026 18:18:37 GMT"
+    },
+    {
+      "title": "Mike Johnson will step aside as top House Republican next Congress",
+      "description": "After Tuesday&apos;s bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+      "publishedAt": "Wed, 04 Nov 2026 13:14:13 -0500"
+    },
+    {
+      "title": "Husband who invited men to rape wife asked for an online review, court told",
+      "description": "Nine men on trial in Manchester accused of either taking part in abuse or encouraging offending on internet A husband who invited other men to rape and sexually assault his wife arranged for “more and more individuals” to visit his marital home as he resolved “to satisfy his own perversity”, a jury has been told. The husband, who is in his 60s and from Stockport in Greater Manchester, has pleaded guilty to more than 60 offences against his wife. He cannot be named in order to protect the anonymity of his victim.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
+      "publishedAt": "Wed, 04 Nov 2026 18:07:57 GMT"
+    },
+    {
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 17:56:03 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 18:01:31 GMT"
     },
     {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "description": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+      "description": "It won't win the specs race, but it will actually fit in your hand.",
       "sourceId": "ars",
       "sourceName": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "publishedAt": "Tue, 03 Nov 2026 17:54:43 +0000"
+      "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+      "publishedAt": "Wed, 04 Nov 2026 18:00:40 +0000"
     },
     {
-      "title": "US man charged with mailing hundreds of letters containing powder to officials before midterms",
-      "description": "Oklahoma man accused of sending letters with white nonhazardous powder before 2024 and 2026 elections Federal authorities have charged an Oklahoma man with sending hundreds of letters containing nonhazardous white powder to public officials before the 2024 and 2026 elections. The powders turned out to be yeast or flour, though not all letters had been fully tested, the FBI said in a court filing made public on Tuesday.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms",
-      "publishedAt": "Tue, 03 Nov 2026 17:50:43 GMT"
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 17:45:58 GMT"
     },
     {
-      "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
-      "description": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the warm words for the group from King Charles and the prime minister, Andy Burnham , this week. Amid sharp cuts in the UK’s aid budget overall, the Commonwealth has fared poorly, an analysis of the most recent and projected aid figures, seen by the Guardian, has shown.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
-      "publishedAt": "Tue, 03 Nov 2026 17:49:57 GMT"
-    },
-    {
-      "title": "Man who drugged and raped wife found many men ‘whose fantasy is an unconscious woman’, court told",
-      "description": "Nine men stand trial in Manchester accused of participating in abuse at couple’s home in Stockport, or encouraging it online The Stockport man who drugged, raped and sexually assaulted his wife personally found a large number of the “many, many men whose fantasy is an unconscious and unresponsive woman”, a court has heard. Nine men are on trial at Manchester Minshull Street crown court, accused of either participating in the abuse, which took place at the couple’s home, or encouraging it online.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/03/man-drugged-and-raped-wife-stockport-men-fantasy-unconscious-woman-court-told",
-      "publishedAt": "Tue, 03 Nov 2026 17:47:15 GMT"
-    },
-    {
-      "title": "Pardoned January 6 participant charged over alleged threats to kill federal judges",
-      "description": "Cleveland Meredith arrested after allegedly posting a call to execute all judges involved in 2021 US Capitol attack trials A man pardoned by Donald Trump for participating in January 6 attack on the US Capitol and threatening to kill the then house speaker, Nancy Pelosi , is facing new charges for threatening to kill federal judges that presided over his and other cases arising from the violent anti-government clash. Cleveland Meredith, from North Carolina , was arrested on Monday over a Facebook post in April that allegedly read: “ALL J6 Federal JUDGES will be EXECUTED!”",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/03/jan-6-rioter-judges-murder-threat",
-      "publishedAt": "Tue, 03 Nov 2026 17:45:40 GMT"
-    },
-    {
-      "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-      "description": "Unclear if series of incidents affecting two UK departures and a number of Ryanair services among others are connected Europe live – latest updates At least seven planes around Europe were searched or diverted after a series of bomb threats to passenger flights on Tuesday. Two UK departures and a number of Ryanair flights were threatened in what the UK government called “malicious hoaxes”, after all planes landed safely and no explosives were found.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-      "publishedAt": "Tue, 03 Nov 2026 17:32:45 GMT"
-    },
-    {
-      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-      "description": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-      "publishedAt": "Tue, 03 Nov 2026 17:28:49 GMT"
+      "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+      "description": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump&apos;s business interests may all come under the microscope.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+      "publishedAt": "Wed, 04 Nov 2026 12:38:36 -0500"
     }
   ],
   "sources": [
@@ -200,15 +200,10 @@
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
-    },
-    {
-      "id": "ars",
-      "name": "Ars Technica",
-      "siteUrl": "https://arstechnica.com/"
     }
   ],
-  "theme": "ember",
-  "layout": "orbit",
-  "seed": "2026-11-03-455565ff",
-  "generatedAt": "2026-11-03T19:42:20.820Z"
+  "theme": "lagoon",
+  "layout": "poster",
+  "seed": "2026-11-04-45556600",
+  "generatedAt": "2026-11-04T19:57:29.862Z"
 }
