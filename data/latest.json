@@ -1,201 +1,206 @@
 {
-  "date": "2026-11-12",
-  "localDateLabel": "Thursday, November 12, 2026",
-  "summary": "Today’s pulse tracks Ars Live: Can the cloud survive drone strikes on data centers, ‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community, and The Elder Scrolls&#039; most obscure adventure gets a 4K PC makeover. Across Ars Technica, Guardian, and BBC, the strongest repeated signals are huang, nvidia, and jensen. In the background, Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live and Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live keep the wider picture in motion.",
+  "date": "2026-11-13",
+  "localDateLabel": "Friday, November 13, 2026",
+  "summary": "Today’s pulse tracks Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague, Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket, and Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live. Across BBC, Ars Technica, and Guardian, the strongest repeated signals are trump, nvidia, and asylum. In the background, US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border and Walliams allegations prompt calls for staggered age of consent at 16 and 17 keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
-      "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "publishedAt": "Thu, 12 Nov 2026 19:59:59 +0000"
-    },
-    {
-      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
-      "description": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-      "publishedAt": "Thu, 12 Nov 2026 19:49:24 GMT"
-    },
-    {
-      "title": "The Elder Scrolls&#039; most obscure adventure gets a 4K PC makeover",
-      "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "publishedAt": "Thu, 12 Nov 2026 19:49:11 +0000"
-    },
-    {
-      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-      "description": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "publishedAt": "Thu, 12 Nov 2026 19:46:10 GMT"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "description": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "publishedAt": "Thu, 12 Nov 2026 19:38:03 GMT"
-    },
-    {
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 19:33:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
+    },
+    {
+      "title": "Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket",
+      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "publishedAt": "Fri, 13 Nov 2026 19:49:16 +0000"
+    },
+    {
+      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
+      "description": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "publishedAt": "Fri, 13 Nov 2026 19:40:15 GMT"
+    },
+    {
+      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+      "description": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+      "publishedAt": "Fri, 13 Nov 2026 19:38:35 GMT"
+    },
+    {
+      "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
+      "description": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection for 16- and 17-year-olds from being sexually exploited by older adults. A staggered consent law is one route favoured by campaigners, supported by some Labour MPs. Claire Waxman, the victims’ commissioner for England and Wales, has called for “serious conversations” on the potential for legislative change.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+      "publishedAt": "Fri, 13 Nov 2026 19:23:07 GMT"
+    },
+    {
+      "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
+      "description": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an analysis has found . In May 2025, Trump’s administration rescinded a Biden-era rule designed to prevent the most advanced US-made AI chips from being exported to China.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+      "publishedAt": "Fri, 13 Nov 2026 19:09:05 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
-      "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "publishedAt": "Thu, 12 Nov 2026 19:59:59 +0000"
-    },
-    {
-      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
-      "description": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-      "publishedAt": "Thu, 12 Nov 2026 19:49:24 GMT"
-    },
-    {
-      "title": "The Elder Scrolls&#039; most obscure adventure gets a 4K PC makeover",
-      "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "publishedAt": "Thu, 12 Nov 2026 19:49:11 +0000"
-    },
-    {
-      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-      "description": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "publishedAt": "Thu, 12 Nov 2026 19:46:10 GMT"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "description": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "publishedAt": "Thu, 12 Nov 2026 19:38:03 GMT"
-    },
-    {
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 19:33:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
     },
     {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "description": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "title": "Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket",
+      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
       "sourceId": "ars",
       "sourceName": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "publishedAt": "Thu, 12 Nov 2026 19:23:03 +0000"
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "publishedAt": "Fri, 13 Nov 2026 19:49:16 +0000"
     },
     {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
+      "description": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "publishedAt": "Fri, 13 Nov 2026 19:40:15 GMT"
+    },
+    {
+      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+      "description": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+      "publishedAt": "Fri, 13 Nov 2026 19:38:35 GMT"
+    },
+    {
+      "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
+      "description": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection for 16- and 17-year-olds from being sexually exploited by older adults. A staggered consent law is one route favoured by campaigners, supported by some Labour MPs. Claire Waxman, the victims’ commissioner for England and Wales, has called for “serious conversations” on the potential for legislative change.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+      "publishedAt": "Fri, 13 Nov 2026 19:23:07 GMT"
+    },
+    {
+      "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
+      "description": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an analysis has found . In May 2025, Trump’s administration rescinded a Biden-era rule designed to prevent the most advanced US-made AI chips from being exported to China.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+      "publishedAt": "Fri, 13 Nov 2026 19:09:05 GMT"
+    },
+    {
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:03:10 GMT"
     },
     {
-      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-      "description": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services. Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-      "publishedAt": "Thu, 12 Nov 2026 19:15:30 GMT"
-    },
-    {
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "publishedAt": "Thu, 12 Nov 2026 19:09:57 +0000"
-    },
-    {
-      "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-      "description": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "publishedAt": "Thu, 12 Nov 2026 19:09:00 GMT"
-    },
-    {
-      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-      "description": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site on Thursday, Trump said he was redirecting the vice-president to focus his “complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S”.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-      "publishedAt": "Thu, 12 Nov 2026 19:01:16 GMT"
-    },
-    {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "description": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "publishedAt": "Thu, 12 Nov 2026 18:57:45 +0000"
-    },
-    {
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "description": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 18:47:35 GMT"
-    },
-    {
-      "title": "&apos;Punch in the gut&apos;: Homes sales fall to their lowest in 16 years",
-      "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "title": "What&apos;s Trump&apos;s strategy now with Iran? To keep things as they are",
+      "description": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-      "publishedAt": "Thu, 12 Nov 2026 13:44:00 -0500"
+      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "publishedAt": "Fri, 13 Nov 2026 14:02:04 -0500"
+    },
+    {
+      "title": "Families clear homes of David Walliams books after sexual offence allegations",
+      "description": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World Book Day – they love the over-the-top, unusual names and illustrations. Now, all the books are going. “I’ll probably take them away and replace them with other authors,” says Sarah, a mother in west London. “Sooner rather than later, so they don’t realise.” If any of her children ask why, she will tell them “that his choices aren’t great and that I think we should be reading other books”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+      "publishedAt": "Fri, 13 Nov 2026 18:55:08 GMT"
+    },
+    {
+      "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
+      "description": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in reports by ITV and the Guardian this week of using his power and celebrity status to prey on young women and teenagers for sex. He has denied any wrongdoing, being a sexual predator or breaking the law.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+      "publishedAt": "Fri, 13 Nov 2026 18:53:28 GMT"
+    },
+    {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
+    },
+    {
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 18:34:45 GMT"
+    },
+    {
+      "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
+      "description": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election amid concern inside government that they must take the prospect of a Kemi Badenoch-led recovery seriously. Downing Street sources said the prime minister wanted Labour headquarters to refocus on the Tories as an electoral threat after more than two years of prioritising Nigel Farage’s Reform and, on their left flank, the Greens.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
+      "publishedAt": "Fri, 13 Nov 2026 18:20:01 GMT"
+    },
+    {
+      "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
+      "description": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip. “I’m not going to take any shit and I don’t fuck about,” said Anneliese Midgley, the Labour government’s newest head of party discipline, shedding some light on her direct approach to keeping MPs in line.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
+      "publishedAt": "Fri, 13 Nov 2026 18:16:15 GMT"
+    },
+    {
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "description": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Microsoft has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. The company said the outage was a “technical issue” not related to cyber-attacks or AI agents, and that it continued to gradually restore services.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "publishedAt": "Fri, 13 Nov 2026 17:41:15 GMT"
     }
   ],
   "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    },
     {
       "id": "ars",
       "name": "Ars Technica",
@@ -205,15 +210,10 @@
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
-    },
-    {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
   "theme": "newsprint",
-  "layout": "orbit",
-  "seed": "2026-11-12-4555661d",
-  "generatedAt": "2026-11-12T20:15:38.574Z"
+  "layout": "poster",
+  "seed": "2026-11-13-4555661e",
+  "generatedAt": "2026-11-13T19:56:25.481Z"
 }
