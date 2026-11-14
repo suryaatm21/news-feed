@@ -1,198 +1,198 @@
 {
-  "date": "2026-11-13",
-  "localDateLabel": "Friday, November 13, 2026",
-  "summary": "Today’s pulse tracks Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague, Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket, and Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live. Across BBC, Ars Technica, and Guardian, the strongest repeated signals are trump, nvidia, and asylum. In the background, US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border and Walliams allegations prompt calls for staggered age of consent at 16 and 17 keep the wider picture in motion.",
+  "date": "2026-11-14",
+  "localDateLabel": "Saturday, November 14, 2026",
+  "summary": "Today’s pulse tracks Philippines wins first Eurovision Song Contest Asia, Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress', and Family of Watford woman set alight ‘desperate for answers’ after attack. Across BBC and Guardian, the strongest repeated signals are patients, cancer, and family. In the background, Copper wire upgrade caused nationwide flight suspension, US transport secretary says and US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "description": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:17:58 GMT"
     },
     {
-      "title": "Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket",
-      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "publishedAt": "Fri, 13 Nov 2026 19:49:16 +0000"
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:00:10 GMT"
     },
     {
-      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
-      "description": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered.",
+      "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+      "description": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Watford have said that they are “desperate for answers”. Brenda Raymond, 80, was found set alight outside her flat on Caractacus Cottage View on Monday. She was taken to a nearby hospital, where she is in critical condition.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "publishedAt": "Fri, 13 Nov 2026 19:40:15 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+      "publishedAt": "Sat, 14 Nov 2026 17:59:12 GMT"
     },
     {
-      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
-      "description": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal.",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 17:16:36 GMT"
+    },
+    {
+      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+      "description": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began when a contractor was performing “routine maintenance” at a remote FAA facility to “switch telecommunications lines” from copper wire to fiber optic cable.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
-      "publishedAt": "Fri, 13 Nov 2026 19:38:35 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "publishedAt": "Sat, 14 Nov 2026 17:11:18 GMT"
     },
     {
-      "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
-      "description": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection for 16- and 17-year-olds from being sexually exploited by older adults. A staggered consent law is one route favoured by campaigners, supported by some Labour MPs. Claire Waxman, the victims’ commissioner for England and Wales, has called for “serious conversations” on the potential for legislative change.",
+      "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+      "description": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to meet its targets, amid a failure of leadership, focus and resource, experts have warned. The NHS set an interim target to treat 80% of cancer patients within 62 days of urgent referral or consultant upgrade by March 2027. But with little more than 100 days to go, the proportion of patients starting treatment on time in September was 70.7%, down from 71.9% in August, NHS figures show.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
-      "publishedAt": "Fri, 13 Nov 2026 19:23:07 GMT"
-    },
-    {
-      "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
-      "description": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an analysis has found . In May 2025, Trump’s administration rescinded a Biden-era rule designed to prevent the most advanced US-made AI chips from being exported to China.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-      "publishedAt": "Fri, 13 Nov 2026 19:09:05 GMT"
+      "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+      "publishedAt": "Sat, 14 Nov 2026 17:00:49 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "description": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:17:58 GMT"
     },
     {
-      "title": "Trump Jr. out as Kalshi advisor after his firm&#039;s big investment in Polymarket",
-      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "publishedAt": "Fri, 13 Nov 2026 19:49:16 +0000"
-    },
-    {
-      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
-      "description": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "publishedAt": "Fri, 13 Nov 2026 19:40:15 GMT"
-    },
-    {
-      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
-      "description": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
-      "publishedAt": "Fri, 13 Nov 2026 19:38:35 GMT"
-    },
-    {
-      "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
-      "description": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection for 16- and 17-year-olds from being sexually exploited by older adults. A staggered consent law is one route favoured by campaigners, supported by some Labour MPs. Claire Waxman, the victims’ commissioner for England and Wales, has called for “serious conversations” on the potential for legislative change.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
-      "publishedAt": "Fri, 13 Nov 2026 19:23:07 GMT"
-    },
-    {
-      "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
-      "description": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an analysis has found . In May 2025, Trump’s administration rescinded a Biden-era rule designed to prevent the most advanced US-made AI chips from being exported to China.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-      "publishedAt": "Fri, 13 Nov 2026 19:09:05 GMT"
-    },
-    {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 19:03:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:00:10 GMT"
     },
     {
-      "title": "What&apos;s Trump&apos;s strategy now with Iran? To keep things as they are",
-      "description": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+      "description": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Watford have said that they are “desperate for answers”. Brenda Raymond, 80, was found set alight outside her flat on Caractacus Cottage View on Monday. She was taken to a nearby hospital, where she is in critical condition.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+      "publishedAt": "Sat, 14 Nov 2026 17:59:12 GMT"
+    },
+    {
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 17:16:36 GMT"
+    },
+    {
+      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+      "description": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began when a contractor was performing “routine maintenance” at a remote FAA facility to “switch telecommunications lines” from copper wire to fiber optic cable.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "publishedAt": "Sat, 14 Nov 2026 17:11:18 GMT"
+    },
+    {
+      "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+      "description": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to meet its targets, amid a failure of leadership, focus and resource, experts have warned. The NHS set an interim target to treat 80% of cancer patients within 62 days of urgent referral or consultant upgrade by March 2027. But with little more than 100 days to go, the proportion of patients starting treatment on time in September was 70.7%, down from 71.9% in August, NHS figures show.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+      "publishedAt": "Sat, 14 Nov 2026 17:00:49 GMT"
+    },
+    {
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+      "description": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically shifted political power across the US. Former Alaska state legislator Jonathan Kreiss-Tomkins defeated three Republican opponents, including a candidate backed by Donald Trump , becoming the first Democrat elected governor of Alaska since 1998.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "publishedAt": "Sat, 14 Nov 2026 16:58:33 GMT"
+    },
+    {
+      "title": "FAA blames Friday&apos;s ground stop on &apos;equipment issue&apos; during telecoms network upgrade",
+      "description": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-      "publishedAt": "Fri, 13 Nov 2026 14:02:04 -0500"
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "publishedAt": "Sat, 14 Nov 2026 11:53:04 -0500"
     },
     {
-      "title": "Families clear homes of David Walliams books after sexual offence allegations",
-      "description": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World Book Day – they love the over-the-top, unusual names and illustrations. Now, all the books are going. “I’ll probably take them away and replace them with other authors,” says Sarah, a mother in west London. “Sooner rather than later, so they don’t realise.” If any of her children ask why, she will tell them “that his choices aren’t great and that I think we should be reading other books”.",
+      "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+      "description": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West Midlands and Yorkshire and the Humber, and will be in place from 9pm on Sunday until 9am on Thursday.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
-      "publishedAt": "Fri, 13 Nov 2026 18:55:08 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "publishedAt": "Sat, 14 Nov 2026 16:42:04 GMT"
     },
     {
-      "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
-      "description": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in reports by ITV and the Guardian this week of using his power and celebrity status to prey on young women and teenagers for sex. He has denied any wrongdoing, being a sexual predator or breaking the law.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-      "publishedAt": "Fri, 13 Nov 2026 18:53:28 GMT"
-    },
-    {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 16:29:48 GMT"
     },
     {
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "title": "Fuel crisis and protests pressure Chile&apos;s far-right president",
+      "description": "Chile&apos;s far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "publishedAt": "Sat, 14 Nov 2026 11:05:12 -0500"
+    },
+    {
+      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "description": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month. A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "publishedAt": "Sat, 14 Nov 2026 16:00:48 GMT"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:34:45 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 15:53:55 GMT"
     },
     {
-      "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
-      "description": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election amid concern inside government that they must take the prospect of a Kemi Badenoch-led recovery seriously. Downing Street sources said the prime minister wanted Labour headquarters to refocus on the Tories as an electoral threat after more than two years of prioritising Nigel Farage’s Reform and, on their left flank, the Greens.",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 15:42:54 GMT"
+    },
+    {
+      "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+      "description": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form closer ties with Brussels, Burnham accused the Conservative party of having “burned all our bridges” with the bloc after Brexit and said a new deal he hopes to secure with the EU next week will “get food prices down” and put more money in the pockets of British exporters.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-      "publishedAt": "Fri, 13 Nov 2026 18:20:01 GMT"
-    },
-    {
-      "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
-      "description": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip. “I’m not going to take any shit and I don’t fuck about,” said Anneliese Midgley, the Labour government’s newest head of party discipline, shedding some light on her direct approach to keeping MPs in line.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
-      "publishedAt": "Fri, 13 Nov 2026 18:16:15 GMT"
-    },
-    {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "description": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Microsoft has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. The company said the outage was a “technical issue” not related to cyber-attacks or AI agents, and that it continued to gradually restore services.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "publishedAt": "Fri, 13 Nov 2026 17:41:15 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "publishedAt": "Sat, 14 Nov 2026 15:34:54 GMT"
     }
   ],
   "sources": [
@@ -202,18 +202,13 @@
       "siteUrl": "https://www.bbc.com/news/world"
     },
     {
-      "id": "ars",
-      "name": "Ars Technica",
-      "siteUrl": "https://arstechnica.com/"
-    },
-    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
     }
   ],
   "theme": "newsprint",
-  "layout": "poster",
-  "seed": "2026-11-13-4555661e",
-  "generatedAt": "2026-11-13T19:56:25.481Z"
+  "layout": "ticker",
+  "seed": "2026-11-14-4555661f",
+  "generatedAt": "2026-11-14T18:23:57.619Z"
 }
