@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-16",
+  "localDateLabel": "Monday, November 16, 2026",
+  "summary": "Today’s pulse tracks Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO, Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live, and Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106. Across BBC, Guardian, and NPR, the strongest repeated signals are attack, california, and waves. In the background, California braces for more towering waves as powerful storms approach and California sues OpenAI over hacking risks keep the wider picture in motion.",
+  "headlines": [
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 22:21:27 GMT"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "description": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "publishedAt": "Mon, 16 Nov 2026 22:14:30 GMT"
+    },
+    {
+      "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+      "description": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, according to the Boston Globe . Only 11 known Pearl Harbor survivors are still living, all of whom are centenarians.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+      "publishedAt": "Mon, 16 Nov 2026 22:10:51 GMT"
+    },
+    {
+      "title": "California braces for more towering waves as powerful storms approach",
+      "description": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50 to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south of San Francisco.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+      "publishedAt": "Mon, 16 Nov 2026 22:06:55 GMT"
+    },
+    {
+      "title": "California sues OpenAI over hacking risks",
+      "description": "The state&apos;s attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI&apos;s poor security practices.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "publishedAt": "Mon, 16 Nov 2026 17:06:22 -0500"
+    },
+    {
+      "title": "Customers report difficulty accessing online services at major US banks",
+      "description": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+      "publishedAt": "Mon, 16 Nov 2026 22:01:40 GMT"
+    }
+  ],
+  "headlinePool": [
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 22:21:27 GMT"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "description": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "publishedAt": "Mon, 16 Nov 2026 22:14:30 GMT"
+    },
+    {
+      "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+      "description": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, according to the Boston Globe . Only 11 known Pearl Harbor survivors are still living, all of whom are centenarians.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+      "publishedAt": "Mon, 16 Nov 2026 22:10:51 GMT"
+    },
+    {
+      "title": "California braces for more towering waves as powerful storms approach",
+      "description": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50 to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south of San Francisco.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+      "publishedAt": "Mon, 16 Nov 2026 22:06:55 GMT"
+    },
+    {
+      "title": "California sues OpenAI over hacking risks",
+      "description": "The state&apos;s attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI&apos;s poor security practices.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "publishedAt": "Mon, 16 Nov 2026 17:06:22 -0500"
+    },
+    {
+      "title": "Customers report difficulty accessing online services at major US banks",
+      "description": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+      "publishedAt": "Mon, 16 Nov 2026 22:01:40 GMT"
+    },
+    {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "description": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "publishedAt": "Mon, 16 Nov 2026 21:56:39 +0000"
+    },
+    {
+      "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+      "description": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+      "publishedAt": "Mon, 16 Nov 2026 21:41:10 GMT"
+    },
+    {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 21:40:07 GMT"
+    },
+    {
+      "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+      "description": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than eight-month-old war “militarily is effectively over”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+      "publishedAt": "Mon, 16 Nov 2026 21:13:02 GMT"
+    },
+    {
+      "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+      "description": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate The Quad leaders’ summit in the Philippines’ capital of Manila will be Trump’s first, in either of his presidencies. The US president, fresh from a crushing midterms result, will take centre stage in gatherings of Asian leaders and prepare for historic three-way talks with Xi Jinping of China and Russia’s Vladimir Putin this week. Sign up for Guardian Australia’s Politics, really newsletter here",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "publishedAt": "Mon, 16 Nov 2026 21:00:21 GMT"
+    },
+    {
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "description": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "publishedAt": "Mon, 16 Nov 2026 20:52:10 +0000"
+    },
+    {
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "publishedAt": "Mon, 16 Nov 2026 20:37:47 +0000"
+    },
+    {
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 20:33:57 GMT"
+    },
+    {
+      "title": "Comcast&#039;s \"fiber-powered Wi-Fi\" is just cable, AT&#038;T says in false advertising case",
+      "description": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "publishedAt": "Mon, 16 Nov 2026 20:27:58 +0000"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "npr",
+      "name": "NPR Top Stories",
+      "siteUrl": "https://www.npr.org/"
+    }
+  ],
+  "theme": "sunprint",
+  "layout": "poster",
+  "seed": "2026-11-16-45556621",
+  "generatedAt": "2026-11-16T22:25:13.091Z"
+}
