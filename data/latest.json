@@ -1,214 +1,219 @@
 {
-  "date": "2026-11-17",
-  "localDateLabel": "Tuesday, November 17, 2026",
-  "summary": "Today’s pulse tracks Russian military plane crashes killing all 19 on board, US loses measles elimination status after 26 years amid record case numbers, and NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live. Across BBC and Guardian, the strongest repeated signals are custody, texas, and diego. In the background, Eight-year-old Haitian boy returns home after release from ICE custody and Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays keep the wider picture in motion.",
+  "date": "2026-11-18",
+  "localDateLabel": "Wednesday, November 18, 2026",
+  "summary": "Today’s pulse tracks Windows Server 2028 public preview bets on a security-first approach, Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live, and Birmingham council granted interim ban on union jacks on lamp-posts. Across Ars Technica, Guardian, and BBC, the strongest repeated signals are council, military, and history. In the background, PlayStation suffers widespread network problems hours before release of GTA VI and Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Russian military plane crashes killing all 19 on board",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT"
+      "title": "Windows Server 2028 public preview bets on a security-first approach",
+      "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "publishedAt": "Wed, 18 Nov 2026 20:41:12 +0000"
     },
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:04:00 GMT"
-    },
-    {
-      "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-      "description": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC.",
+      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+      "description": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.”",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "publishedAt": "Tue, 17 Nov 2026 21:00:49 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "publishedAt": "Wed, 18 Nov 2026 20:33:13 GMT"
     },
     {
-      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-      "description": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California . Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in. He was separated from his loved ones and held in a facility in Texas. Today, he’s finally home.”",
+      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+      "description": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court judge Emma Kelly granted an interim injunction banning the placing of all flags on council-owned street furniture without prior permission in a judgment issued on Wednesday, Birmingham city council said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-      "publishedAt": "Tue, 17 Nov 2026 20:59:56 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+      "publishedAt": "Wed, 18 Nov 2026 20:32:58 GMT"
     },
     {
-      "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-      "description": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane US homeland security secretary Markwayne Mullin has defended his decision to fly in a private government to a college football game on Saturday as Americans weathered widespread flight delays and cancellations , saying: “We still got to live our life.” Mullin, a former US senator from Oklahoma, traveled on a government aircraft on Saturday to watch a football game between Louisiana State University and the University of Texas, the New York Post reported on Tuesday . The trip to Baton Rouge, Louisiana, came about a day after a four-hour ground stop that led to thousands of flights being delayed or cancelled – and an estimated 1.5 million people were stranded.",
+      "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+      "description": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history PlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI , one of the most eagerly anticipated titles in recent gaming history. The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
-      "publishedAt": "Tue, 17 Nov 2026 20:45:48 GMT"
+      "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+      "publishedAt": "Wed, 18 Nov 2026 20:28:42 GMT"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+      "description": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "publishedAt": "Wed, 18 Nov 2026 20:24:19 GMT"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:44:54 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Russian military plane crashes killing all 19 on board",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT"
-    },
-    {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:04:00 GMT"
-    },
-    {
-      "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-      "description": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "publishedAt": "Tue, 17 Nov 2026 21:00:49 GMT"
-    },
-    {
-      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-      "description": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California . Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in. He was separated from his loved ones and held in a facility in Texas. Today, he’s finally home.”",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-      "publishedAt": "Tue, 17 Nov 2026 20:59:56 GMT"
-    },
-    {
-      "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-      "description": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane US homeland security secretary Markwayne Mullin has defended his decision to fly in a private government to a college football game on Saturday as Americans weathered widespread flight delays and cancellations , saying: “We still got to live our life.” Mullin, a former US senator from Oklahoma, traveled on a government aircraft on Saturday to watch a football game between Louisiana State University and the University of Texas, the New York Post reported on Tuesday . The trip to Baton Rouge, Louisiana, came about a day after a four-hour ground stop that led to thousands of flights being delayed or cancelled – and an estimated 1.5 million people were stranded.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
-      "publishedAt": "Tue, 17 Nov 2026 20:45:48 GMT"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:44:54 GMT"
-    },
-    {
-      "title": "National Security Agency network for internal communications goes down",
-      "description": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance, after reports that its classified internal communications network had gone down. In a statement, the agency said some internal systems were affected but that “mission-critical capabilities remain fully operational” and its ability to defend national security continues. It said its infrastructure is built with “multiple layers of redundancy” to keep operations running during planned maintenance or unexpected events.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-      "publishedAt": "Tue, 17 Nov 2026 20:35:23 GMT"
-    },
-    {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "description": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "title": "Windows Server 2028 public preview bets on a security-first approach",
+      "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
       "sourceId": "ars",
       "sourceName": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "publishedAt": "Tue, 17 Nov 2026 20:32:55 +0000"
+      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "publishedAt": "Wed, 18 Nov 2026 20:41:12 +0000"
     },
     {
-      "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
-      "description": "Vice-chancellor halts proposed relocation from Stratford-upon-Avon but offers no guarantees over future The University of Birmingham has paused plans to move its much-loved Shakespeare Institute from Stratford-upon-Avon to its city campus after an outcry from scholars, actors and enthusiasts around the world. Prof Adam Tickell, the university’s vice-chancellor and principal, issued a statement on Tuesday evening saying proposals to relocate the institute and its renowned 60,000-volume library to the university’s Edgbaston campus would be put on hold while its future was explored.",
+      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+      "description": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.”",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
-      "publishedAt": "Tue, 17 Nov 2026 20:31:45 GMT"
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "publishedAt": "Wed, 18 Nov 2026 20:33:13 GMT"
     },
     {
-      "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
-      "description": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said. Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police ‌on 10 November in Gloucestershire over allegations relating ⁠to espionage.",
+      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+      "description": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court judge Emma Kelly granted an interim injunction banning the placing of all flags on council-owned street furniture without prior permission in a judgment issued on Wednesday, Birmingham city council said.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-      "publishedAt": "Tue, 17 Nov 2026 20:30:57 GMT"
+      "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+      "publishedAt": "Wed, 18 Nov 2026 20:32:58 GMT"
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+      "description": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history PlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI , one of the most eagerly anticipated titles in recent gaming history. The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+      "publishedAt": "Wed, 18 Nov 2026 20:28:42 GMT"
+    },
+    {
+      "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+      "description": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "publishedAt": "Wed, 18 Nov 2026 20:24:19 GMT"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:30:20 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT"
     },
     {
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:25:46 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 20:07:08 GMT"
     },
     {
-      "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-      "description": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George Donald Trump has nominated Gen Chris LaNeve to be the US army’s top officer, making permanent his interim service after defense secretary Pete Hegseth unexpectedly fired his predecessor in April. LaNeve had been serving as Hegseth’s senior military commander before his nomination for a fourth star and service as vice chief of staff of the army in February.",
+      "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+      "description": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing . Although she said there was no systematic or routine two-tier policing, the home secretary said “a new impartiality standard” was necessary to reverse the fall in the public’s faith in law enforcement.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-      "publishedAt": "Tue, 17 Nov 2026 20:21:58 GMT"
+      "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+      "publishedAt": "Wed, 18 Nov 2026 20:03:50 GMT"
     },
     {
-      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-      "description": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after taking over several Palestinian homes. Fadha Wadha was standing outside her home in al-Duyuk al-Tahta in the occupied West Bank when she was struck in the head by a bullet as Israeli settlers fired towards Palestinian houses, according to testimonies from residents. Several other Palestinians, including her son, were wounded by gunfire.",
+      "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+      "description": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the wealthy activist and philanthropist that were not in the original. Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-      "publishedAt": "Tue, 17 Nov 2026 20:21:48 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
+      "publishedAt": "Wed, 18 Nov 2026 19:45:30 GMT"
     },
     {
-      "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
-      "description": "Foreign affairs minister Penny Wong says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’ The sanctions prohibit Australians and Australian businesses from trading with or providing financial or other support to three individuals and four organisations.",
+      "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+      "description": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
-      "publishedAt": "Tue, 17 Nov 2026 20:20:31 GMT"
+      "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+      "publishedAt": "Wed, 18 Nov 2026 19:34:31 GMT"
+    },
+    {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "description": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\"",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "publishedAt": "Wed, 18 Nov 2026 19:31:17 +0000"
+    },
+    {
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "description": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "publishedAt": "Wed, 18 Nov 2026 19:19:33 +0000"
+    },
+    {
+      "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+      "description": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the state. Flood advisories have been issued for much of the Bay Area , according to the National Weather Service (NWS), while southern California may see coastal flooding, heavy surf, wave damage to coastal piers and parking lots , and beach sand erosion.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "publishedAt": "Wed, 18 Nov 2026 19:18:18 GMT"
+    },
+    {
+      "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+      "description": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said. European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+      "publishedAt": "Wed, 18 Nov 2026 19:17:19 GMT"
+    },
+    {
+      "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
+      "description": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging people to “lay off” Sean Duffy, the transportation secretary. “I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an event featuring aviation officials and lawmakers on Wednesday, Politico reported.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
+      "publishedAt": "Wed, 18 Nov 2026 19:14:38 GMT"
     }
   ],
   "sources": [
     {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
+      "id": "ars",
+      "name": "Ars Technica",
+      "siteUrl": "https://arstechnica.com/"
     },
     {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
   "theme": "sunprint",
-  "layout": "ticker",
-  "seed": "2026-11-17-45556622",
-  "generatedAt": "2026-11-17T21:12:40.328Z"
+  "layout": "orbit",
+  "seed": "2026-11-18-45556623",
+  "generatedAt": "2026-11-18T20:47:50.032Z"
 }
