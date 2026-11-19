@@ -1,210 +1,210 @@
 {
-  "date": "2026-11-18",
-  "localDateLabel": "Wednesday, November 18, 2026",
-  "summary": "Today’s pulse tracks Windows Server 2028 public preview bets on a security-first approach, Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live, and Birmingham council granted interim ban on union jacks on lamp-posts. Across Ars Technica, Guardian, and BBC, the strongest repeated signals are council, military, and history. In the background, PlayStation suffers widespread network problems hours before release of GTA VI and Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela keep the wider picture in motion.",
+  "date": "2026-11-19",
+  "localDateLabel": "Thursday, November 19, 2026",
+  "summary": "Today’s pulse tracks John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live, Man hired by Russia spied on Silicon Valley tech and defense company, feds say, and Senate Republicans rejects war powers bill to halt fighting in Iran. Across Guardian, Ars Technica, and BBC, the strongest repeated signals are republicans, senate, and election. In the background, Traumatized teens sue school, cops after Doritos bag triggers AI gun alert and Grand Theft Auto fans skip work and pull all-nighters to play new instalment keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Windows Server 2028 public preview bets on a security-first approach",
-      "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
+      "description": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+      "publishedAt": "Thu, 19 Nov 2026 20:34:08 GMT"
+    },
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
       "sourceId": "ars",
       "sourceName": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "publishedAt": "Wed, 18 Nov 2026 20:41:12 +0000"
+      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "publishedAt": "Thu, 19 Nov 2026 20:29:46 +0000"
     },
     {
-      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-      "description": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.”",
+      "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+      "description": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again defending a conflict that played a major role in their sweeping midterm election losses. The House of Representatives had approved the resolution in September, and it was the first to be voted on by either chamber since the 3 November vote in which the GOP lost control of both chambers of Congress beginning next year.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "publishedAt": "Wed, 18 Nov 2026 20:33:13 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+      "publishedAt": "Thu, 19 Nov 2026 20:24:09 GMT"
     },
     {
-      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-      "description": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court judge Emma Kelly granted an interim injunction banning the placing of all flags on council-owned street furniture without prior permission in a judgment issued on Wednesday, Birmingham city council said.",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "publishedAt": "Thu, 19 Nov 2026 20:19:28 +0000"
+    },
+    {
+      "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+      "description": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-      "publishedAt": "Wed, 18 Nov 2026 20:32:58 GMT"
+      "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+      "publishedAt": "Thu, 19 Nov 2026 20:07:23 GMT"
     },
     {
-      "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
-      "description": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history PlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI , one of the most eagerly anticipated titles in recent gaming history. The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-      "publishedAt": "Wed, 18 Nov 2026 20:28:42 GMT"
-    },
-    {
-      "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-      "description": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-      "publishedAt": "Wed, 18 Nov 2026 20:24:19 GMT"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Windows Server 2028 public preview bets on a security-first approach",
-      "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
+      "description": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+      "publishedAt": "Thu, 19 Nov 2026 20:34:08 GMT"
+    },
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
       "sourceId": "ars",
       "sourceName": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "publishedAt": "Wed, 18 Nov 2026 20:41:12 +0000"
+      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "publishedAt": "Thu, 19 Nov 2026 20:29:46 +0000"
     },
     {
-      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-      "description": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.”",
+      "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+      "description": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again defending a conflict that played a major role in their sweeping midterm election losses. The House of Representatives had approved the resolution in September, and it was the first to be voted on by either chamber since the 3 November vote in which the GOP lost control of both chambers of Congress beginning next year.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "publishedAt": "Wed, 18 Nov 2026 20:33:13 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+      "publishedAt": "Thu, 19 Nov 2026 20:24:09 GMT"
     },
     {
-      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-      "description": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court judge Emma Kelly granted an interim injunction banning the placing of all flags on council-owned street furniture without prior permission in a judgment issued on Wednesday, Birmingham city council said.",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "publishedAt": "Thu, 19 Nov 2026 20:19:28 +0000"
+    },
+    {
+      "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+      "description": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-      "publishedAt": "Wed, 18 Nov 2026 20:32:58 GMT"
+      "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+      "publishedAt": "Thu, 19 Nov 2026 20:07:23 GMT"
     },
     {
-      "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
-      "description": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history PlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI , one of the most eagerly anticipated titles in recent gaming history. The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-      "publishedAt": "Wed, 18 Nov 2026 20:28:42 GMT"
-    },
-    {
-      "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-      "description": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-      "publishedAt": "Wed, 18 Nov 2026 20:24:19 GMT"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT"
     },
     {
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+      "description": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court An outgoing Republican senator blocked one of Donald Trump ’s judicial nominations on Wednesday, throwing a wrench in the party’s plans to approve the US president’s picks before Democrats take control of Congress. John Cornyn of Texas, who is leaving the US Senate after nearly 24 years following his primary loss to a Trump-backed challenger, told the Associated Press he would not support T Elliot Gaiser, a 37-year-old official in the justice department, to serve on a district court in northern Texas.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+      "publishedAt": "Thu, 19 Nov 2026 20:03:58 GMT"
+    },
+    {
+      "title": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
+      "description": "Federal court rules providers can acknowledge gender identity and provide gender-affirming care The Trump administration cannot impose restrictions barring healthcare providers that receive certain federal HIV-treatment ⁠funds from acknowledging the gender identity ⁠of their transgender patients ​or from providing them with gender-affirming care, a federal judge ruled on Thursday. US district judge William Young in Boston sided with a group of national HIV medical associations and ⁠healthcare providers that challenged grant funding conditions imposed by the administration last year after Trump signed an executive order prohibiting federal funding for what he calls “gender ideology”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
+      "publishedAt": "Thu, 19 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "description": "\"Project Suncatcher is a long-term moonshot.\"",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "publishedAt": "Thu, 19 Nov 2026 19:52:54 +0000"
+    },
+    {
+      "title": "Judges have put Trump&apos;s arch and golf course on hold, but only for a matter of days",
+      "description": "A federal judge has twice delayed construction of Trump&apos;s arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+      "publishedAt": "Thu, 19 Nov 2026 14:46:27 -0500"
+    },
+    {
+      "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+      "description": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Stone died aged 75 on Wednesday surrounded by family after a long fight against glioblastoma, an aggressive form of brain cancer. She was minister for workforce participation from 2006-07.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+      "publishedAt": "Thu, 19 Nov 2026 19:44:24 GMT"
+    },
+    {
+      "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
+      "description": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet It has been a memorable few days for Wales. At the weekend, the men’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in more than 70 years. Then on Thursday evening came another culturally significant moment when Cardiff rolled out the red carpet to celebrate the first Welsh-language dub of the Star Wars franchise. Stars of stage and screen who voiced the words of Luke Skywalker, Darth Vader, C-3PO et al in Welsh (Cymraeg) over the original 1977 Star Wars film took the plaudits at the Cineworld Cardiff screening.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+      "publishedAt": "Thu, 19 Nov 2026 19:33:00 GMT"
+    },
+    {
+      "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+      "description": "Ministry of Justice weighs up comments issued through rapist’s wife as PM asks: ‘Why are we having to hear from him?’ The prison authorities are weighing up whether Russell Brand harassed his victims by issuing comments through his wife insisting he was not guilty of rape and sexual assault. After Andy Burnham called on Google to take down the statement from YouTube, a continuing Ministry of Justice inquiry is focusing on whether Brand has broken rules that are supposed to prevent “serious distress” to the victims of crime.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+      "publishedAt": "Thu, 19 Nov 2026 19:30:14 GMT"
+    },
+    {
+      "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
+      "description": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’ Politicians have described an attack on a councillor who was canvassing in Bradford as “horrific” and “deeply disturbing”, after a man was arrested on suspicion of attempted murder. A 32-year-old man is in custody suspected of attacking Ibrar Ali at about 11am on Thursday as the independent councillor was door-knocking in his Bradford Moor ward, leaving him with a stab wound in the leg.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+      "publishedAt": "Thu, 19 Nov 2026 19:18:56 GMT"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 20:07:08 GMT"
-    },
-    {
-      "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-      "description": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing . Although she said there was no systematic or routine two-tier policing, the home secretary said “a new impartiality standard” was necessary to reverse the fall in the public’s faith in law enforcement.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-      "publishedAt": "Wed, 18 Nov 2026 20:03:50 GMT"
-    },
-    {
-      "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
-      "description": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the wealthy activist and philanthropist that were not in the original. Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
-      "publishedAt": "Wed, 18 Nov 2026 19:45:30 GMT"
-    },
-    {
-      "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-      "description": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-      "publishedAt": "Wed, 18 Nov 2026 19:34:31 GMT"
-    },
-    {
-      "title": "Best Buy sells Blu-rays online and in-store again",
-      "description": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\"",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-      "publishedAt": "Wed, 18 Nov 2026 19:31:17 +0000"
-    },
-    {
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "description": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "publishedAt": "Wed, 18 Nov 2026 19:19:33 +0000"
-    },
-    {
-      "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
-      "description": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the state. Flood advisories have been issued for much of the Bay Area , according to the National Weather Service (NWS), while southern California may see coastal flooding, heavy surf, wave damage to coastal piers and parking lots , and beach sand erosion.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-      "publishedAt": "Wed, 18 Nov 2026 19:18:18 GMT"
-    },
-    {
-      "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-      "description": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said. European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-      "publishedAt": "Wed, 18 Nov 2026 19:17:19 GMT"
-    },
-    {
-      "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
-      "description": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging people to “lay off” Sean Duffy, the transportation secretary. “I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an event featuring aviation officials and lawmakers on Wednesday, Politico reported.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-      "publishedAt": "Wed, 18 Nov 2026 19:14:38 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 19:16:21 GMT"
     }
   ],
   "sources": [
     {
-      "id": "ars",
-      "name": "Ars Technica",
-      "siteUrl": "https://arstechnica.com/"
-    },
-    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "ars",
+      "name": "Ars Technica",
+      "siteUrl": "https://arstechnica.com/"
     },
     {
       "id": "bbc",
@@ -213,7 +213,7 @@
     }
   ],
   "theme": "sunprint",
-  "layout": "orbit",
-  "seed": "2026-11-18-45556623",
-  "generatedAt": "2026-11-18T20:47:50.032Z"
+  "layout": "poster",
+  "seed": "2026-11-19-45556624",
+  "generatedAt": "2026-11-19T20:53:09.934Z"
 }
