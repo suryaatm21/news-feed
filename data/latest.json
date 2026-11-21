@@ -1,198 +1,198 @@
 {
-  "date": "2026-11-20",
-  "localDateLabel": "Friday, November 20, 2026",
-  "summary": "Today’s pulse tracks Trump threatens ban on US firms building AI data centres overseas, NASA’s new Moon plan is taking shape, but some big questions remain, and Anthropic shares fall after blockbuster opening as wider tech sell-off continues. Across BBC, Ars Technica, and Guardian, the strongest repeated signals are dimon, increase, and unfair. In the background, Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too and Gérard Depardieu and French author investigated over sexual allegations keep the wider picture in motion.",
+  "date": "2026-11-21",
+  "localDateLabel": "Saturday, November 21, 2026",
+  "summary": "Today’s pulse tracks Fight over fossil fuels leaves COP31 climate talks in deadlock, Russia-bound ship attacked in Gulf of Finland, and ‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system. Across BBC and Guardian, the strongest repeated signals are health, arrested, and australian. In the background, Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation and Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 20:35:26 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 19:33:49 GMT"
     },
     {
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "publishedAt": "Fri, 20 Nov 2026 20:26:33 +0000"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "description": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 20:00:53 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "description": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "publishedAt": "Fri, 20 Nov 2026 19:52:59 +0000"
-    },
-    {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT"
-    },
-    {
-      "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-      "description": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair. Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”.",
+      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "description": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-      "publishedAt": "Fri, 20 Nov 2026 19:38:59 GMT"
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:08 GMT"
+    },
+    {
+      "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+      "description": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:07 GMT"
+    },
+    {
+      "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "description": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:06 GMT"
+    },
+    {
+      "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+      "description": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings A man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being arrested in Mississippi after a police chase, authorities allege. Jared Schurr, 36, faces counts of second-degree murder in the killings of Lizeht Rodriguez, 24, and Woodrow Scott, 37, on 11 and 13 November, respectively, investigators said on Saturday.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+      "publishedAt": "Sat, 21 Nov 2026 18:50:00 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 20:35:26 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 19:33:49 GMT"
     },
     {
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "publishedAt": "Fri, 20 Nov 2026 20:26:33 +0000"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "description": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 20:00:53 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "description": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "publishedAt": "Fri, 20 Nov 2026 19:52:59 +0000"
+      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "description": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:08 GMT"
     },
     {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+      "description": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:07 GMT"
+    },
+    {
+      "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "description": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+      "publishedAt": "Sat, 21 Nov 2026 19:00:06 GMT"
+    },
+    {
+      "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+      "description": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings A man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being arrested in Mississippi after a police chase, authorities allege. Jared Schurr, 36, faces counts of second-degree murder in the killings of Lizeht Rodriguez, 24, and Woodrow Scott, 37, on 11 and 13 November, respectively, investigators said on Saturday.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+      "publishedAt": "Sat, 21 Nov 2026 18:50:00 GMT"
+    },
+    {
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "description": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+      "publishedAt": "Sat, 21 Nov 2026 13:22:46 -0500"
+    },
+    {
+      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+      "description": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base. Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 against and one spoiled ballot.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+      "publishedAt": "Sat, 21 Nov 2026 18:20:37 GMT"
+    },
+    {
+      "title": "Mexico detains top cartel boss &apos;El Chapo Isidro,&apos; setting off violence",
+      "description": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI&apos;s most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+      "publishedAt": "Sat, 21 Nov 2026 13:08:55 -0500"
+    },
+    {
+      "title": "Trump orders contractors to check with White House over any congressional inquiries",
+      "description": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged, according to an executive order issued late Friday. The companies must also coordinate with the White House and US agencies on “appropriate responses” to any such requests, the order says. If they fail to comply, the White House warns, their contracts could be terminated and their future work with the federal government suspended.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+      "publishedAt": "Sat, 21 Nov 2026 18:08:30 GMT"
+    },
+    {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "description": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "publishedAt": "Sat, 21 Nov 2026 17:46:55 GMT"
+    },
+    {
+      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+      "description": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was essential for the US to go to war with the Islamic republic. In the White House briefing room, Trump was asked about reporting this week that he was unhappy with the US vice-president’s statement blaming Republican losses in the midterm elections on the Iran war.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+      "publishedAt": "Sat, 21 Nov 2026 17:24:51 GMT"
+    },
+    {
+      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+      "description": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "publishedAt": "Sat, 21 Nov 2026 16:39:49 GMT"
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "description": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "publishedAt": "Sat, 21 Nov 2026 16:36:11 GMT"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT"
-    },
-    {
-      "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-      "description": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair. Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-      "publishedAt": "Fri, 20 Nov 2026 19:38:59 GMT"
-    },
-    {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 19:27:49 GMT"
-    },
-    {
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-      "description": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "publishedAt": "Fri, 20 Nov 2026 19:21:50 +0000"
-    },
-    {
-      "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-      "description": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Culkin met with Disney executives earlier this year with a pitch for a follow-up and now the project has been met with a green light. The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline , will be from the father’s point of view.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-      "publishedAt": "Fri, 20 Nov 2026 19:18:20 GMT"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 19:03:56 GMT"
-    },
-    {
-      "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
-      "description": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s A chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing. Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-      "publishedAt": "Fri, 20 Nov 2026 19:00:11 GMT"
-    },
-    {
-      "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-      "description": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans In response to a Guardian investigation , four US Senate Democrats say they will work to resurrect a financial watchdog agency that has abandoned dozens of enforcement actions under the second Trump administration . The Guardian found that after the Consumer Financial Protection Bureau (CFPB) dropped more than 20 lawsuits against banks and corporations accused of a range of financial misconduct, complaints against those firms rose by an average of more than 75%. In many of these recent complaints, consumers described the same issues the CFPB’s suits had sought to address.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-      "publishedAt": "Fri, 20 Nov 2026 18:51:16 GMT"
-    },
-    {
-      "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-      "description": "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’ Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president’s party lose control of Congress. “This could be a referendum on President Trump,” Boebert said to the Associated Press in an interview published on Friday. “It could be the referendum on Congress or the Republican party. I think it’s all of it.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-      "publishedAt": "Fri, 20 Nov 2026 18:51:09 GMT"
-    },
-    {
-      "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-      "description": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-      "publishedAt": "Fri, 20 Nov 2026 18:36:30 GMT"
-    },
-    {
-      "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
-      "description": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request In a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even as Irish police raided a Dublin house owned by Chambers and his partner, Stella Schnabel, acting on a request from US authorities. Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-      "publishedAt": "Fri, 20 Nov 2026 18:34:13 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 16:35:15 GMT"
     }
   ],
   "sources": [
@@ -202,18 +202,13 @@
       "siteUrl": "https://www.bbc.com/news/world"
     },
     {
-      "id": "ars",
-      "name": "Ars Technica",
-      "siteUrl": "https://arstechnica.com/"
-    },
-    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
     }
   ],
   "theme": "citrus",
-  "layout": "ticker",
-  "seed": "2026-11-20-4555663a",
-  "generatedAt": "2026-11-20T20:38:32.684Z"
+  "layout": "orbit",
+  "seed": "2026-11-21-4555663b",
+  "generatedAt": "2026-11-21T19:38:33.385Z"
 }
