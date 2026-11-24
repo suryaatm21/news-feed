@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-24",
+  "localDateLabel": "Tuesday, November 24, 2026",
+  "summary": "Today’s pulse tracks Huawei found guilty of stealing trade secrets but acquitted of racketeering, Australian politics live: Coalition would look to repeal digital duty of care, Hastie says; inflation expected to climb, and Climate scientists urge US lawmakers to vote no on sweeping permitting bill. Across BBC and Guardian, the strongest repeated signals are trump, climate, and creatives. In the background, Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live and As US gears up for Thanksgiving, Iowa braces for controlled bomb blast keep the wider picture in motion.",
+  "headlines": [
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 22:24:23 GMT"
+    },
+    {
+      "title": "Australian politics live: Coalition would look to repeal digital duty of care, Hastie says; inflation expected to climb",
+      "description": "I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "publishedAt": "Tue, 24 Nov 2026 22:16:05 GMT"
+    },
+    {
+      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+      "description": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill. In an open letter to members of the House of Representatives , the collection of Earth and social sciences researchers expressed “deep concern” that the Bipartisan American Affordability and Jobs Act (or Baaja) weakens environmental laws, locks in new fossil fuel projects without recourse and delivers only minor cuts to planet-heating emissions.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+      "publishedAt": "Tue, 24 Nov 2026 22:09:57 GMT"
+    },
+    {
+      "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+      "description": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "publishedAt": "Tue, 24 Nov 2026 22:00:13 GMT"
+    },
+    {
+      "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
+      "description": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making materials, after the US army announced it would go through with plans for a controlled explosion on Wednesday. The detonation of 68 barrels of lead azide is now scheduled for 10am EST after being delayed several times over the past week amid public outcry and political wrangling.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+      "publishedAt": "Tue, 24 Nov 2026 21:49:07 GMT"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 21:19:42 GMT"
+    }
+  ],
+  "headlinePool": [
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 22:24:23 GMT"
+    },
+    {
+      "title": "Australian politics live: Coalition would look to repeal digital duty of care, Hastie says; inflation expected to climb",
+      "description": "I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "publishedAt": "Tue, 24 Nov 2026 22:16:05 GMT"
+    },
+    {
+      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+      "description": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill. In an open letter to members of the House of Representatives , the collection of Earth and social sciences researchers expressed “deep concern” that the Bipartisan American Affordability and Jobs Act (or Baaja) weakens environmental laws, locks in new fossil fuel projects without recourse and delivers only minor cuts to planet-heating emissions.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+      "publishedAt": "Tue, 24 Nov 2026 22:09:57 GMT"
+    },
+    {
+      "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+      "description": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "publishedAt": "Tue, 24 Nov 2026 22:00:13 GMT"
+    },
+    {
+      "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
+      "description": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making materials, after the US army announced it would go through with plans for a controlled explosion on Wednesday. The detonation of 68 barrels of lead azide is now scheduled for 10am EST after being delayed several times over the past week amid public outcry and political wrangling.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+      "publishedAt": "Tue, 24 Nov 2026 21:49:07 GMT"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "sourceId": "bbc",
+      "sourceName": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/world",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 21:19:42 GMT"
+    },
+    {
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.&apos;s biggest apple region",
+      "description": "Washington&apos;s $9 billion industry grows more than 70% of the nation&apos;s fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "publishedAt": "Tue, 24 Nov 2026 16:09:29 -0500"
+    },
+    {
+      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "description": "President says 15 people released and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men have been holding people hostage in a supermarket since early Tuesday morning in Cartagena, one of Colombia’s most popular tourist cities. The country’s president, Abelardo de la Espriella, said 30 people had initially been taken hostage, but five had been released, and hours later local media reported that another 10 had also been freed.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "publishedAt": "Tue, 24 Nov 2026 21:06:37 GMT"
+    },
+    {
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "description": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "publishedAt": "Tue, 24 Nov 2026 16:04:50 -0500"
+    },
+    {
+      "title": "What&#039;s going on with the Riemann hypothesis?",
+      "description": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "publishedAt": "Tue, 24 Nov 2026 20:34:53 +0000"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "description": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "publishedAt": "Tue, 24 Nov 2026 20:32:02 GMT"
+    },
+    {
+      "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+      "description": "Victory expands Democrats’ House majority, its largest advantage in three decades Democrat Victoria Broderick has won Tennessee’s fourth congressional district, unseating eight-term Republican incumbent Scott DesJarlais in one of the biggest House upsets of the cycle. The victory expands Democrats’ historic House majority in the 120th Congress to 259 seats, the party’s largest advantage in three decades , and flips a seat that Donald Trump carried by more than 20 points in 2024. Broderick, 34, a former technology and logistics professional who previously ran for Congress in 2024, told the Guardian in an interview before her race was called that she connected with constituents who had not voted in years and met Republicans concerned about affordability who appreciated the “integrity” she brought to the race.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
+      "publishedAt": "Tue, 24 Nov 2026 20:20:24 GMT"
+    },
+    {
+      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+      "description": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+      "publishedAt": "Tue, 24 Nov 2026 20:04:50 GMT"
+    },
+    {
+      "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+      "description": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim Hundreds of thousands of people face losing their disability benefits under plans being considered by ministers as part of a shake-up of the welfare system. Officials are drawing up plans to redesign the personal independence payment (Pip) system for adults in England and Wales after the work and pensions minister, Stephen Timms, deemed it “no longer fit for purpose”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
+      "publishedAt": "Tue, 24 Nov 2026 20:00:31 GMT"
+    },
+    {
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "description": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "publishedAt": "Tue, 24 Nov 2026 20:00:18 +0000"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    }
+  ],
+  "theme": "citrus",
+  "layout": "orbit",
+  "seed": "2026-11-24-4555663e",
+  "generatedAt": "2026-11-24T22:40:23.155Z"
+}
