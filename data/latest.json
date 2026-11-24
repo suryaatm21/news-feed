@@ -1,214 +1,219 @@
 {
-  "date": "2026-11-22",
-  "localDateLabel": "Sunday, November 22, 2026",
-  "summary": "Today’s pulse tracks Explosion on Russian ship at Libya port caused by suspected drone attack, officials say, Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says, and Democrats capture at least 258 House seats in largest sweep since 1992. Across BBC and Guardian, the strongest repeated signals are attack, officials, and russian. In the background, Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds and What's next after no deal at COP31 climate talks keep the wider picture in motion.",
+  "date": "2026-11-23",
+  "localDateLabel": "Monday, November 23, 2026",
+  "summary": "Today’s pulse tracks Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live, Federal court clears way for army to detonate bomb-making material in Iowa, and Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death. Across Guardian, BBC, and NPR, the strongest repeated signals are jensen, nvidia, and trump. In the background, US to blacklist Asian AI firm Megaspeed after Nvidia scandal and Butt of the joke: Trump impersonator mocks president at Canada press dinner keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "description": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World!",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "publishedAt": "Mon, 23 Nov 2026 23:52:36 GMT"
+    },
+    {
+      "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+      "description": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns A federal appeals court cleared way for the US army to detonate several tons of degraded bomb-making material at an Iowa ammunition plant, hours after Donald Trump halted the planned demolition and urged the court to first sign off on what he called the safest way to resolve the situation. “I feel the proper course is to get rid of this longterm problem but, at the same time, have ordered the Military not to do so until such time as the Eighth Circuit agrees that we can go forward, and am further making this decision fully subject to the incoming Governor-Elect, Rob Sand, agreeing to the operation,” Trump said in a Truth Social post .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "publishedAt": "Mon, 23 Nov 2026 23:51:19 GMT"
+    },
+    {
+      "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death",
+      "description": "Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "publishedAt": "Mon, 23 Nov 2026 23:42:49 GMT"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 19:52:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 23:16:08 GMT"
     },
     {
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "description": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom.",
+      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "description": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "publishedAt": "Sun, 22 Nov 2026 19:34:59 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "publishedAt": "Mon, 23 Nov 2026 22:41:48 GMT"
     },
     {
-      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-      "description": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-      "publishedAt": "Sun, 22 Nov 2026 19:17:56 GMT"
-    },
-    {
-      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-      "description": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-      "publishedAt": "Sun, 22 Nov 2026 19:00:34 GMT"
-    },
-    {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:57:24 GMT"
-    },
-    {
-      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The strike severely damaged the Merkury, a Russian navy warship, and ignited a fire at the naval base, they said. Several Ukrainian sea drones were launched at the ship from a base run by Ukrainian forces in western Libya, according to an initial investigation into the attack. At least four drones were intercepted and destroyed, while two hit the warship, the officials told the Associated Press.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "publishedAt": "Sun, 22 Nov 2026 18:50:56 GMT"
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "description": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez&apos;s actions violated House rules by \"making unwelcome sexual advances.\"",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "publishedAt": "Mon, 23 Nov 2026 17:29:53 -0500"
     }
   ],
   "headlinePool": [
     {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "description": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World!",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "publishedAt": "Mon, 23 Nov 2026 23:52:36 GMT"
+    },
+    {
+      "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+      "description": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns A federal appeals court cleared way for the US army to detonate several tons of degraded bomb-making material at an Iowa ammunition plant, hours after Donald Trump halted the planned demolition and urged the court to first sign off on what he called the safest way to resolve the situation. “I feel the proper course is to get rid of this longterm problem but, at the same time, have ordered the Military not to do so until such time as the Eighth Circuit agrees that we can go forward, and am further making this decision fully subject to the incoming Governor-Elect, Rob Sand, agreeing to the operation,” Trump said in a Truth Social post .",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "publishedAt": "Mon, 23 Nov 2026 23:51:19 GMT"
+    },
+    {
+      "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death",
+      "description": "Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "publishedAt": "Mon, 23 Nov 2026 23:42:49 GMT"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 19:52:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 23:16:08 GMT"
     },
     {
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "description": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom.",
+      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "description": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "publishedAt": "Sun, 22 Nov 2026 19:34:59 GMT"
+      "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "publishedAt": "Mon, 23 Nov 2026 22:41:48 GMT"
     },
     {
-      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-      "description": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-      "publishedAt": "Sun, 22 Nov 2026 19:17:56 GMT"
-    },
-    {
-      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-      "description": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-      "publishedAt": "Sun, 22 Nov 2026 19:00:34 GMT"
-    },
-    {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:57:24 GMT"
-    },
-    {
-      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The strike severely damaged the Merkury, a Russian navy warship, and ignited a fire at the naval base, they said. Several Ukrainian sea drones were launched at the ship from a base run by Ukrainian forces in western Libya, according to an initial investigation into the attack. At least four drones were intercepted and destroyed, while two hit the warship, the officials told the Associated Press.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "publishedAt": "Sun, 22 Nov 2026 18:50:56 GMT"
-    },
-    {
-      "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-      "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and are being forced to make “unpalatable” cuts to services and staff, the Guardian can reveal. Thirty-one health service trusts in England have issued stark warnings that NHS demands for them to make huge budget savings this year threaten their ability to function normally. All have declared that as a threat in the register of risks they have to maintain and publish.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-      "publishedAt": "Sun, 22 Nov 2026 18:45:30 GMT"
-    },
-    {
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:29:46 GMT"
-    },
-    {
-      "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-      "description": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so. Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump’s second presidency.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-      "publishedAt": "Sun, 22 Nov 2026 18:25:42 GMT"
-    },
-    {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:17:59 GMT"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 17:57:43 GMT"
-    },
-    {
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "description": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "publishedAt": "Sun, 22 Nov 2026 17:55:27 GMT"
-    },
-    {
-      "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
-      "description": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand Laura Gallacher, Russell Brand’s wife, has promised to “absolutely honour” rules set by the prison where her convicted sex offender husband is being held, in another YouTube video published on Sunday. This week Andy Burnham called on Google to take down a video uploaded to Brand’s YouTube channel last Sunday that contained a statement from the disgraced comedian in prison, where he is serving a 10-and-a-half-year sentence for rape and sexual assaults.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-      "publishedAt": "Sun, 22 Nov 2026 17:49:12 GMT"
-    },
-    {
-      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-      "description": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "description": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez&apos;s actions violated House rules by \"making unwelcome sexual advances.\"",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-      "publishedAt": "Sun, 22 Nov 2026 12:44:52 -0500"
+      "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "publishedAt": "Mon, 23 Nov 2026 17:29:53 -0500"
     },
     {
-      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
-      "description": "South Africa is working to overcome a children&apos;s literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+      "description": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall . Speaking on Monday shortly after Nvidia’s surprise announcement that Huang had been restored to the top job – less than two weeks after he resigned – Trump said that he had “convinced” the board to do it. “I made the deal,” he told CNBC. Huang had resigned after reports of extramarital affairs, including with an alleged Chinese spy and two Nvidia employees.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "publishedAt": "Mon, 23 Nov 2026 22:23:40 GMT"
+    },
+    {
+      "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+      "description": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had “engaged in sexual misconduct”, including by “making unwelcome sexual advances and sexual contact toward a House staffer”. The 19-page report from the House ethics committee found that Gomez “made unwanted sexual advances” toward a House staffer on two occasions, “including an incident in which he made sexual contact with her and another in which he was ‘forceful’ with her in his congressional office”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+      "publishedAt": "Mon, 23 Nov 2026 22:21:45 GMT"
+    },
+    {
+      "title": "They attended Trump&apos;s controversial meme coin dinner. It didn&apos;t go well",
+      "description": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here&apos;s an inside account from two guests who attended.",
       "sourceId": "npr",
       "sourceName": "NPR Top Stories",
       "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-      "publishedAt": "Sun, 22 Nov 2026 12:34:20 -0500"
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+      "publishedAt": "Mon, 23 Nov 2026 17:17:59 -0500"
+    },
+    {
+      "title": "Some women in tech have concerns about Huang&apos;s return",
+      "description": "Women who have advocated for DEI in tech say Jensen Huang&apos;s return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+      "publishedAt": "Mon, 23 Nov 2026 17:03:57 -0500"
+    },
+    {
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "description": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "publishedAt": "Mon, 23 Nov 2026 21:58:34 +0000"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "description": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "sourceId": "ars",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "publishedAt": "Mon, 23 Nov 2026 21:30:44 +0000"
+    },
+    {
+      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+      "description": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate its chief executive, Jensen Huang, even after Donald Trump said he spoke “directly and indirectly” with board members and “convinced them” to bring him back. Pete Ricketts, a US senator from Nebraska, wrote on X that Huang’s “behavior does not support reinstatement”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "publishedAt": "Mon, 23 Nov 2026 21:09:10 GMT"
+    },
+    {
+      "title": "Iranian singer and four others receive lashes after performance without hijab",
+      "description": "Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by producing and ⁠publishing obscene and ⁠immoral ​content online”, an Iranian news website said on Monday. Parastoo Ahmadi and the four ⁠others were also handed two-year bans on artistic and musical activities and travel, the Emtedad website ⁠quoted lawyer Mostafa Nili as saying.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+      "publishedAt": "Mon, 23 Nov 2026 20:56:17 GMT"
+    },
+    {
+      "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+      "description": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what&apos;s going on. You might be asked to participate in a possible upcoming segment on All Things Considered.",
+      "sourceId": "npr",
+      "sourceName": "NPR Top Stories",
+      "sourceUrl": "https://www.npr.org/",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+      "publishedAt": "Mon, 23 Nov 2026 15:53:12 -0500"
     }
   ],
   "sources": [
+    {
+      "id": "guardian",
+      "name": "The Guardian World",
+      "siteUrl": "https://www.theguardian.com/world"
+    },
     {
       "id": "bbc",
       "name": "BBC World",
       "siteUrl": "https://www.bbc.com/news/world"
     },
     {
-      "id": "guardian",
-      "name": "The Guardian World",
-      "siteUrl": "https://www.theguardian.com/world"
+      "id": "npr",
+      "name": "NPR Top Stories",
+      "siteUrl": "https://www.npr.org/"
     }
   ],
   "theme": "citrus",
-  "layout": "poster",
-  "seed": "2026-11-22-4555663c",
-  "generatedAt": "2026-11-22T19:54:23.642Z"
+  "layout": "ticker",
+  "seed": "2026-11-23-4555663d",
+  "generatedAt": "2026-11-24T00:10:55.086Z"
 }
