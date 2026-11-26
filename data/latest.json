@@ -1,214 +1,214 @@
 {
-  "date": "2026-11-25",
-  "localDateLabel": "Wednesday, November 25, 2026",
-  "summary": "Today’s pulse tracks North Korea expels Swiss diplomat in sanctions row, Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31, and US stocks fall further as fears over AI intensify. Across BBC and Guardian, the strongest repeated signals are duran, nation, and senator. In the background, Andy Taylor, guitarist in Duran Duran, dies aged 65 and Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk keep the wider picture in motion.",
+  "date": "2026-11-26",
+  "localDateLabel": "Thursday, November 26, 2026",
+  "summary": "Today’s pulse tracks Southern and central Australia face summer of heightened bushfire risk and heatwaves, Two Italians killed in strike in Kuwait, as Iran denies responsibility, and Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters. Across Guardian and BBC, the strongest repeated signals are australia, since, and country. In the background, ‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations and Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says keep the wider picture in motion.",
   "headlines": [
     {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:51:17 GMT"
-    },
-    {
-      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-      "description": "Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor .",
+      "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+      "description": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions – according to the seasonal outlook from the Australian and New Zealand Council for Fire and Emergency Services (AFAC), released on Friday.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:41 GMT"
+      "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+      "publishedAt": "Thu, 26 Nov 2026 21:33:36 GMT"
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
-      "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-      "description": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame.",
+      "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+      "description": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports The opposition voted with the government in the Senate on Thursday night in a late sitting, giving Labor the numbers it needed. Sign up for Guardian Australia’s Politics, really newsletter here",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-      "publishedAt": "Wed, 25 Nov 2026 21:41:34 GMT"
+      "link": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "publishedAt": "Thu, 26 Nov 2026 20:58:12 GMT"
     },
     {
-      "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
-      "description": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says The blaze on Flinders Island in Bass Strait spread significantly on Wednesday after being started by lightning strikes.",
+      "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+      "description": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-      "publishedAt": "Wed, 25 Nov 2026 21:32:12 GMT"
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+      "publishedAt": "Thu, 26 Nov 2026 20:33:26 GMT"
     },
     {
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "description": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:25:14 GMT"
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "description": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and a struggle to find food, clean water and shelter. On Wednesday, Gaza’s ministry of education said: “Palestinian students had been targeted for the third time in less than 24 hours, in an escalation reflecting the continued Israeli violations against children in the Gaza Strip. The number of schoolchildren killed since the beginning of November has now risen to 16.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "publishedAt": "Thu, 26 Nov 2026 20:33:07 GMT"
+    },
+    {
+      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+      "publishedAt": "Thu, 26 Nov 2026 20:01:47 GMT"
     }
   ],
   "headlinePool": [
     {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+      "description": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions – according to the seasonal outlook from the Australian and New Zealand Council for Fire and Emergency Services (AFAC), released on Friday.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+      "publishedAt": "Thu, 26 Nov 2026 21:33:36 GMT"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:51:17 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
-      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-      "description": "Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor .",
+      "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+      "description": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports The opposition voted with the government in the Senate on Thursday night in a late sitting, giving Labor the numbers it needed. Sign up for Guardian Australia’s Politics, really newsletter here",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:41 GMT"
+      "link": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "publishedAt": "Thu, 26 Nov 2026 20:58:12 GMT"
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+      "description": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+      "publishedAt": "Thu, 26 Nov 2026 20:33:26 GMT"
+    },
+    {
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "description": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and a struggle to find food, clean water and shelter. On Wednesday, Gaza’s ministry of education said: “Palestinian students had been targeted for the third time in less than 24 hours, in an escalation reflecting the continued Israeli violations against children in the Gaza Strip. The number of schoolchildren killed since the beginning of November has now risen to 16.”",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "publishedAt": "Thu, 26 Nov 2026 20:33:07 GMT"
+    },
+    {
+      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+      "publishedAt": "Thu, 26 Nov 2026 20:01:47 GMT"
+    },
+    {
+      "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
+      "description": "‘Depraved’ predator attacked victim while she was under the influence of sleeping tablets he had given her A man has been jailed for 12 years for drugging his long-term partner and sexually assaulting her while she slept. The man, who is in his 30s and from Nottingham, cannot be named in order to protect the identity of his victim. At a hearing in June, he admitted sexually assaulting the woman on multiple occasions while she was under the influence of sleeping pills.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
+      "publishedAt": "Thu, 26 Nov 2026 19:54:05 GMT"
+    },
+    {
+      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+      "description": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+      "publishedAt": "Thu, 26 Nov 2026 19:41:37 GMT"
+    },
+    {
+      "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+      "description": "Labour is jubilant it has got numbers down to levels the Tories could not but it was helped by factors beyond its control Net migration to UK falls to lowest level since 1997 excluding pandemic David Cameron was the leader of the opposition when he made a comment on overall migration that was used to interrogate every Tory leader for the next 14 years. Asked in January 2010 on the BBC by the interviewer Andrew Marr to address comments made by the archbishop of Canterbury calling for the population to remain under 70 million, Cameron said net immigration levels of 200,000 a year were “too much”.",
+      "sourceId": "guardian",
+      "sourceName": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+      "publishedAt": "Thu, 26 Nov 2026 19:38:26 GMT"
+    },
+    {
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
       "sourceId": "bbc",
       "sourceName": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 19:26:16 GMT"
     },
     {
-      "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-      "description": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame.",
+      "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
+      "description": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the House An industry-backed “permitting bill” approved by the US Senate would gut key clean water protections with changes that would do little to speed up the development of major energy projects, advocates warn. The Bipartisan American Affordability and Jobs Act of 2026 (Baaja) passed the Senate 62-33 and is now being debated in the House. The Baaja is a “permitting reform” bill that aims to reduce the time it takes federal agencies to approve major energy and infrastructure projects, like power lines, fossil fuel pipelines, natural gas plants and datacenters .",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-      "publishedAt": "Wed, 25 Nov 2026 21:41:34 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+      "publishedAt": "Thu, 26 Nov 2026 19:16:35 GMT"
     },
     {
-      "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
-      "description": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says The blaze on Flinders Island in Bass Strait spread significantly on Wednesday after being started by lightning strikes.",
+      "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+      "description": "Notebooks, clothes and ritual objects taken by British forces in India in the 1930s go on show at Pitt Rivers Museum In 1932, British forces in north-east India imprisoned a 17-year-old girl called Gaidinliu for leading an uprising against colonial rule. While pursuing the freedom fighter through hills and valleys in the homeland of the Naga people, colonial officers also seized some of her most treasured possessions. They were sent to the University of Oxford’s Pitt Rivers Museum and kept in storage. Now, for the first time, the museum is exhibiting the collection of 27 items, including a basket of Gaidinliu’s notebooks believed to contain her prophetic visions as the leader of a Naga Indigenous religion, clothes, bracelets and amulets.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-      "publishedAt": "Wed, 25 Nov 2026 21:32:12 GMT"
+      "link": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
+      "publishedAt": "Thu, 26 Nov 2026 19:03:47 GMT"
     },
     {
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "description": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "sourceId": "bbc",
-      "sourceName": "BBC World",
-      "sourceUrl": "https://www.bbc.com/news/world",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:25:14 GMT"
-    },
-    {
-      "title": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
-      "description": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to Saturday New York City’s Macy’s Thanksgiving Day parade has been postponed due to excessively windy weather and will now be held on Saturday. Forecasters say an impending storm on Thursday may spoil the street party, which is marked by a march of huge balloons. AccuWeather is forecasting winds of 12 to 25 mph (19 to 40 km/h) and rain later on Thursday.",
+      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+      "description": "Football’s governing body says hackers accessed a limited set of personal and business data Fifa confirmed that hackers gained access to a “limited set of personal and business information” in a cyber-attack, amid heightened concern over digital vulnerabilities of leading organizations and institutions. The global soccer governing body said it “condemns in the strongest possible terms the unlawful acquisition and publication of information, particularly personal data”, in a statement to the Associated Press on Thursday. “Such actions constitute a serious and unacceptable violation of privacy and can have significant consequences for the individuals concerned.”",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
-      "publishedAt": "Wed, 25 Nov 2026 21:08:45 GMT"
+      "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+      "publishedAt": "Thu, 26 Nov 2026 18:45:44 GMT"
     },
     {
-      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-      "description": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community. We focus on Sarah Mason, who started Little Free Bakery North Loop in her Austin neighborhood and Lanne Rosebrook Stauffer, who founded the first Little Free Bakery in Seattle and just celebrated five years of weekly bakes.",
-      "sourceId": "npr",
-      "sourceName": "NPR Top Stories",
-      "sourceUrl": "https://www.npr.org/",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
-      "publishedAt": "Wed, 25 Nov 2026 16:02:58 -0500"
-    },
-    {
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "description": "The pitch is an unusual combination of privacy promises and AI features.",
-      "sourceId": "ars",
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/",
-      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "publishedAt": "Wed, 25 Nov 2026 20:57:09 +0000"
-    },
-    {
-      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
-      "description": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust.",
+      "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+      "description": "Latest figure of young people not in education, employment or training remains close to highest level in a decade Business live – latest updates UK politics live – latest updates The number of young people across the UK not in education, employment or training (Neet) has decreased but remains close to a million as Andy Burnham’s government pushes to tackle Britain’s youth jobs crisis. As ministers prepare to make sweeping changes in response to Alan Milburn’s landmark report on young people and work, the Office for National Statistics said the number of Neets fell by 22,000 in the three months to September, to 959,000.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-      "publishedAt": "Wed, 25 Nov 2026 20:55:05 GMT"
+      "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+      "publishedAt": "Thu, 26 Nov 2026 18:43:13 GMT"
     },
     {
-      "title": "Liberal senator Leah Blyth announces defection to One Nation",
-      "description": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Sign up for Guardian Australia’s Politics, really newsletter here",
+      "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
+      "description": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said. Flu and other winter viruses including Covid pose such a threat that hospital bosses should consider telling staff and visitors to wear masks, Jim Mackey said, as figures showed rates of admissions to hospital with flu were at the highest for the time of year since before Covid.",
       "sourceId": "guardian",
       "sourceName": "The Guardian World",
       "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-      "publishedAt": "Wed, 25 Nov 2026 20:50:15 GMT"
-    },
-    {
-      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-      "description": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port city of Cartagena to follow the final hours of negotiations and the tactical assault, in which special forces officers broke through blocked entrances and detonated stun grenades.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-      "publishedAt": "Wed, 25 Nov 2026 20:20:23 GMT"
-    },
-    {
-      "title": "Judge orders transfer of Thomas Markle to face formal charges in California",
-      "description": "Father of the Duchess of Sussex currently being held in Florida is charged with possession of child pornography A judge in the US has ordered the transfer of Thomas Markle, the Duchess of Sussex’s father, to California to face formal charges of possessing child sex abuse images. The move comes after a federal grand jury on the west coast paved the way for the prosecution of Markle Sr, who is currently being held in custody in Florida. He was charged with two counts of possession of child pornography.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california",
-      "publishedAt": "Wed, 25 Nov 2026 20:06:57 GMT"
-    },
-    {
-      "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
-      "description": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking tides this week and authorities have urged residents to avoid beaches, but not everyone is heeding those warnings. In Cannon Beach, Oregon , viral footage showed a man and his dog nearly getting swept away by a so-called king tide on Tuesday morning. The man had been standing on a staircase holding his leashed dog, who was walking in the sand, when the water suddenly surged, knocking him to his feet.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
-      "publishedAt": "Wed, 25 Nov 2026 20:03:53 GMT"
-    },
-    {
-      "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
-      "description": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meat Inspectors found salmonella bacteria in more than a third of ground or chopped turkey samples at slaughterhouses owned by Butterball, the US’s biggest turkey company, data shows. The US Department of Agriculture’s (USDA) food safety and inspection service (FSIS) and some states conduct regular checks for salmonella and other bacteria in commercial poultry plants. Salmonella can live in the intestines of poultry, and it can cause nausea, diarrhea and even death in humans if meat is not cooked properly and then consumed.",
-      "sourceId": "guardian",
-      "sourceName": "The Guardian World",
-      "sourceUrl": "https://www.theguardian.com/world",
-      "link": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
-      "publishedAt": "Wed, 25 Nov 2026 20:00:34 GMT"
+      "link": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+      "publishedAt": "Thu, 26 Nov 2026 18:27:49 GMT"
     }
   ],
   "sources": [
     {
-      "id": "bbc",
-      "name": "BBC World",
-      "siteUrl": "https://www.bbc.com/news/world"
-    },
-    {
       "id": "guardian",
       "name": "The Guardian World",
       "siteUrl": "https://www.theguardian.com/world"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC World",
+      "siteUrl": "https://www.bbc.com/news/world"
     }
   ],
-  "theme": "citrus",
-  "layout": "poster",
-  "seed": "2026-11-25-4555663f",
-  "generatedAt": "2026-11-25T21:55:03.420Z"
+  "theme": "nocturne",
+  "layout": "ticker",
+  "seed": "2026-11-26-45556640",
+  "generatedAt": "2026-11-26T21:48:28.307Z"
 }
